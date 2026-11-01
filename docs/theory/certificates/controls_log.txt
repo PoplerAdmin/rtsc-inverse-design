@@ -1,0 +1,10 @@
+(1) m0=1.0001 g(3), cell at w_E            got False expected False ok
+(1b) m0=0.9999 g(3), same cell             got True  expected True  ok
+(2) inf, m0=1.0001 g(inf), [0,2^-6]        got False expected False ok
+(2b) inf, m0=0.9999 g(inf), [0,2^-6]       got True  expected True  ok
+(3) m0=0.9999 g(3), beta=0, [0,2^-6]       got False expected False ok
+(4) w=0.7 max|arb - build_M| = 1.42e-14
+(4) w=3.3 max|arb - build_M| = 1.42e-14
+(4) w=9 max|arb - build_M| = 1.42e-14
+(5) max float rho, 400 random spectra (lambda<=3, m<=m0): -0.0664
+CONTROLS OK

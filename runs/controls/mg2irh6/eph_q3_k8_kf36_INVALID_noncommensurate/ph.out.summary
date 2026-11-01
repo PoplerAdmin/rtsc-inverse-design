@@ -1,0 +1,482 @@
+     number of k points=    29  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :      0.89s CPU      1.09s WALL
+     Pert. #  1: Fermi energy shift (Ry) =     9.3010E-03    -1.2117E-27
+     Pert. #  1: Fermi energy shift (Ry) =     2.1755E-01     7.7548E-26
+     Pert. #  1: Fermi energy shift (Ry) =     4.6520E-02    -2.0680E-25
+     Pert. #  1: Fermi energy shift (Ry) =     6.0612E-02    -4.0390E-28
+     Pert. #  1: Fermi energy shift (Ry) =     6.0544E-02    -6.0585E-28
+     Pert. #  1: Fermi energy shift (Ry) =     6.0244E-02    -1.6156E-27
+     Pert. #  1: Fermi energy shift (Ry) =     6.0239E-02    -6.0585E-28
+     Pert. #  1: Fermi energy shift (Ry) =     1.4456E-19     9.8651E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -2.0961E-18    -1.3452E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.8793E-18    -1.9730E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.5902E-18     2.6905E-42
+     Pert. #  1: Fermi energy shift (Ry) =     5.0596E-19     4.7831E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -3.3249E-18     0.0000E+00
+     Pert. #  1: Fermi energy shift (Ry) =     1.3010E-18     8.9683E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -4.3368E-19    -5.5305E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.4456E-19     1.2145E-44
+     Pert. #  2: Fermi energy shift (Ry) =     3.6501E-18    -2.7092E-44
+     Pert. #  1: Fermi energy shift (Ry) =     9.3964E-19    -2.4756E-44
+     Pert. #  2: Fermi energy shift (Ry) =     6.8666E-19    -2.0085E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -1.4456E-19     2.6938E-39
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20     2.9387E-39
+     Pert. #  3: Fermi energy shift (Ry) =     2.9816E-19     1.5918E-39
+     Pert. #  1: Fermi energy shift (Ry) =     2.5298E-19    -2.3915E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -1.4456E-19    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -4.5175E-20    -1.2556E-42
+     Pert. #  1: Fermi energy shift (Ry) =     3.2526E-19    -5.2315E-44
+     Pert. #  2: Fermi energy shift (Ry) =     3.6140E-20     1.1210E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -1.4456E-19     6.2591E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -3.2526E-19    -1.8684E-45
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20    -9.3420E-45
+     Pert. #  3: Fermi energy shift (Ry) =     2.7105E-20     5.3249E-44
+     Pert. #  1: Fermi energy shift (Ry) =     5.2403E-19    -3.9461E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -5.0596E-19    -1.9132E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -6.5730E-19    -4.0656E-42
+     Pert. #  1: Fermi energy shift (Ry) =     5.4210E-20     1.3393E-41
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00    -3.8265E-42
+     Pert. #  3: Fermi energy shift (Ry) =     6.4487E-19     8.3585E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -2.5298E-19     1.1360E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20    -1.1958E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.4846E-20     2.7316E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -3.4333E-19     6.7262E-44
+     Pert. #  2: Fermi energy shift (Ry) =     2.1684E-19     8.9683E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.3430E-19     8.6787E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.0842E-19     8.4078E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -2.8912E-19    -3.7368E-44
+     Pert. #  3: Fermi energy shift (Ry) =     5.8276E-19    -4.2039E-45
+     Pert. #  1: Fermi energy shift (Ry) =    -3.7044E-19    -1.0276E-44
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00    -1.4947E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -1.3982E-18    -2.7559E-44
+     Pert. #  1: Fermi energy shift (Ry) =     0.0000E+00    -3.1090E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.5902E-18    -4.7831E-43
+     Pert. #  3: Fermi energy shift (Ry) =     6.3607E-18    -1.1479E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -5.0596E-19     7.6530E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     3.4438E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -2.0058E-18     1.9132E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -2.4395E-19    -5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.0842E-19    -7.6530E-42
+     Pert. #  3: Fermi energy shift (Ry) =     4.6982E-19    -6.6963E-41
+     Pert. #  1: Fermi energy shift (Ry) =     3.0719E-19     6.2778E-43
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00    -4.1852E-43
+     Pert. #  3: Fermi energy shift (Ry) =     4.2013E-19    -6.5768E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.0842E-19    -7.4736E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -1.3553E-19    -2.9894E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.6140E-19    -8.5199E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -2.7105E-19    -2.4289E-44
+     Pert. #  2: Fermi energy shift (Ry) =     1.7167E-19     1.8684E-45
+     Pert. #  3: Fermi energy shift (Ry) =     2.7557E-19     4.3907E-44
+     Pert. #  1: Fermi energy shift (Ry) =     4.5175E-20    -3.7368E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -1.8070E-20    -7.4736E-45
+     Pert. #  3: Fermi energy shift (Ry) =     1.6715E-19     5.2315E-44
+     Pert. #  1: Fermi energy shift (Ry) =     1.1417E-25    -9.4040E-38
+     Pert. #  2: Fermi energy shift (Ry) =    -3.6512E-25    -1.0971E-37
+     Pert. #  3: Fermi energy shift (Ry) =     4.9545E-26     1.8808E-37
+     Pert. #  1: Fermi energy shift (Ry) =     0.0000E+00    -4.5918E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -1.5617E-26    -3.2525E-41
+     Pert. #  3: Fermi energy shift (Ry) =     1.0232E-26    -6.5050E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -1.4002E-26     3.8265E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -4.5775E-27     1.4732E-40
+     Pert. #  3: Fermi energy shift (Ry) =     9.1550E-27     9.8054E-41
+     Pert. #  1: Fermi energy shift (Ry) =     2.9081E-26    -2.8699E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.7697E-27    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =     1.0232E-26     9.3270E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.2925E-26     1.4349E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.0771E-27     3.3482E-42
+     Pert. #  3: Fermi energy shift (Ry) =     1.1848E-26    -4.0058E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -3.1235E-26    -1.1958E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.6156E-27     2.3915E-43
+     Pert. #  3: Fermi energy shift (Ry) =     1.0771E-26     1.2556E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.7233E-26     9.5662E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -1.7771E-26     2.9894E-42
+     Pert. #  3: Fermi energy shift (Ry) =     3.6081E-26     3.2286E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.8818E-23    -1.1755E-37
+     Pert. #  2: Fermi energy shift (Ry) =     9.9262E-24    -3.3306E-38
+     Pert. #  3: Fermi energy shift (Ry) =    -9.0990E-24     5.8775E-39
+     Pert. #  1: Fermi energy shift (Ry) =    -1.5617E-26     3.2142E-40
+     Pert. #  2: Fermi energy shift (Ry) =     3.4466E-26    -2.4489E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -4.8468E-26     1.2245E-40
+     Pert. #  1: Fermi energy shift (Ry) =     2.9619E-27    -5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =     2.1541E-26     0.0000E+00
+     Pert. #  3: Fermi energy shift (Ry) =     1.0771E-26    -1.1097E-40
+     Pert. #  1: Fermi energy shift (Ry) =    -2.2282E-26     1.4349E-41
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     1.1479E-41
+     Pert. #  3: Fermi energy shift (Ry) =     3.2312E-27     3.7308E-41
+     Pert. #  1: Fermi energy shift (Ry) =     4.4429E-27    -1.3751E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.5394E-27     3.3482E-42
+     Pert. #  3: Fermi energy shift (Ry) =     1.7771E-26    -1.6741E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.6762E-26     6.7262E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -1.9387E-26    -7.7725E-43
+     Pert. #  3: Fermi energy shift (Ry) =     1.7233E-26    -2.9894E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -8.8184E-27    -7.8473E-44
+     Pert. #  2: Fermi energy shift (Ry) =     1.8310E-26     7.4736E-44
+     Pert. #  3: Fermi energy shift (Ry) =     6.4623E-27     1.7189E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.3463E-27     2.3915E-43
+     Pert. #  2: Fermi energy shift (Ry) =     2.6926E-26     3.8302E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.0696E-26     9.3420E-44
+     Pert. #  1: Fermi energy shift (Ry) =     3.7051E-25    -1.2852E-36
+     Pert. #  2: Fermi energy shift (Ry) =     3.1019E-25    -1.8808E-37
+     Pert. #  3: Fermi energy shift (Ry) =    -3.9636E-25     1.0344E-36
+     Pert. #  1: Fermi energy shift (Ry) =     8.0779E-26     1.8750E-40
+     Pert. #  2: Fermi energy shift (Ry) =     1.1201E-25     4.5918E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -1.5294E-25    -1.0714E-40
+     Pert. #  1: Fermi energy shift (Ry) =     9.9089E-26    -7.6530E-41
+     Pert. #  2: Fermi energy shift (Ry) =     1.1201E-25    -2.9081E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -2.5849E-26     2.6785E-40
+     Pert. #  1: Fermi energy shift (Ry) =     9.6935E-26    -3.3003E-41
+     Pert. #  2: Fermi energy shift (Ry) =     6.0315E-26     0.0000E+00
+     Pert. #  3: Fermi energy shift (Ry) =    -1.0771E-26     2.1046E-41
+     Pert. #  1: Fermi energy shift (Ry) =     9.6935E-26     1.6741E-42
+     Pert. #  2: Fermi energy shift (Ry) =     2.9296E-25    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.1541E-26     1.4349E-41
+     Pert. #  1: Fermi energy shift (Ry) =     1.4433E-25    -8.3704E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.7548E-26     1.0523E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -1.3571E-25     1.5784E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -2.4333E-23     2.3510E-38
+     Pert. #  2: Fermi energy shift (Ry) =    -1.9852E-23     1.5673E-38
+     Pert. #  3: Fermi energy shift (Ry) =     7.8151E-24     2.3510E-38
+     Pert. #  1: Fermi energy shift (Ry) =     1.3786E-25    -1.5918E-39
+     Pert. #  2: Fermi energy shift (Ry) =     2.4126E-25    -1.2245E-39
+     Pert. #  3: Fermi energy shift (Ry) =     7.7548E-26    -1.9592E-39
+     Pert. #  1: Fermi energy shift (Ry) =    -1.4648E-25     2.4489E-40
+     Pert. #  2: Fermi energy shift (Ry) =     1.5510E-25     1.5306E-40
+     Pert. #  3: Fermi energy shift (Ry) =     5.5145E-25    -6.1224E-41
+     Pert. #  1: Fermi energy shift (Ry) =     5.1699E-26    -1.4349E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.4466E-26    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =     1.5510E-25     8.9683E-43
+     Pert. #  1: Fermi energy shift (Ry) =     5.1699E-26     3.3482E-42
+     Pert. #  2: Fermi energy shift (Ry) =     6.8932E-26    -1.9132E-42
+     Pert. #  3: Fermi energy shift (Ry) =     3.8774E-25    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.5510E-25     5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =     6.8932E-26     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =     4.0067E-25    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.7233E-25     5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =     1.5079E-25    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.3571E-25    -4.3101E-38
+     Pert. #  2: Fermi energy shift (Ry) =    -1.3614E-24     3.1347E-38
+     Pert. #  3: Fermi energy shift (Ry) =    -2.5311E-26    -3.5265E-38
+     Pert. #  1: Fermi energy shift (Ry) =     3.8774E-26    -1.6741E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -5.1699E-26     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -4.3082E-27     0.0000E+00
+     Pert. #  1: Fermi energy shift (Ry) =     1.6156E-26     2.3318E-42
+     Pert. #  2: Fermi energy shift (Ry) =     4.3082E-27    -3.1090E-42
+     Pert. #  3: Fermi energy shift (Ry) =     2.5849E-26    -2.3915E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -8.6165E-27    -2.8699E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -4.3082E-27     0.0000E+00
+     Pert. #  3: Fermi energy shift (Ry) =     4.2005E-26    -7.0551E-42
+     Pert. #  1: Fermi energy shift (Ry) =     5.3853E-27    -2.1524E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -6.4623E-26    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =     8.4011E-26    -8.3704E-43
+     freq (    1) =       0.173524 [THz] =       5.788150 [cm-1]
+     freq (    2) =       0.173524 [THz] =       5.788150 [cm-1]
+     freq (    3) =       0.173524 [THz] =       5.788150 [cm-1]
+     freq (    4) =       4.580600 [THz] =     152.792365 [cm-1]
+     freq (    5) =       4.580600 [THz] =     152.792365 [cm-1]
+     freq (    6) =       4.580600 [THz] =     152.792365 [cm-1]
+     freq (    7) =       6.104642 [THz] =     203.628952 [cm-1]
+     freq (    8) =       6.104642 [THz] =     203.628952 [cm-1]
+     freq (    9) =       6.104642 [THz] =     203.628952 [cm-1]
+     freq (   10) =       7.265413 [THz] =     242.348107 [cm-1]
+     freq (   11) =       7.265413 [THz] =     242.348107 [cm-1]
+     freq (   12) =       7.265413 [THz] =     242.348107 [cm-1]
+     freq (   13) =      21.342679 [THz] =     711.915132 [cm-1]
+     freq (   14) =      21.342679 [THz] =     711.915132 [cm-1]
+     freq (   15) =      21.342679 [THz] =     711.915132 [cm-1]
+     freq (   16) =      23.577791 [THz] =     786.470465 [cm-1]
+     freq (   17) =      23.577791 [THz] =     786.470465 [cm-1]
+     freq (   18) =      23.577791 [THz] =     786.470465 [cm-1]
+     freq (   19) =      25.582464 [THz] =     853.339153 [cm-1]
+     freq (   20) =      25.582464 [THz] =     853.339153 [cm-1]
+     freq (   21) =      25.582464 [THz] =     853.339153 [cm-1]
+     freq (   22) =      42.376795 [THz] =    1413.537738 [cm-1]
+     freq (   23) =      42.376795 [THz] =    1413.537738 [cm-1]
+     freq (   24) =      42.376795 [THz] =    1413.537738 [cm-1]
+     freq (   25) =      45.593342 [THz] =    1520.830189 [cm-1]
+     freq (   26) =      45.593342 [THz] =    1520.830189 [cm-1]
+     freq (   27) =      54.995201 [THz] =    1834.442443 [cm-1]
+     freq (   1-   3) =          5.8  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   4-   6) =        152.8  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   7-   9) =        203.6  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  10-  12) =        242.3  [cm-1]   --> T_1g G_15' G_4+    
+     freq (  13-  15) =        711.9  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  16-  18) =        786.5  [cm-1]   --> T_2u G_25  G_5-    
+     freq (  19-  21) =        853.3  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  22-  24) =       1413.5  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  25-  26) =       1520.8  [cm-1]   --> E_g  G_12  G_3+ R  
+     freq (  27-  27) =       1834.4  [cm-1]   --> A_1g G_1   G_1+ R  
+     lambda(    1)=  0.0000   gamma=******** GHz
+     lambda(    2)=  0.0000   gamma=******** GHz
+     lambda(    3)=  0.0000   gamma=******** GHz
+     lambda(    4)= 43.8686   gamma=17358.86 GHz
+     lambda(    5)=445.6511   gamma=******** GHz
+     lambda(    6)=258.4242   gamma=******** GHz
+     lambda(    7)=  0.0043   gamma=    3.03 GHz
+     lambda(    8)=  0.0039   gamma=    2.76 GHz
+     lambda(    9)=  0.0044   gamma=    3.06 GHz
+     lambda(   10)=  1.2942   gamma= 1288.36 GHz
+     lambda(   11)=  1.3207   gamma= 1314.73 GHz
+     lambda(   12)=  1.2845   gamma= 1278.70 GHz
+     lambda(   13)=  0.3646   gamma= 3132.08 GHz
+     lambda(   14)=  0.3979   gamma= 3417.91 GHz
+     lambda(   15)=  0.3780   gamma= 3247.61 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=********   gamma=******** GHz
+     lambda(   20)=932.2781   gamma=******** GHz
+     lambda(   21)=610.7163   gamma=******** GHz
+     lambda(   22)= 69.6419   gamma=******** GHz
+     lambda(   23)= 10.6678   gamma=******** GHz
+     lambda(   24)=185.3986   gamma=******** GHz
+     lambda(   25)=  0.1933   gamma= 7576.98 GHz
+     lambda(   26)=  0.1779   gamma= 6972.37 GHz
+     lambda(   27)=  0.0061   gamma=  347.80 GHz
+     lambda(    1)=  0.0000   gamma=******** GHz
+     lambda(    2)=  0.0000   gamma=******** GHz
+     lambda(    3)=  0.0000   gamma=******** GHz
+     lambda(    4)= 22.4201   gamma= 7711.79 GHz
+     lambda(    5)=227.7604   gamma=78342.38 GHz
+     lambda(    6)=132.0737   gamma=45429.18 GHz
+     lambda(    7)=  0.0022   gamma=    1.33 GHz
+     lambda(    8)=  0.0020   gamma=    1.23 GHz
+     lambda(    9)=  0.0022   gamma=    1.32 GHz
+     lambda(   10)=  0.6564   gamma=  567.99 GHz
+     lambda(   11)=  0.6636   gamma=  574.25 GHz
+     lambda(   12)=  0.6491   gamma=  561.74 GHz
+     lambda(   13)=  0.1875   gamma= 1400.28 GHz
+     lambda(   14)=  0.2025   gamma= 1512.34 GHz
+     lambda(   15)=  0.1908   gamma= 1424.44 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=610.5827   gamma=******** GHz
+     lambda(   20)=476.4625   gamma=******** GHz
+     lambda(   21)=312.1208   gamma=******** GHz
+     lambda(   22)= 35.5921   gamma=******** GHz
+     lambda(   23)=  5.4520   gamma=******** GHz
+     lambda(   24)= 94.7523   gamma=******** GHz
+     lambda(   25)=  0.0975   gamma= 3323.96 GHz
+     lambda(   26)=  0.0912   gamma= 3108.71 GHz
+     lambda(   27)=  0.0031   gamma=  154.94 GHz
+     lambda(    1)=  0.0000   gamma=******** GHz
+     lambda(    2)=  0.0000   gamma=******** GHz
+     lambda(    3)=  0.0000   gamma=******** GHz
+     lambda(    4)= 15.6085   gamma= 4741.39 GHz
+     lambda(    5)=158.5630   gamma=48166.75 GHz
+     lambda(    6)= 91.9475   gamma=27930.93 GHz
+     lambda(    7)=  0.0015   gamma=    0.81 GHz
+     lambda(    8)=  0.0014   gamma=    0.75 GHz
+     lambda(    9)=  0.0015   gamma=    0.80 GHz
+     lambda(   10)=  0.4513   gamma=  344.88 GHz
+     lambda(   11)=  0.4537   gamma=  346.74 GHz
+     lambda(   12)=  0.4449   gamma=  340.03 GHz
+     lambda(   13)=  0.1296   gamma=  854.53 GHz
+     lambda(   14)=  0.1400   gamma=  923.01 GHz
+     lambda(   15)=  0.1319   gamma=  870.16 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=425.0776   gamma=******** GHz
+     lambda(   20)=331.7053   gamma=******** GHz
+     lambda(   21)=217.2934   gamma=******** GHz
+     lambda(   22)= 24.7787   gamma=******** GHz
+     lambda(   23)=  3.7956   gamma=98681.92 GHz
+     lambda(   24)= 65.9650   gamma=******** GHz
+     lambda(   25)=  0.0668   gamma= 2010.17 GHz
+     lambda(   26)=  0.0630   gamma= 1897.52 GHz
+     lambda(   27)=  0.0022   gamma=   94.35 GHz
+     lambda(    1)=  0.0000   gamma=******** GHz
+     lambda(    2)=  0.0000   gamma=******** GHz
+     lambda(    3)=  0.0000   gamma=******** GHz
+     lambda(    4)= 12.1004   gamma= 3288.93 GHz
+     lambda(    5)=122.9252   gamma=33411.47 GHz
+     lambda(    6)= 71.2818   gamma=19374.64 GHz
+     lambda(    7)=  0.0011   gamma=    0.55 GHz
+     lambda(    8)=  0.0011   gamma=    0.52 GHz
+     lambda(    9)=  0.0011   gamma=    0.55 GHz
+     lambda(   10)=  0.3462   gamma=  236.73 GHz
+     lambda(   11)=  0.3469   gamma=  237.22 GHz
+     lambda(   12)=  0.3410   gamma=  233.17 GHz
+     lambda(   13)=  0.0997   gamma=  588.43 GHz
+     lambda(   14)=  0.1076   gamma=  635.21 GHz
+     lambda(   15)=  0.1019   gamma=  601.14 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=329.5392   gamma=******** GHz
+     lambda(   20)=257.1528   gamma=******** GHz
+     lambda(   21)=168.4555   gamma=******** GHz
+     lambda(   22)= 19.2095   gamma=******** GHz
+     lambda(   23)=  2.9425   gamma=68451.96 GHz
+     lambda(   24)= 51.1390   gamma=******** GHz
+     lambda(   25)=  0.0511   gamma= 1375.39 GHz
+     lambda(   26)=  0.0486   gamma= 1308.49 GHz
+     lambda(   27)=  0.0017   gamma=   65.02 GHz
+     lambda(    1)=  0.0000   gamma=******** GHz
+     lambda(    2)=  0.0000   gamma=******** GHz
+     lambda(    3)=  0.0000   gamma=******** GHz
+     lambda(    4)=  9.9297   gamma= 2444.07 GHz
+     lambda(    5)=100.8736   gamma=24828.77 GHz
+     lambda(    6)= 58.4946   gamma=14397.71 GHz
+     lambda(    7)=  0.0009   gamma=    0.41 GHz
+     lambda(    8)=  0.0009   gamma=    0.38 GHz
+     lambda(    9)=  0.0009   gamma=    0.41 GHz
+     lambda(   10)=  0.2815   gamma=  174.32 GHz
+     lambda(   11)=  0.2815   gamma=  174.34 GHz
+     lambda(   12)=  0.2772   gamma=  171.63 GHz
+     lambda(   13)=  0.0813   gamma=  434.56 GHz
+     lambda(   14)=  0.0877   gamma=  468.43 GHz
+     lambda(   15)=  0.0833   gamma=  445.29 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=270.4230   gamma=******** GHz
+     lambda(   20)=211.0221   gamma=******** GHz
+     lambda(   21)=138.2362   gamma=******** GHz
+     lambda(   22)= 15.7635   gamma=******** GHz
+     lambda(   23)=  2.4147   gamma=50868.10 GHz
+     lambda(   24)= 41.9652   gamma=******** GHz
+     lambda(   25)=  0.0414   gamma= 1010.18 GHz
+     lambda(   26)=  0.0397   gamma=  967.12 GHz
+     lambda(   27)=  0.0014   gamma=   48.09 GHz
+     lambda(    1)=  0.0000   gamma=90014.81 GHz
+     lambda(    2)=  0.0000   gamma=84835.38 GHz
+     lambda(    3)=  0.0000   gamma=95464.44 GHz
+     lambda(    4)=  8.4432   gamma= 1900.82 GHz
+     lambda(    5)= 85.7728   gamma=19310.04 GHz
+     lambda(    6)= 49.7379   gamma=11197.51 GHz
+     lambda(    7)=  0.0008   gamma=    0.32 GHz
+     lambda(    8)=  0.0007   gamma=    0.30 GHz
+     lambda(    9)=  0.0008   gamma=    0.31 GHz
+     lambda(   10)=  0.2375   gamma=  134.51 GHz
+     lambda(   11)=  0.2372   gamma=  134.35 GHz
+     lambda(   12)=  0.2338   gamma=  132.40 GHz
+     lambda(   13)=  0.0688   gamma=  336.42 GHz
+     lambda(   14)=  0.0740   gamma=  361.82 GHz
+     lambda(   15)=  0.0707   gamma=  345.49 GHz
+     lambda(   16)=  0.0000   gamma=    0.03 GHz
+     lambda(   17)=  0.0000   gamma=    0.03 GHz
+     lambda(   18)=  0.0000   gamma=    0.03 GHz
+     lambda(   19)=229.9407   gamma=******** GHz
+     lambda(   20)=179.4321   gamma=******** GHz
+     lambda(   21)=117.5423   gamma=******** GHz
+     lambda(   22)= 13.4037   gamma=******** GHz
+     lambda(   23)=  2.0532   gamma=39561.63 GHz
+     lambda(   24)= 35.6830   gamma=******** GHz
+     lambda(   25)=  0.0349   gamma=  777.79 GHz
+     lambda(   26)=  0.0336   gamma=  748.39 GHz
+     lambda(   27)=  0.0011   gamma=   37.28 GHz
+     lambda(    1)=  0.0000   gamma=72337.89 GHz
+     lambda(    2)=  0.0000   gamma=68175.58 GHz
+     lambda(    3)=  0.0000   gamma=76717.33 GHz
+     lambda(    4)=  7.3566   gamma= 1527.55 GHz
+     lambda(    5)= 74.7344   gamma=15517.98 GHz
+     lambda(    6)= 43.3370   gamma= 8998.57 GHz
+     lambda(    7)=  0.0007   gamma=    0.25 GHz
+     lambda(    8)=  0.0006   gamma=    0.24 GHz
+     lambda(    9)=  0.0007   gamma=    0.25 GHz
+     lambda(   10)=  0.2056   gamma=  107.39 GHz
+     lambda(   11)=  0.2051   gamma=  107.16 GHz
+     lambda(   12)=  0.2023   gamma=  105.69 GHz
+     lambda(   13)=  0.0598   gamma=  269.65 GHz
+     lambda(   14)=  0.0641   gamma=  289.12 GHz
+     lambda(   15)=  0.0615   gamma=  277.28 GHz
+     lambda(   16)=  0.0000   gamma=    0.23 GHz
+     lambda(   17)=  0.0000   gamma=    0.24 GHz
+     lambda(   18)=  0.0000   gamma=    0.24 GHz
+     lambda(   19)=200.3488   gamma=******** GHz
+     lambda(   20)=156.3403   gamma=******** GHz
+     lambda(   21)=102.4153   gamma=******** GHz
+     lambda(   22)= 11.6788   gamma=******** GHz
+     lambda(   23)=  1.7890   gamma=31792.99 GHz
+     lambda(   24)= 31.0908   gamma=******** GHz
+     lambda(   25)=  0.0301   gamma=  619.72 GHz
+     lambda(   26)=  0.0291   gamma=  598.79 GHz
+     lambda(   27)=  0.0010   gamma=   29.92 GHz
+     lambda(    1)=  0.0000   gamma=59631.97 GHz
+     lambda(    2)=  0.0000   gamma=56200.76 GHz
+     lambda(    3)=  0.0000   gamma=63242.18 GHz
+     lambda(    4)=  6.5261   gamma= 1259.25 GHz
+     lambda(    5)= 66.2965   gamma=12792.31 GHz
+     lambda(    6)= 38.4441   gamma= 7418.01 GHz
+     lambda(    7)=  0.0006   gamma=    0.21 GHz
+     lambda(    8)=  0.0006   gamma=    0.20 GHz
+     lambda(    9)=  0.0006   gamma=    0.21 GHz
+     lambda(   10)=  0.1815   gamma=   88.09 GHz
+     lambda(   11)=  0.1810   gamma=   87.85 GHz
+     lambda(   12)=  0.1786   gamma=   86.69 GHz
+     lambda(   13)=  0.0531   gamma=  222.31 GHz
+     lambda(   14)=  0.0567   gamma=  237.47 GHz
+     lambda(   15)=  0.0546   gamma=  228.69 GHz
+     lambda(   16)=  0.0002   gamma=    0.87 GHz
+     lambda(   17)=  0.0002   gamma=    0.91 GHz
+     lambda(   18)=  0.0002   gamma=    0.91 GHz
+     lambda(   19)=177.7283   gamma=******** GHz
+     lambda(   20)=138.6886   gamma=******** GHz
+     lambda(   21)= 90.8521   gamma=******** GHz
+     lambda(   22)= 10.3603   gamma=******** GHz
+     lambda(   23)=  1.5871   gamma=26209.98 GHz
+     lambda(   24)= 27.5806   gamma=******** GHz
+     lambda(   25)=  0.0265   gamma=  507.19 GHz
+     lambda(   26)=  0.0257   gamma=  491.86 GHz
+     lambda(   27)=  0.0009   gamma=   24.74 GHz
+     lambda(    1)=  0.0000   gamma=50216.41 GHz
+     lambda(    2)=  0.0000   gamma=47326.97 GHz
+     lambda(    3)=  0.0000   gamma=53256.58 GHz
+     lambda(    4)=  5.8702   gamma= 1060.44 GHz
+     lambda(    5)= 59.6322   gamma=10772.49 GHz
+     lambda(    6)= 34.5796   gamma= 6246.77 GHz
+     lambda(    7)=  0.0005   gamma=    0.17 GHz
+     lambda(    8)=  0.0005   gamma=    0.16 GHz
+     lambda(    9)=  0.0005   gamma=    0.17 GHz
+     lambda(   10)=  0.1628   gamma=   73.98 GHz
+     lambda(   11)=  0.1623   gamma=   73.76 GHz
+     lambda(   12)=  0.1602   gamma=   72.81 GHz
+     lambda(   13)=  0.0479   gamma=  187.96 GHz
+     lambda(   14)=  0.0510   gamma=  199.89 GHz
+     lambda(   15)=  0.0493   gamma=  193.27 GHz
+     lambda(   16)=  0.0005   gamma=    2.22 GHz
+     lambda(   17)=  0.0005   gamma=    2.30 GHz
+     lambda(   18)=  0.0005   gamma=    2.30 GHz
+     lambda(   19)=159.8622   gamma=******** GHz
+     lambda(   20)=124.7470   gamma=******** GHz
+     lambda(   21)= 81.7192   gamma=******** GHz
+     lambda(   22)=  9.3190   gamma=******** GHz
+     lambda(   23)=  1.4277   gamma=22074.51 GHz
+     lambda(   24)= 24.8082   gamma=******** GHz
+     lambda(   25)=  0.0237   gamma=  424.63 GHz
+     lambda(   26)=  0.0231   gamma=  413.14 GHz
+     lambda(   27)=  0.0008   gamma=   21.13 GHz
+     lambda(    1)=  0.0000   gamma=43090.32 GHz
+     lambda(    2)=  0.0000   gamma=40610.91 GHz
+     lambda(    3)=  0.0000   gamma=45699.06 GHz
+     lambda(    4)=  5.3387   gamma=  910.00 GHz
+     lambda(    5)= 54.2309   gamma= 9243.83 GHz
+     lambda(    6)= 31.4476   gamma= 5360.34 GHz
+     lambda(    7)=  0.0005   gamma=    0.15 GHz
+     lambda(    8)=  0.0005   gamma=    0.14 GHz
+     lambda(    9)=  0.0005   gamma=    0.15 GHz
+     lambda(   10)=  0.1481   gamma=   63.50 GHz
+     lambda(   11)=  0.1477   gamma=   63.33 GHz
+     lambda(   12)=  0.1458   gamma=   62.54 GHz
+     lambda(   13)=  0.0440   gamma=  162.80 GHz
+     lambda(   14)=  0.0466   gamma=  172.27 GHz
+     lambda(   15)=  0.0452   gamma=  167.21 GHz
+     lambda(   16)=  0.0010   gamma=    4.40 GHz
+     lambda(   17)=  0.0010   gamma=    4.53 GHz
+     lambda(   18)=  0.0010   gamma=    4.52 GHz
+     lambda(   19)=145.3820   gamma=******** GHz
+     lambda(   20)=113.4475   gamma=******** GHz
+     lambda(   21)= 74.3172   gamma=******** GHz
+     lambda(   22)=  8.4752   gamma=******** GHz
+     lambda(   23)=  1.2987   gamma=18946.98 GHz
+     lambda(   24)= 22.5615   gamma=******** GHz
+     lambda(   25)=  0.0215   gamma=  362.89 GHz
+     lambda(   26)=  0.0210   gamma=  354.09 GHz
+     lambda(   27)=  0.0008   gamma=   18.80 GHz
+     number of k points=   240  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9684 ev
+     number of k points=   240  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :  29m26.28s CPU  29m33.50s WALL

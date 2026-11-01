@@ -1,0 +1,257 @@
+     number of k points=   145  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :      2.19s CPU      2.42s WALL
+     Pert. #  1: Fermi energy shift (Ry) =     9.2703E-03     1.6156E-27
+     Pert. #  1: Fermi energy shift (Ry) =     2.1568E-01    -5.1699E-26
+     Pert. #  1: Fermi energy shift (Ry) =     4.6295E-02     2.5849E-26
+     Pert. #  1: Fermi energy shift (Ry) =     6.0207E-02     2.0195E-28
+     Pert. #  1: Fermi energy shift (Ry) =     6.0124E-02     2.5244E-29
+     Pert. #  1: Fermi energy shift (Ry) =     5.9829E-02     2.0195E-28
+     Pert. #  1: Fermi energy shift (Ry) =     5.9823E-02     5.0487E-29
+     Pert. #  1: Fermi energy shift (Ry) =    -1.9877E-19     4.9326E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -4.4272E-19     9.3420E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -7.0473E-19     5.5006E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.5224E-18    -1.8535E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -2.2588E-18    -2.9894E-44
+     Pert. #  2: Fermi energy shift (Ry) =     5.2403E-19    -1.3452E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -2.1684E-18    -5.2315E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -6.9118E-19     2.5223E-44
+     Pert. #  1: Fermi energy shift (Ry) =     2.2588E-19    -2.8026E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -7.9056E-19     4.3907E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -3.7947E-19    -1.4947E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -5.4210E-20    -4.6710E-45
+     Pert. #  1: Fermi energy shift (Ry) =     1.3553E-19     2.4489E-40
+     Pert. #  2: Fermi energy shift (Ry) =     3.1623E-20     1.2398E-39
+     Pert. #  3: Fermi energy shift (Ry) =     5.2403E-19     2.4489E-40
+     Pert. #  1: Fermi energy shift (Ry) =     2.7105E-20    -2.6905E-43
+     Pert. #  2: Fermi energy shift (Ry) =     4.1335E-19    -1.3079E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -5.4210E-20     1.1958E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.1746E-19     2.9894E-44
+     Pert. #  2: Fermi energy shift (Ry) =     2.0329E-20    -1.8684E-43
+     Pert. #  3: Fermi energy shift (Ry) =     4.0658E-20     2.9894E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -2.7105E-20    -2.5223E-44
+     Pert. #  2: Fermi energy shift (Ry) =     3.0719E-19    -1.3196E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.6140E-19    -5.6052E-45
+     Pert. #  1: Fermi energy shift (Ry) =     3.4107E-19    -2.0627E-42
+     Pert. #  2: Fermi energy shift (Ry) =     4.5401E-19    -4.7831E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.6818E-19    -1.8833E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.7167E-19     1.1958E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.8861E-19     5.9789E-43
+     Pert. #  3: Fermi energy shift (Ry) =     9.2609E-20    -1.9132E-42
+     Pert. #  1: Fermi energy shift (Ry) =     2.8912E-19     9.5662E-43
+     Pert. #  2: Fermi energy shift (Ry) =     3.3881E-20    -4.4842E-43
+     Pert. #  3: Fermi energy shift (Ry) =     2.0781E-19     4.1852E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.8070E-20     1.8684E-45
+     Pert. #  2: Fermi energy shift (Ry) =     4.0093E-19     2.2421E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -2.3943E-19     1.4947E-44
+     Pert. #  1: Fermi energy shift (Ry) =     7.9056E-20    -7.5904E-46
+     Pert. #  2: Fermi energy shift (Ry) =    -2.1458E-20    -3.5032E-46
+     Pert. #  3: Fermi energy shift (Ry) =    -9.9385E-20     5.5468E-46
+     Pert. #  1: Fermi energy shift (Ry) =     9.0350E-20    -3.2697E-45
+     Pert. #  2: Fermi energy shift (Ry) =     1.4004E-19     2.3355E-46
+     Pert. #  3: Fermi energy shift (Ry) =     2.3943E-19    -1.8684E-45
+     Pert. #  1: Fermi energy shift (Ry) =    -1.4456E-19    -1.7219E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -7.2280E-19    -2.4872E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -1.3733E-18    -1.5306E-41
+     Pert. #  1: Fermi energy shift (Ry) =     3.0719E-19    -1.6741E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     9.8054E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -1.8070E-19     5.0223E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -6.4657E-20    -2.1524E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.1294E-19     2.8699E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -4.4116E-20    -4.7831E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -2.1846E-20     5.8294E-43
+     Pert. #  2: Fermi energy shift (Ry) =     2.7105E-20     3.8863E-43
+     Pert. #  3: Fermi energy shift (Ry) =     2.2940E-21    -1.7563E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.1929E-19     2.8026E-45
+     Pert. #  2: Fermi energy shift (Ry) =     1.4117E-19     1.8684E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -1.5494E-20     4.9513E-44
+     Pert. #  1: Fermi energy shift (Ry) =     3.8540E-20     6.5394E-45
+     Pert. #  2: Fermi energy shift (Ry) =     3.3599E-20     1.0276E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -4.2422E-20     7.4736E-45
+     Pert. #  1: Fermi energy shift (Ry) =     1.2211E-20    -4.2039E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -7.1715E-20    -2.3355E-45
+     Pert. #  3: Fermi energy shift (Ry) =    -2.3364E-20    -9.3420E-46
+     Pert. #  1: Fermi energy shift (Ry) =    -4.3082E-27     9.4040E-38
+     Pert. #  2: Fermi energy shift (Ry) =    -1.3463E-26    -3.1347E-37
+     Pert. #  3: Fermi energy shift (Ry) =    -2.5176E-26    -1.2539E-37
+     Pert. #  1: Fermi energy shift (Ry) =     1.0771E-27    -1.5306E-40
+     Pert. #  2: Fermi energy shift (Ry) =    -2.6926E-27     1.8367E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -5.7892E-27     2.9081E-40
+     Pert. #  1: Fermi energy shift (Ry) =    -1.8849E-27     7.6530E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -2.4234E-27    -3.8265E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -5.3853E-28    -2.4872E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -1.0771E-27    -3.8265E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.2312E-27     7.6530E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -5.2507E-27     1.1240E-41
+     Pert. #  1: Fermi energy shift (Ry) =     0.0000E+00    -2.3915E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -3.7697E-27     5.9789E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.2312E-27     2.2122E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.0771E-27     1.3452E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -2.1541E-27    -1.1958E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.9043E-27    -2.6158E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.0771E-27     1.4947E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -2.1541E-27    -2.9894E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.0965E-27    -3.1389E-43
+     Pert. #  1: Fermi energy shift (Ry) =     7.2378E-25     1.0971E-37
+     Pert. #  2: Fermi energy shift (Ry) =     1.3786E-25    -3.1347E-38
+     Pert. #  3: Fermi energy shift (Ry) =     6.8932E-26     3.1347E-38
+     Pert. #  1: Fermi energy shift (Ry) =     6.7316E-28    -7.5764E-40
+     Pert. #  2: Fermi energy shift (Ry) =     1.0771E-27     2.1428E-40
+     Pert. #  3: Fermi energy shift (Ry) =     7.2701E-27     1.8061E-39
+     Pert. #  1: Fermi energy shift (Ry) =     9.0877E-28    -5.5484E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -2.6926E-28     1.5306E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -2.2887E-27    -1.1479E-40
+     Pert. #  1: Fermi energy shift (Ry) =     4.5102E-27     1.7219E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -2.6926E-27     3.4438E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -1.0771E-27     3.6352E-41
+     Pert. #  1: Fermi energy shift (Ry) =     4.3755E-27    -9.0879E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.6156E-27     7.6530E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -3.7697E-27     7.6530E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -6.7316E-28     1.2855E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.2312E-27     3.5873E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.6926E-27     1.4349E-42
+     Pert. #  1: Fermi energy shift (Ry) =     4.2409E-27    -6.5768E-43
+     Pert. #  2: Fermi energy shift (Ry) =     2.6926E-27    -6.5768E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.9619E-27     8.8188E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.4810E-27    -7.0252E-43
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     1.1958E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.4234E-27     3.2884E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.9818E-25    -3.9183E-39
+     Pert. #  2: Fermi energy shift (Ry) =     6.7855E-26    -1.4939E-38
+     Pert. #  3: Fermi energy shift (Ry) =     1.0771E-25     5.8775E-39
+     Pert. #  1: Fermi energy shift (Ry) =     2.3056E-27    -2.2959E-41
+     Pert. #  2: Fermi energy shift (Ry) =     8.6754E-27     5.9789E-43
+     Pert. #  3: Fermi energy shift (Ry) =     6.8158E-28     1.0523E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -2.5580E-27     9.5662E-42
+     Pert. #  2: Fermi energy shift (Ry) =     3.0629E-27    -6.2180E-42
+     Pert. #  3: Fermi energy shift (Ry) =     8.7511E-28     9.5662E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -5.6546E-27    -4.7831E-43
+     Pert. #  2: Fermi energy shift (Ry) =     2.0868E-27    -5.3810E-43
+     Pert. #  3: Fermi energy shift (Ry) =     2.1541E-27     2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -3.6351E-27     5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.8175E-27    -7.7725E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.3658E-28     0.0000E+00
+     Pert. #  1: Fermi energy shift (Ry) =    -3.0965E-27     2.8699E-42
+     Pert. #  2: Fermi energy shift (Ry) =     4.6953E-27     3.1090E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -2.4907E-27     3.3482E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -4.3082E-26    -5.8775E-39
+     Pert. #  2: Fermi energy shift (Ry) =     8.6165E-27    -3.9183E-39
+     Pert. #  3: Fermi energy shift (Ry) =    -1.5079E-25    -1.9592E-39
+     Pert. #  1: Fermi energy shift (Ry) =     8.6165E-27     1.2245E-40
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00    -1.8367E-40
+     Pert. #  3: Fermi energy shift (Ry) =     2.5849E-26    -6.1224E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -8.6165E-27     6.1224E-41
+     Pert. #  2: Fermi energy shift (Ry) =     8.6165E-27    -9.1835E-41
+     Pert. #  3: Fermi energy shift (Ry) =     1.7233E-26    -4.5918E-41
+     Pert. #  1: Fermi energy shift (Ry) =     4.3082E-27     1.9132E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00    -3.8265E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -8.6165E-27     4.7831E-42
+     Pert. #  1: Fermi energy shift (Ry) =     4.3082E-27    -1.9132E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     2.8699E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -4.3082E-27     9.5662E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -4.3082E-27     3.8265E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -8.6165E-27     2.8699E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -2.1541E-27    -9.5662E-43
+     Pert. #  1: Fermi energy shift (Ry) =     0.0000E+00     3.8265E-42
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     2.8699E-42
+     Pert. #  3: Fermi energy shift (Ry) =     6.4623E-27    -9.5662E-43
+     Pert. #  1: Fermi energy shift (Ry) =     8.2718E-25     2.3510E-38
+     Pert. #  2: Fermi energy shift (Ry) =     2.7573E-25     7.8366E-39
+     Pert. #  3: Fermi energy shift (Ry) =     1.2408E-24     1.8612E-38
+     Pert. #  1: Fermi energy shift (Ry) =    -2.9619E-27     1.9132E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -1.3463E-27     3.8265E-42
+     Pert. #  3: Fermi energy shift (Ry) =     3.1639E-27    -1.4349E-42
+     Pert. #  1: Fermi energy shift (Ry) =     2.3561E-27    -2.9894E-44
+     Pert. #  2: Fermi energy shift (Ry) =     1.0771E-27     8.9683E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -3.3658E-28    -1.1210E-44
+     Pert. #  1: Fermi energy shift (Ry) =     2.7600E-27     1.6741E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.0771E-27    -2.0328E-42
+     Pert. #  3: Fermi energy shift (Ry) =     1.1444E-27     3.2585E-42
+     Pert. #  1: Fermi energy shift (Ry) =     2.6926E-28     2.6307E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -8.0779E-28     8.3704E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -2.3561E-27    -2.4812E-42
+     freq (    1) =       0.156964 [THz] =       5.235743 [cm-1]
+     freq (    2) =       0.156964 [THz] =       5.235743 [cm-1]
+     freq (    3) =       0.156964 [THz] =       5.235743 [cm-1]
+     freq (    4) =       4.582983 [THz] =     152.871861 [cm-1]
+     freq (    5) =       4.582983 [THz] =     152.871861 [cm-1]
+     freq (    6) =       4.582983 [THz] =     152.871861 [cm-1]
+     freq (    7) =       6.105775 [THz] =     203.666747 [cm-1]
+     freq (    8) =       6.105775 [THz] =     203.666747 [cm-1]
+     freq (    9) =       6.105775 [THz] =     203.666747 [cm-1]
+     freq (   10) =       7.781708 [THz] =     259.569823 [cm-1]
+     freq (   11) =       7.781708 [THz] =     259.569823 [cm-1]
+     freq (   12) =       7.781708 [THz] =     259.569823 [cm-1]
+     freq (   13) =      21.433579 [THz] =     714.947247 [cm-1]
+     freq (   14) =      21.433579 [THz] =     714.947247 [cm-1]
+     freq (   15) =      21.433579 [THz] =     714.947247 [cm-1]
+     freq (   16) =      23.622473 [THz] =     787.960887 [cm-1]
+     freq (   17) =      23.622473 [THz] =     787.960887 [cm-1]
+     freq (   18) =      23.622473 [THz] =     787.960887 [cm-1]
+     freq (   19) =      25.601082 [THz] =     853.960190 [cm-1]
+     freq (   20) =      25.601082 [THz] =     853.960190 [cm-1]
+     freq (   21) =      25.601082 [THz] =     853.960190 [cm-1]
+     freq (   22) =      42.408666 [THz] =    1414.600817 [cm-1]
+     freq (   23) =      42.408666 [THz] =    1414.600817 [cm-1]
+     freq (   24) =      42.408666 [THz] =    1414.600817 [cm-1]
+     freq (   25) =      45.908921 [THz] =    1531.356753 [cm-1]
+     freq (   26) =      45.908921 [THz] =    1531.356753 [cm-1]
+     freq (   27) =      54.996426 [THz] =    1834.483316 [cm-1]
+     freq (   1-   3) =          5.2  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   4-   6) =        152.9  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   7-   9) =        203.7  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  10-  12) =        259.6  [cm-1]   --> T_1g G_15' G_4+    
+     freq (  13-  15) =        714.9  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  16-  18) =        788.0  [cm-1]   --> T_2u G_25  G_5-    
+     freq (  19-  21) =        854.0  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  22-  24) =       1414.6  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  25-  26) =       1531.4  [cm-1]   --> E_g  G_12  G_3+ R  
+     freq (  27-  27) =       1834.5  [cm-1]   --> A_1g G_1   G_1+ R  
+     PHONON       :      1h43m CPU      1h43m WALL
+     phq_setup    :      0.09s CPU      0.14s WALL (       1 calls)
+     phq_init     :      1.72s CPU      1.79s WALL (       1 calls)
+     phq_init     :      1.72s CPU      1.79s WALL (       1 calls)
+     init_vloc    :      0.08s CPU      0.08s WALL (       1 calls)
+     init_us_1    :      0.00s CPU      0.00s WALL (       1 calls)
+     init_us_2    :     14.91s CPU     16.63s WALL (    6935 calls)
+     dynmat0      :      1.22s CPU      1.27s WALL (       1 calls)
+     dynmat_us    :      1.03s CPU      1.08s WALL (       1 calls)
+     d2ionq       :      0.19s CPU      0.19s WALL (       1 calls)
+     phqscf       :   6179.19s CPU   6234.57s WALL (       1 calls)
+     dynmatrix    :      0.00s CPU      0.00s WALL (       1 calls)
+     phqscf       :   6179.19s CPU   6234.57s WALL (       1 calls)
+     solve_linter :   6164.88s CPU   6219.48s WALL (      10 calls)
+     dfpt_kernel  :   6072.00s CPU   6123.88s WALL (      10 calls)
+     sth_kernel   :   6008.36s CPU   6054.85s WALL (      63 calls)
+     h_prec       :      1.80s CPU      1.98s WALL (    4599 calls)
+     apply_dpot_b :    316.46s CPU    321.17s WALL (   10366 calls)
+     ortho        :     17.30s CPU     17.64s WALL (   12337 calls)
+     cgsolve      :   5216.72s CPU   5241.45s WALL (   12337 calls)
+     incdrhoscf   :    426.85s CPU    434.43s WALL (   12337 calls)
+     dv_of_drho   :      3.31s CPU      3.76s WALL (     169 calls)
+     mix_pot      :      0.43s CPU      2.08s WALL (      63 calls)
+     ef_shift     :      0.45s CPU      0.47s WALL (      63 calls)
+     ef_shift_wfc :      0.11s CPU      1.67s WALL (      10 calls)
+     drhodv       :     14.26s CPU     14.85s WALL (      10 calls)
+     psymdvscf    :     38.79s CPU     38.87s WALL (     126 calls)
+     com_dvloc    :      4.95s CPU      5.51s WALL (    2241 calls)
+     addcore      :      0.01s CPU      0.01s WALL (      27 calls)
+     dvqpsi_us    :     90.34s CPU     91.56s WALL (    1971 calls)
+     dvqpsi_us_on :     14.98s CPU     15.00s WALL (    1971 calls)
+     add_vuspsi   :    188.69s CPU    189.69s WALL (  285364 calls)
+     calbec       :    254.86s CPU    256.64s WALL (  294708 calls)
+     fft          :      2.41s CPU      2.48s WALL (    2211 calls)
+     ffts         :     16.23s CPU     16.51s WALL (   18131 calls)
+     fftw         :   4561.29s CPU   4592.68s WALL ( 7464300 calls)
+     davcio       :     16.29s CPU     28.22s WALL (   50350 calls)
+     write_rec    :      0.09s CPU      1.27s WALL (      73 calls)
+     ch_psi       :   5075.61s CPU   5099.07s WALL (  285364 calls)
+     last         :    225.09s CPU    226.01s WALL (  285364 calls)
+     Hesh         :     24.30s CPU     24.50s WALL (  285364 calls)
+     ch_psi_all_k :    199.91s CPU    200.81s WALL (  285364 calls)
+     h_psi_bgrp   :   4816.38s CPU   4838.60s WALL (  285364 calls)
+     h_psi        :   4816.02s CPU   4838.34s WALL (  285364 calls)
+     h_psi:pot    :   4802.66s CPU   4824.72s WALL (  285364 calls)
+     h_psi:calbec :    245.19s CPU    246.16s WALL (  285364 calls)
+     s_psi_bgrp   :     27.73s CPU     27.78s WALL (  583065 calls)
+     PHONON       :      1h43m CPU      1h43m WALL
+   JOB DONE.

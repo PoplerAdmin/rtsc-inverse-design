@@ -1,0 +1,105 @@
+{
+ "name": "soft_atom0.5K",
+ "synthetic": true,
+ "description": "500 K mode (lam .8) + soft atom at 0.5 K (lam 2)",
+ "tags": [
+  "soft"
+ ],
+ "spectrum": {
+  "omega_K": [
+   500.0,
+   0.5
+  ],
+  "weight_K": [
+   200.0,
+   0.5
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: soft_atom0.5K -- 500 K mode (lam .8) + soft atom at 0.5 K (lam 2)",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 5000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 200.5,
+ "lambda": 2.8,
+ "omega_log_K": 3.5984283650057605,
+ "ceiling_K": 46.28901273489235,
+ "n_atoms": 2,
+ "oracle": {
+  "0.0": {
+   "Tc": 43.63769071575769,
+   "err": 5.336193397776098e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1084,
+   "crossings": [
+    [
+     43.5668484739788,
+     44.455967830590616
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.053632307730201,
+   "notes": [],
+   "nevals": 73,
+   "jumps_checked": 0,
+   "seconds": 23.46
+  },
+  "0.1": {
+   "Tc": 27.218602120167912,
+   "err": 8.179183806114743e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     26.975414083399073,
+     27.37511083055784
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.4067545128758139,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 170,
+   "jumps_checked": 26,
+   "seconds": 63.74
+  },
+  "0.15": {
+   "Tc": 21.802046998889775,
+   "err": 2.2675085726754265e-11,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     21.802046998889775,
+     21.802046998911578
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": true,
+   "rho_at_ceiling": -0.534491517920683,
+   "notes": [
+    "truncation check at cap",
+    "Tc sits on an N_c(T) jump: Tc is the jump temperature, rho+ >= 0 there (rho=1.843e-03) and < 0 just above (rho=-1.664e-04)"
+   ],
+   "nevals": 212,
+   "jumps_checked": 40,
+   "seconds": 24.15
+  }
+ },
+ "allen_dynes": {
+  "0.0": 0.9828200589414138,
+  "0.1": 0.7649193348086186,
+  "0.15": 0.6790006920166874
+ }
+}

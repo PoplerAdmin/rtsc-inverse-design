@@ -1,0 +1,33 @@
+schema = "rtt.lane_p/1"
+# Lane P: deterministic prototype substitution in the K2PtCl6-type A2MH6 family (doc 32;
+# R30 §3.2). Read by rtt.source.prototype.load_lane_p_config / plan_lane_p. Ranking/enumeration
+# only: nothing here removes a candidate (contract R2).
+source = "doc32#1 (electron-count rule), R30#3.2 (lane P definition)"
+
+[lane]
+id = "P"
+generator = "rtt.source.prototype/1"
+prototypes = ["A2MH6", "AA'MH6", "A3A'M2H12", "A2MM'H12"]
+batch_id = "P-campaign2"
+
+[sites]
+source = "R30#3.2 + campaign-2 brief: A = alkali, alkaline earth, group 3; M = late TM, Tc excluded (radioactive)"
+A = ["Li", "Na", "K", "Rb", "Cs", "Mg", "Ca", "Sr", "Ba", "Sc", "Y", "La"]
+M = ["Mn", "Re", "Fe", "Ru", "Os", "Co", "Rh", "Ir", "Ni", "Pd", "Pt"]
+
+[electron_count]
+source = "doc32#1.5: N per [MH6] = g(M) + 6 + sum ox(A)/n(M); 18 = closed shell (excluded); Mg2IrH6 = 19"
+targets = [17.0, 17.5, 18.5, 19.0, 19.5, 20.0]          # ternary A2MH6 and all prototypes
+alloy_targets = [18.5, 19.0, 19.5]                      # alloy prototypes: tune N around Mg2IrH6
+reference_N = 19.0
+
+[caps]                                                  # deterministic, priority order |N - 19|, size
+source = "doc32#1.5: GPU budget of the lane (R30#3.2: S3 ~1 GPU-h); judgment"
+"A2MH6" = 200
+"AA'MH6" = 200
+"A3A'M2H12" = 60
+"A2MM'H12" = 60
+
+[rank]
+source = "R30#3.3: campaign-2 per-lane quota P 40 % of the S4 rank cut (add P = 0.40 to tiers [S3.rank_lane_min_share] for mixed-lane pools)"
+lane_min_share = 0.40

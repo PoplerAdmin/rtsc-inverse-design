@@ -1,0 +1,104 @@
+{
+ "name": "twopeak_b",
+ "synthetic": true,
+ "description": "two Einstein peaks 80 K (lam 1) + 600 K (lam .5)",
+ "tags": [
+  "twopeak"
+ ],
+ "spectrum": {
+  "omega_K": [
+   80.0,
+   600.0
+  ],
+  "weight_K": [
+   40.0,
+   150.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: twopeak_b -- two Einstein peaks 80 K (lam 1) + 600 K (lam .5)",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 6000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 190.0,
+ "lambda": 1.5,
+ "omega_log_K": 156.59470564675445,
+ "ceiling_K": 43.86489984852642,
+ "n_atoms": 2,
+ "oracle": {
+  "0.0": {
+   "Tc": 33.20460241887385,
+   "err": 4.167730539248252e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1084,
+   "crossings": [
+    [
+     33.05842828444558,
+     33.733090086168964
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.23529594931330283,
+   "notes": [],
+   "nevals": 96,
+   "jumps_checked": 0,
+   "seconds": 18.3
+  },
+  "0.1": {
+   "Tc": 21.702370635502536,
+   "err": 4.964601385336058e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     21.628668851262155,
+     21.952405943709703
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5657180093479626,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 227,
+   "jumps_checked": 44,
+   "seconds": 49.41
+  },
+  "0.15": {
+   "Tc": 18.59340177929449,
+   "err": 4.151007032429294e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     18.54232346703548,
+     18.77639967991868
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.6800798266331782,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 274,
+   "jumps_checked": 60,
+   "seconds": 67.08
+  }
+ },
+ "allen_dynes": {
+  "0.0": 30.13639968694942,
+  "0.1": 20.619571745611513,
+  "0.15": 17.075425140818155
+ }
+}

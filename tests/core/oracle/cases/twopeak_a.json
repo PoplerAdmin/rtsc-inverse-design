@@ -1,0 +1,104 @@
+{
+ "name": "twopeak_a",
+ "synthetic": true,
+ "description": "two Einstein peaks 200 K (lam .5) + 1200 K (lam .7)",
+ "tags": [
+  "twopeak"
+ ],
+ "spectrum": {
+  "omega_K": [
+   200.0,
+   1200.0
+  ],
+  "weight_K": [
+   50.0,
+   420.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: twopeak_a -- two Einstein peaks 200 K (lam .5) + 1200 K (lam .7)",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 12000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 470.0,
+ "lambda": 1.2,
+ "omega_log_K": 568.789483995042,
+ "ceiling_K": 108.50791015161799,
+ "n_atoms": 2,
+ "oracle": {
+  "0.0": {
+   "Tc": 95.43433982283241,
+   "err": 1.1316526994061953e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1084,
+   "crossings": [
+    [
+     94.19848736186056,
+     96.12090547128628
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.1175411918598803,
+   "notes": [],
+   "nevals": 82,
+   "jumps_checked": 0,
+   "seconds": 19.78
+  },
+  "0.1": {
+   "Tc": 62.11217509723868,
+   "err": 1.6046780632180324e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     61.62990786824859,
+     62.61833826566374
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.4578872066612968,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 174,
+   "jumps_checked": 26,
+   "seconds": 38.3
+  },
+  "0.15": {
+   "Tc": 52.029182154691995,
+   "err": 1.3618585044887018e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     51.38379776543956,
+     52.32491279733546
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5796032768019205,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 219,
+   "jumps_checked": 38,
+   "seconds": 58.84
+  }
+ },
+ "allen_dynes": {
+  "0.0": 84.52213684654295,
+  "0.1": 56.24612189774516,
+  "0.15": 44.79035308600535
+ }
+}

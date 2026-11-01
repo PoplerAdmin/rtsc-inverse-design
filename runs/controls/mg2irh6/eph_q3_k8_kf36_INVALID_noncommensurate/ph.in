@@ -1,0 +1,19 @@
+e-ph coarse tier-2
+ &inputph
+    prefix = 'pwscf'
+    outdir = './tmp/'
+    tr2_ph = 1.0d-16
+    fildyn = 'dyn'
+    fildvscf = 'dvscf'
+    electron_phonon = 'interpolated'
+    el_ph_sigma = 0.005
+    el_ph_nsigma = 10
+    trans = .true.
+    ldisp = .true.
+    nq1 = 3
+    nq2 = 3
+    nq3 = 3
+    amass(1) = 24.305
+    amass(2) = 192.217
+    amass(3) = 1.00794
+ /

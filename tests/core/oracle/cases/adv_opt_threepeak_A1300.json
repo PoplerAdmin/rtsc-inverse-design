@@ -1,0 +1,103 @@
+{
+ "name": "adv_opt_threepeak_A1300",
+ "synthetic": true,
+ "description": "near-extremal triple, A = 1300 K",
+ "tags": [
+  "adversarial",
+  "near_bound"
+ ],
+ "spectrum": {
+  "omega_K": [
+   2046.169989506821,
+   2273.522210563134,
+   2500.874431619448
+  ],
+  "weight_K": [
+   260.0,
+   780.0,
+   260.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: adv_opt_threepeak_A1300 -- near-extremal triple, A = 1300 K",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 25008.74431619448,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 1300.0,
+ "lambda": 1.148220606060606,
+ "omega_log_K": 2259.786689021164,
+ "ceiling_K": 300.12826212149656,
+ "n_atoms": 3,
+ "oracle": {
+  "0.0": {
+   "Tc": 299.65565731604283,
+   "err": 2.0045908405855837e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     294.12569687906665,
+     300.12826212149656
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.0018708426686687425,
+   "notes": [],
+   "nevals": 66,
+   "jumps_checked": 0,
+   "seconds": 2.64
+  },
+  "0.1": {
+   "Tc": 219.68970391785646,
+   "err": 2.459535204110503e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1255,
+   "crossings": [
+    [
+     217.2321520089262,
+     221.66546123359817
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.3366869632068222,
+   "notes": [],
+   "nevals": 120,
+   "jumps_checked": 10,
+   "seconds": 24.0
+  },
+  "0.15": {
+   "Tc": 191.980807390123,
+   "err": 2.4150558384266493e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1344,
+   "crossings": [
+    [
+     188.58477780108154,
+     192.4334467357975
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.4620577608472417,
+   "notes": [],
+   "nevals": 147,
+   "jumps_checked": 16,
+   "seconds": 37.31
+  }
+ },
+ "allen_dynes": {
+  "0.0": 295.4098123209292,
+  "0.1": 203.24528255190222,
+  "0.15": 161.5681917535962
+ }
+}

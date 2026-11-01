@@ -1,0 +1,98 @@
+{
+ "name": "einstein_w1000_lam1",
+ "synthetic": true,
+ "description": "single Einstein mode at 1000 K, lambda=1",
+ "tags": [
+  "einstein"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1000.0
+  ],
+  "weight_K": [
+   500.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: einstein_w1000_lam1 -- single Einstein mode at 1000 K, lambda=1",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 10000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 500.0,
+ "lambda": 1.0,
+ "omega_log_K": 999.9999999999998,
+ "ceiling_K": 115.43394696980637,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 114.61951209000276,
+   "err": 1.1687593220768713e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1084,
+   "crossings": [
+    [
+     113.12526803041024,
+     115.43394696980637
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.007660269717980964,
+   "notes": [],
+   "nevals": 71,
+   "jumps_checked": 0,
+   "seconds": 27.37
+  },
+  "0.1": {
+   "Tc": 79.91624916263038,
+   "err": 1.0730693434589456e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1343,
+   "crossings": [
+    [
+     78.63737062060974,
+     80.24221491898953
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.35083026347007396,
+   "notes": [],
+   "nevals": 133,
+   "jumps_checked": 12,
+   "seconds": 44.38
+  },
+  "0.15": {
+   "Tc": 67.77593774729249,
+   "err": 1.0241711420425406e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1420,
+   "crossings": [
+    [
+     67.7255076987466,
+     68.26710930313678
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.47820259185814706,
+   "notes": [],
+   "nevals": 157,
+   "jumps_checked": 20,
+   "seconds": 36.66
+  }
+ },
+ "allen_dynes": {
+  "0.0": 112.42128700033741,
+  "0.1": 73.16891714406722,
+  "0.15": 55.645447476017495
+ }
+}

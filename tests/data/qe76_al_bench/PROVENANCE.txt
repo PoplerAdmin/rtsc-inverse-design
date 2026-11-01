@@ -1,0 +1,10 @@
+REAL Quantum ESPRESSO 7.6 output (not synthetic), unchanged, from an earlier benchmark run
+of fcc Al at 0 GPa made on 2026-10-27 (the run that showed negative per-mode alpha^2F at the smallest smearings).
+
+Files: a2F.dos1..10 and lambda from matdyn.x (la2F=.true., dos=.true.), and matdyn.in.
+Setup: PBE, SG15 ONCV 1.2 norm-conserving, k_scf 16^3, e-ph fit grid 32^3, q 8^3 (29 irreducible),
+matdyn grid 32^3, ndos 200, el_ph_nsigma 10 with broadening isig x 0.005 Ry.
+
+Used by tests/test_dfpt_smearing_admission.py: the smallest smearing(s) carry negative per-mode
+alpha^2F (Fourier ringing of under-resolved gamma near Gamma) and must be excluded by
+smearing_admission='mode_positive'.

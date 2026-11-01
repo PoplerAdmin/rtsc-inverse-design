@@ -1,0 +1,26 @@
+     number of k points=  1240  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9655 ev
+!    total energy              =    -436.95075333 Ry
+     init_run     :     15.83s CPU     15.90s WALL (       1 calls)
+     electrons    :    583.33s CPU    587.39s WALL (       1 calls)
+     wfcinit      :     15.25s CPU     15.23s WALL (       1 calls)
+     potinit      :      0.09s CPU      0.12s WALL (       1 calls)
+     hinit0       :      0.29s CPU      0.32s WALL (       1 calls)
+     c_bands      :    506.47s CPU    508.38s WALL (      12 calls)
+     sum_band     :     76.34s CPU     78.32s WALL (      12 calls)
+     v_of_rho     :      0.39s CPU      0.55s WALL (      12 calls)
+     mix_rho      :      0.03s CPU      0.05s WALL (      12 calls)
+     init_us_2    :     18.73s CPU     18.63s WALL (    7750 calls)
+     cegterg      :    425.69s CPU    421.97s WALL (    3720 calls)
+     cdiaghg      :      6.79s CPU      7.44s WALL (   15438 calls)
+     h_psi        :    383.76s CPU    373.79s WALL (   16058 calls)
+     g_psi        :      3.77s CPU      4.17s WALL (   12028 calls)
+     h_psi:calbec :     16.51s CPU     15.38s WALL (   16058 calls)
+     vloc_psi     :    351.96s CPU    341.31s WALL (   16058 calls)
+     add_vuspsi   :     13.13s CPU     14.38s WALL (   16058 calls)
+     calbec       :     16.46s CPU     15.34s WALL (   16058 calls)
+     fft          :      0.24s CPU      0.27s WALL (     120 calls)
+     ffts         :      0.01s CPU      0.01s WALL (      12 calls)
+     fftw         :    364.07s CPU    354.36s WALL (  650480 calls)
+     PWSCF        :  10m 3.85s CPU  10m 9.38s WALL
+   JOB DONE.

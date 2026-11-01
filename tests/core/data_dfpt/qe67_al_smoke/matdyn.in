@@ -1,0 +1,14 @@
+ &input
+    asr = 'crystal'
+    flfrc = 'ifc.fc'
+    flfrq = 'freq.dos'
+    dos = .true.
+    la2F = .true.
+    fldos = 'phonon.dos'
+    nk1 = 8
+    nk2 = 8
+    nk3 = 8
+    el_ph_nsigma = 10
+    ndos = 50
+    amass(1) = 26.9815385
+ /

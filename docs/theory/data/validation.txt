@@ -1,0 +1,52 @@
+== 1. Einstein mu*=0 optimum (certified a* in [4.3314814, 4.3314815]) ==
+w* = 7.57486  a* = 4.33148211  lambda* = 1.14365  1/a* = 0.23086786
+
+== 2. Large-lambda asymptote, Einstein, mu*=0: Tc/(Omega sqrt(lam)) ==
+lam=     1  Tc/Omega=0.11462  Tc/sqrt(lam<w2>)=0.11462
+lam=     2  Tc/Omega=0.21174  Tc/sqrt(lam<w2>)=0.14972
+lam=     3  Tc/Omega=0.27898  Tc/sqrt(lam<w2>)=0.16107
+lam=     5  Tc/Omega=0.37993  Tc/sqrt(lam<w2>)=0.16991
+lam=    10  Tc/Omega=0.55778  Tc/sqrt(lam<w2>)=0.17638
+lam=    30  Tc/Omega=0.98934  Tc/sqrt(lam<w2>)=0.18063
+lam=   100  Tc/Omega=1.82098  Tc/sqrt(lam<w2>)=0.18210
+lam=  1000  Tc/Omega=5.77633  Tc/sqrt(lam<w2>)=0.18266
+
+== 3. Allen-Dynes comparison (mu* at omega_c = 10 omega_max; AD with corrections) ==
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.00 wc=5wmax  Tc_ME=10.719K  Tc_AD=10.824K  ratio=0.990
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.00 wc=10wmax  Tc_ME=10.719K  Tc_AD=10.824K  ratio=0.990
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.10 wc=5wmax  Tc_ME=8.230K  Tc_AD=7.890K  ratio=1.043
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.10 wc=10wmax  Tc_ME=8.330K  Tc_AD=7.890K  ratio=1.056
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.13 wc=5wmax  Tc_ME=7.683K  Tc_AD=7.128K  ratio=1.078
+Pb-like: lam=1.550 wlog=60.0K w2=67.6K mu*=0.13 wc=10wmax  Tc_ME=7.843K  Tc_AD=7.128K  ratio=1.100
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.00 wc=5wmax  Tc_ME=6.159K  Tc_AD=6.164K  ratio=0.999
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.00 wc=10wmax  Tc_ME=6.159K  Tc_AD=6.164K  ratio=0.999
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.10 wc=5wmax  Tc_ME=1.733K  Tc_AD=1.433K  ratio=1.209
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.10 wc=10wmax  Tc_ME=1.880K  Tc_AD=1.433K  ratio=1.312
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.13 wc=5wmax  Tc_ME=1.148K  Tc_AD=0.708K  ratio=1.620
+Al-like: lam=0.430 wlog=227.3K w2=299.3K mu*=0.13 wc=10wmax  Tc_ME=1.323K  Tc_AD=0.708K  ratio=1.867
+
+Einstein scan, Tc/Omega (ME, mu* at 10 Omega) vs AD:
+mu*=0.00 lam= 0.5  Tc_ME=  39.429K  Tc_AD=  37.889K  ratio=1.041
+mu*=0.00 lam= 1.0  Tc_ME= 114.619K  Tc_AD= 112.421K  ratio=1.020
+mu*=0.00 lam= 1.5  Tc_ME= 169.147K  Tc_AD= 167.655K  ratio=1.009
+mu*=0.00 lam= 2.0  Tc_ME= 211.741K  Tc_AD= 210.341K  ratio=1.007
+mu*=0.00 lam= 3.0  Tc_ME= 278.984K  Tc_AD= 276.748K  ratio=1.008
+mu*=0.00 lam= 5.0  Tc_ME= 379.929K  Tc_AD= 376.491K  ratio=1.009
+mu*=0.10 lam= 0.5  Tc_ME=  15.740K  Tc_AD=  12.380K  ratio=1.271
+mu*=0.10 lam= 1.0  Tc_ME=  79.916K  Tc_AD=  73.169K  ratio=1.092
+mu*=0.10 lam= 1.5  Tc_ME= 132.130K  Tc_AD= 124.211K  ratio=1.064
+mu*=0.10 lam= 2.0  Tc_ME= 172.352K  Tc_AD= 162.883K  ratio=1.058
+mu*=0.10 lam= 3.0  Tc_ME= 234.667K  Tc_AD= 220.129K  ratio=1.066
+mu*=0.10 lam= 5.0  Tc_ME= 326.378K  Tc_AD= 301.167K  ratio=1.084
+mu*=0.15 lam= 0.5  Tc_ME=   9.782K  Tc_AD=   4.956K  ratio=1.974
+mu*=0.15 lam= 1.0  Tc_ME=  67.776K  Tc_AD=  55.645K  ratio=1.218
+mu*=0.15 lam= 1.5  Tc_ME= 118.799K  Tc_AD= 104.565K  ratio=1.136
+mu*=0.15 lam= 2.0  Tc_ME= 158.289K  Tc_AD= 142.026K  ratio=1.115
+mu*=0.15 lam= 3.0  Tc_ME= 218.478K  Tc_AD= 196.611K  ratio=1.111
+mu*=0.15 lam= 5.0  Tc_ME= 306.594K  Tc_AD= 271.568K  ratio=1.129
+
+== 4. Truncation convergence ==
+Einstein lam=2 mu*=0.0: Tc(30)=317.611849  Tc(60)=317.611849  rel=0.0e+00
+Einstein lam=2 mu*=0.15: Tc(30)=237.432818  Tc(60)=237.432818  rel=2.1e-14
+Pb-like mu*=0.0: Tc(30)=10.719413  Tc(60)=10.719414  rel=9.5e-08
+Pb-like mu*=0.15: Tc(30)=7.555577  Tc(60)=7.555578  rel=1.4e-07

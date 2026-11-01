@@ -1,0 +1,100 @@
+{
+ "name": "strong_twopeak_lam4",
+ "synthetic": true,
+ "description": "150 K (lam 3) + 900 K (lam 1)",
+ "tags": [
+  "strong"
+ ],
+ "spectrum": {
+  "omega_K": [
+   150.0,
+   900.0
+  ],
+  "weight_K": [
+   225.0,
+   450.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: strong_twopeak_lam4 -- 150 K (lam 3) + 900 K (lam 1)",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 9000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 675.0,
+ "lambda": 4.0,
+ "omega_log_K": 234.762687010993,
+ "ceiling_K": 155.8358284092386,
+ "n_atoms": 2,
+ "oracle": {
+  "0.0": {
+   "Tc": 121.62166853485992,
+   "err": 6.953075789537852e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     119.84124109560022,
+     122.28698070979615
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.2957949386863704,
+   "notes": [],
+   "nevals": 91,
+   "jumps_checked": 0,
+   "seconds": 3.11
+  },
+  "0.1": {
+   "Tc": 94.69909706064364,
+   "err": 7.561409991990704e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1148,
+   "crossings": [
+    [
+     94.04142608085166,
+     95.9606388580119
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5837867671061263,
+   "notes": [],
+   "nevals": 138,
+   "jumps_checked": 12,
+   "seconds": 16.73
+  },
+  "0.15": {
+   "Tc": 85.94777623603235,
+   "err": 7.126040982472161e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1223,
+   "crossings": [
+    [
+     85.00600079521172,
+     86.74081713797115
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.6938592241102068,
+   "notes": [],
+   "nevals": 158,
+   "jumps_checked": 16,
+   "seconds": 15.49
+  }
+ },
+ "allen_dynes": {
+  "0.0": 119.80839576758106,
+  "0.1": 81.3294274690272,
+  "0.15": 69.23711600800127
+ }
+}

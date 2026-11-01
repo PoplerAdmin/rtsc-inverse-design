@@ -1,0 +1,369 @@
+{
+ "C": {
+  "n": 6,
+  "with_H": 2,
+  "donor_TM_H_ternary": 1,
+  "off_requested_system": 0,
+  "subsystem_of_requested": 0,
+  "H_f_mean": 0.236,
+  "H_f_median": 0.0,
+  "H_f_ge_0.5": 2,
+  "H_f_ge_0.6": 2,
+  "n_atoms_median": 2.0,
+  "n_elements": {
+   "3": 1,
+   "2": 2,
+   "1": 3
+  },
+  "cost_class": {
+   "C2": 1,
+   "C1": 5
+  },
+  "P1": 0,
+  "S6_list_groups": 6,
+  "crystal_system": {
+   "cubic": 5,
+   "hexagonal": 1
+  },
+  "top_sg": [
+   [
+    225,
+    3
+   ],
+   [
+    229,
+    2
+   ],
+   [
+    191,
+    1
+   ]
+  ],
+  "S1": {
+   "('PASS', None)": 6
+  },
+  "S2": {
+   "PASS": 6
+  },
+  "novel_of_S2pass": [
+   2,
+   6
+  ],
+  "S3": {
+   "('PASS', None)": 6
+  },
+  "ehull_ml_median": -0.0,
+  "ehull_ml_le_0.1": 5,
+  "n_ehull": 5
+ },
+ "D": {
+  "n": 506,
+  "with_H": 453,
+  "donor_TM_H_ternary": 299,
+  "off_requested_system": 0,
+  "subsystem_of_requested": 0,
+  "H_f_mean": 0.41,
+  "H_f_median": 0.5,
+  "H_f_ge_0.5": 261,
+  "H_f_ge_0.6": 149,
+  "n_atoms_median": 10.0,
+  "n_elements": {
+   "2": 197,
+   "3": 309
+  },
+  "cost_class": {
+   "C1": 53,
+   "C3": 364,
+   "C2": 89
+  },
+  "P1": 19,
+  "S6_list_groups": 116,
+  "crystal_system": {
+   "cubic": 59,
+   "hexagonal": 37,
+   "orthorhombic": 115,
+   "trigonal": 51,
+   "tetragonal": 74,
+   "triclinic": 36,
+   "monoclinic": 134
+  },
+  "top_sg": [
+   [
+    12,
+    58
+   ],
+   [
+    11,
+    26
+   ],
+   [
+    139,
+    24
+   ],
+   [
+    63,
+    21
+   ],
+   [
+    221,
+    20
+   ],
+   [
+    1,
+    19
+   ]
+  ],
+  "S1": {
+   "('PASS', None)": 487,
+   "('SCREENED_OUT', 'n_atoms_primitive')": 19
+  },
+  "S2": {
+   "PASS": 456,
+   "DUPLICATE": 31,
+   "None": 19
+  },
+  "novel_of_S2pass": [
+   0,
+   456
+  ],
+  "S3": {
+   "('DEFERRED', 'rank_cut')": 440,
+   "None": 50,
+   "('PASS', None)": 15,
+   "('SCREENED_OUT', 'H7-ml:e_hull_ml_self_eV')": 1
+  },
+  "ehull_ml_median": 0.055,
+  "ehull_ml_le_0.1": 367,
+  "n_ehull": 447
+ },
+ "G1": {
+  "n": 384,
+  "with_H": 381,
+  "donor_TM_H_ternary": 378,
+  "off_requested_system": 0,
+  "subsystem_of_requested": 6,
+  "H_f_mean": 0.368,
+  "H_f_median": 0.333,
+  "H_f_ge_0.5": 136,
+  "H_f_ge_0.6": 62,
+  "n_atoms_median": 10.0,
+  "n_elements": {
+   "3": 378,
+   "2": 6
+  },
+  "cost_class": {
+   "C2": 84,
+   "C3": 290,
+   "C1": 10
+  },
+  "P1": 149,
+  "S6_list_groups": 43,
+  "crystal_system": {
+   "monoclinic": 119,
+   "triclinic": 171,
+   "cubic": 11,
+   "trigonal": 33,
+   "orthorhombic": 22,
+   "tetragonal": 28
+  },
+  "top_sg": [
+   [
+    1,
+    149
+   ],
+   [
+    8,
+    59
+   ],
+   [
+    6,
+    24
+   ],
+   [
+    2,
+    22
+   ],
+   [
+    12,
+    20
+   ],
+   [
+    166,
+    14
+   ]
+  ],
+  "S1": {
+   "('PASS', None)": 384
+  },
+  "S2": {
+   "PASS": 369,
+   "DUPLICATE": 15
+  },
+  "novel_of_S2pass": [
+   336,
+   369
+  ],
+  "S3": {
+   "('DEFERRED', 'rank_cut')": 351,
+   "None": 15,
+   "('SCREENED_OUT', 'H7-ml:e_hull_ml_self_eV')": 3,
+   "('PASS', None)": 15
+  },
+  "ehull_ml_median": 0.096,
+  "ehull_ml_le_0.1": 185,
+  "n_ehull": 353
+ },
+ "G4": {
+  "n": 80,
+  "with_H": 0,
+  "donor_TM_H_ternary": 0,
+  "off_requested_system": 0,
+  "subsystem_of_requested": 8,
+  "H_f_mean": 0.0,
+  "H_f_median": 0.0,
+  "H_f_ge_0.5": 0,
+  "H_f_ge_0.6": 0,
+  "n_atoms_median": 8.0,
+  "n_elements": {
+   "3": 56,
+   "2": 24
+  },
+  "cost_class": {
+   "C3": 56,
+   "C2": 22,
+   "C1": 2
+  },
+  "P1": 30,
+  "S6_list_groups": 0,
+  "crystal_system": {
+   "monoclinic": 33,
+   "triclinic": 36,
+   "orthorhombic": 3,
+   "trigonal": 5,
+   "hexagonal": 2,
+   "tetragonal": 1
+  },
+  "top_sg": [
+   [
+    1,
+    30
+   ],
+   [
+    8,
+    17
+   ],
+   [
+    6,
+    13
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    12,
+    3
+   ],
+   [
+    164,
+    2
+   ]
+  ],
+  "S1": {
+   "('PASS', None)": 80
+  },
+  "S2": {
+   "PASS": 80
+  },
+  "novel_of_S2pass": [
+   78,
+   80
+  ],
+  "S3": {
+   "('SCREENED_OUT', 'H7-ml:e_hull_ml_self_eV')": 34,
+   "('DEFERRED', 'rank_cut')": 46
+  },
+  "ehull_ml_median": 0.507,
+  "ehull_ml_le_0.1": 5,
+  "n_ehull": 80
+ },
+ "G5": {
+  "n": 64,
+  "with_H": 2,
+  "donor_TM_H_ternary": 0,
+  "off_requested_system": 0,
+  "subsystem_of_requested": 0,
+  "H_f_mean": 0.012,
+  "H_f_median": 0.0,
+  "H_f_ge_0.5": 1,
+  "H_f_ge_0.6": 1,
+  "n_atoms_median": 10.0,
+  "n_elements": {
+   "3": 33,
+   "4": 24,
+   "2": 6,
+   "6": 1
+  },
+  "cost_class": {
+   "C2": 13,
+   "C3": 49,
+   "C1": 2
+  },
+  "P1": 22,
+  "S6_list_groups": 7,
+  "crystal_system": {
+   "triclinic": 27,
+   "tetragonal": 10,
+   "cubic": 2,
+   "monoclinic": 18,
+   "trigonal": 2,
+   "orthorhombic": 4,
+   "hexagonal": 1
+  },
+  "top_sg": [
+   [
+    1,
+    22
+   ],
+   [
+    6,
+    7
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    123,
+    4
+   ],
+   [
+    12,
+    4
+   ],
+   [
+    10,
+    3
+   ]
+  ],
+  "S1": {
+   "('PASS', None)": 41,
+   "('SCREENED_OUT', 'no_pseudo')": 23
+  },
+  "S2": {
+   "PASS": 41,
+   "None": 23
+  },
+  "novel_of_S2pass": [
+   31,
+   41
+  ],
+  "S3": {
+   "('DEFERRED', 'rank_cut')": 41,
+   "None": 23
+  },
+  "ehull_ml_median": 0.049,
+  "ehull_ml_le_0.1": 28,
+  "n_ehull": 35
+ }
+}

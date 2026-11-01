@@ -1,0 +1,2 @@
+qe76_pb_bench: unchanged QE 7.6 output from an earlier benchmark run of this pipeline (same files as
+tests/core/data_dfpt/qe76_pb_bench). Used by tests/back/test_collect_coarse.py.

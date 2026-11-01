@@ -1,0 +1,17 @@
+e-ph Al-fcc-smoke
+ &inputph
+    prefix = 'al'
+    outdir = './tmp/'
+    tr2_ph = 1.0d-12
+    fildyn = 'dyn'
+    fildvscf = 'dvscf'
+    electron_phonon = 'interpolated'
+    el_ph_sigma = 0.01
+    el_ph_nsigma = 10
+    trans = .true.
+    ldisp = .true.
+    nq1 = 2
+    nq2 = 2
+    nq3 = 2
+    amass(1) = 26.9815385
+ /

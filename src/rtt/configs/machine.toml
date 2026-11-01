@@ -1,0 +1,32 @@
+schema = "rtt.machine/1"
+# Architecture §7.3 (written as valid TOML).
+
+[lanes.G]
+gpu = true
+cpu_threads = 2
+
+[lanes.S]
+mpi_ranks = 4
+jobs = 2          # two 2-rank jobs (doc 11 coarse runs used 2 ranks)
+
+[lanes.F]
+mpi_ranks = 4
+jobs = 1
+
+[env]
+OMP_NUM_THREADS = 1
+TORCH_DISABLE_NATIVE_JIT = 1
+nice = 19
+
+[disk]
+scratch = "~/rtt_scratch"
+min_free_GB = 80
+prune_per_q = true
+
+[derate]
+contention = 0.85
+
+[capacity]        # §8.2
+physical_cores = 8
+core_h_per_day = 192
+gpu_h_per_day = 24

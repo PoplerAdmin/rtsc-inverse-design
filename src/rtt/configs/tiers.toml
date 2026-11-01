@@ -1,0 +1,56 @@
+schema = "rtt.tiers/1"
+# Architecture §7.2 (owned by docs 10, 11, 13). Every numeric threshold has a source id (R7).
+
+[S1]
+n_atoms_max = { value = 20, source = "doc10#1 (MatterGen training <=20 atoms)" }
+pseudo_dir = "~/pseudo/sg15"                # whitelist = elements with a file here
+
+[S3]
+ml_model = "MatterSim-v1.0.0-5M"
+ehull_self_max_eV = { value = 0.60, source = "doc21#RC1-F15: 0.35 (doc02#5a:H7) + sqrt2*p95 0.092 (MatterSim-self vs DFT hull, 160 H-entries of H-Ir-Mg/H-Li-Mg/H-Ca-Pd; docs/design/data/21_hull_calibration.json) + 0.10 Mg offset (doc10#3.3) + ZPE p95 0.018 (n=11) = 0.598 -> 0.60", provisional = true }   # re-measure with more systems + A3-4 audit pairs
+rank_cut_per_day = { value = 25, source = "doc12#8.3 (S4 capacity)" }
+ml_phonons_remove = false                   # doc10#3.4; enforced false for H/Li/Be in code
+alignn_weight_H_light = { value = 0.0, source = "doc11#2.3" }
+metallicity_weight = { value = 0.20, source = "doc31#2: composition metallicity prior (rtt.score.metallicity), ranking only; weight is a judgment (closed-shell vs open-shell spread 0.14 in score), not fitted", provisional = true }
+
+[S3.rank_lane_min_share]                    # B9 / doc31#2: per-lane minimum share of each pool's rank-cut slots
+source = "doc31#2: replaces the campaign-1 hand quota CAMPAIGN_GENERATED_QUOTA (10 of 25 slots to generated cells, doc30#3); judgment"
+provisional = true
+G = 0.40                                    # generated lanes G1..G5, GA together: >= floor(0.40 * slots)
+
+[S4]
+profile = "s4"
+ehull_heur_max_eV = { value = 0.56, source = "doc22#RC1-c: 0.35 (doc02#5a:H7) + 0.10 ZPE allowance (H7 is ZPE-corrected, heuristic is not; doc02#4.1 'tens of meV/atom', H-rich upper end UNVERIFIED) + 0.10 s4-profile (60 Ry, coarse k) formation-energy error allowance (UNVERIFIED; to be measured vs ref_hull) = 0.55 -> 0.56", provisional = true }   # the quantity is E_form vs elements, a lower bound on E_hull
+
+[S5]
+source = "doc11#3.1"
+profile = "coarse"
+q = [4, 4, 4]                               # finest coarse mesh
+q_meshes = [[3,3,3],[4,4,4]]                # doc13 T2-SCREEN: q3^3 + q4^3 required (coarser first)
+plateau_sigma_min_Ry = 0.03                 # reporting only (A_mid); doc16: never used by the screen statistic
+ecut_floor_Ry = { H = 80.0, source = "doc15#1 (SG15 H: 60 Ry 8.7 meV/atom, -2.7 kbar vs 120 Ry; 80 Ry 1.6 meV/atom, -0.4 kbar); doc16#3", provisional = true }   # per-element ecutwfc floor for S5; only H measured
+margin_M_c = { value = 2.0, source = "doc13#5 T2-SCREEN fallback (one coarse mesh, q>=4^3 only); statistic per doc16#4 (one-mesh all-sigma A_hi, not max admitted A); doc11#4; not recalibrated (no single-mesh hydride data)", provisional = true }
+e_c = { value = 0.5, source = "doc16#5 T2-SCREEN (all-sigma statistic): (1+e_c) A_hi,coarse < A_target on q3^3 and q4^3; worst A_hi,coarse/A_hi,ref = 1.30 (Mg2IrH6), n = 5 materials (2 hydrides), judgment not a quantile; supersedes doc13#5", provisional = true }   # doc16 §5
+
+[S6]
+source = "doc12#3.1 S6, R12#14"
+profile = "full"
+q_meshes = [[4,4,4],[6,6,6]]
+force_tol_mRy_bohr = 1.0
+stress_tol_kbar = 0.5
+certify = { mode = "bracket", mu_hi = 0.13, mu_hi_report = [0.10, 0.13, 0.15], omega_c_factor = 10.0, source = "doc12#3.6" }
+
+[audit]
+source = "doc12#3.5"
+A34_per_week = 10
+A45_per_week = 2
+A56_per_month = 1
+
+[controls]
+source = "doc12#4 R8"
+recall_disable_below = 1.0
+
+[retry]                                     # review RC1 F12/F13: DEFERRED/ERROR re-entry (rtt.engine.retry)
+source = "RC1#F12,F13 (engineering policy, not physics)"
+max_attempts = 3                            # failed attempts per (candidate, stage); rank_cut/budget do not count
+backoff_h = 6.0                             # wait backoff_h * 2**(n-1) hours after the n-th failure

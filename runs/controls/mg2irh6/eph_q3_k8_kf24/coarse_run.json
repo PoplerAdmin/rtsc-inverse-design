@@ -1,0 +1,94 @@
+{
+ "tool": "src/scoring/coarse_dfpt.py",
+ "structure_source": "template_e80.in",
+ "settings": {
+  "ecutwfc": 80.0,
+  "ecutrho": 320.0,
+  "kscf": 8,
+  "kfit": 24,
+  "nq": 3,
+  "sigma0_Ry": 0.005,
+  "nsigma": 10,
+  "degauss_Ry": 0.02,
+  "tr2_ph": "1.0d-16",
+  "matdyn_nk": 32,
+  "ranks": 4,
+  "omp_threads_1": true
+ },
+ "steps": {
+  "scf_fit": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/mpirun -np 4 --bind-to none ~/micromamba/envs/qe/bin/pw.x -nk 4 -in scf_fit.in",
+   "wall_s": 209.284,
+   "rc": 0,
+   "timed_out": false
+  },
+  "scf": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/mpirun -np 4 --bind-to none ~/micromamba/envs/qe/bin/pw.x -nk 4 -in scf.in",
+   "wall_s": 19.651,
+   "rc": 0,
+   "timed_out": false
+  },
+  "ph": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/mpirun -np 4 --bind-to none ~/micromamba/envs/qe/bin/ph.x -nk 4 -in ph.in",
+   "wall_s": 10166.555,
+   "rc": 0,
+   "timed_out": false
+  },
+  "q2r": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/q2r.x -in q2r.in",
+   "wall_s": 1.858,
+   "rc": 0,
+   "timed_out": false
+  },
+  "matdyn": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/matdyn.x -in matdyn.in",
+   "wall_s": 331.613,
+   "rc": 0,
+   "timed_out": false
+  }
+ },
+ "ok": true,
+ "wall_total_s": 10728.961,
+ "phonon_min": {
+  "dyn_min_cm1": {
+   "dyn1": 5.785265,
+   "dyn2": 73.904478,
+   "dyn3": 82.972484,
+   "dyn4": 98.262861
+  },
+  "matdyn_mesh_min_cm1": -0.0
+ },
+ "sha256": {
+  "a2F.dos1": "93fd94897bcaa44f16357b159ba1cbcaa94c47f1daa621af36f700537f8137bb",
+  "a2F.dos10": "deb5c7bff79221eae443eab6dac027067636cdcbd2dfda9c666c877de23b71cf",
+  "a2F.dos2": "aa9f6aa20f9c0d36d43930072471789bb252010eec9271c39af0af1705bdb29b",
+  "a2F.dos3": "ee0a458841c26d3e18fa7bfa4b01faacf451c5a26dc6bf9811b75700bb40c6b2",
+  "a2F.dos4": "9e4039c42370f0ebed5b3abaf540a0d5e3bf6c8c3634096e658b58d8384decf5",
+  "a2F.dos5": "0fd0f8d6a4e266ea0b13c0e68a08250fbacbf7a60ddf28c7e684414b5df4c998",
+  "a2F.dos6": "962b2a0946e5de5332bfe7a38eb5946a5a5f2d6f58ab9883b9642d56f47fe28b",
+  "a2F.dos7": "1c6977576b0daf64ecdb11e181dbef7fa4eb0ad687ffb8108b6f1503f795d3a7",
+  "a2F.dos8": "79df27ba55e282db1a1fd7b6f7eb52afea4d33113329eca09ba207f198becc1d",
+  "a2F.dos9": "07a192e66ff9844126112e8ace340f948d02b4e943b7cea3a18361f760efaf5f",
+  "dyn0": "b2518571ee12df70c7a931a99c10eb04e35d209374217c800185d32468064971",
+  "dyn1": "76dbc9fcf31606a9288191ea665fb263cfccea88d7466f75efe835f70b50bb23",
+  "dyn2": "b047c6c18bdf06810dc667c5301a5fe2dee2a8761de1c425a6a663f3e3f8643a",
+  "dyn3": "d0ce81658ac9084410fef04736567d83b6e1d527659778f8efdfa3cfc1a91847",
+  "dyn4": "24f1b436f90ae63dca939185c9482a0a0145a8315a285e1377042cb30ab27082",
+  "dyna2F": "83040574dfd5f19859ab7b3592f5bb6c7c58f56a8de5e352db4e34d1fe6208b0",
+  "freq.dos": "4ae1bf1189990d01d8461e8405d07ad54d6e7bfe9271d1016c220b1cd416f02d",
+  "ifc.fc": "4cfd1155b45b3a8adfd1ed1b28f0df725d525ead839cadb4da7c5cb8fc0664f9",
+  "lambda": "1fe06073b7dd94219c52cf784867aa3cb822e02b8f234df3bc97c106bea9ceb2",
+  "matdyn.in": "96f2bd17dbdfee7049d0b592bf8e859e02127d311bb780d7ba695596c2182641",
+  "matdyn.modes": "83550e757e76e36b30b69f5546e6edc41395e1d1654ec300c3974a4ca24af18c",
+  "matdyn.out": "0fcabe83a5f37e59fa20dbfc35d17a9ace077980559c0d4df6ff97dcd6ca8aeb",
+  "ph.in": "ff1501bd02cef907d52f14cea2bac9db1e6377e4e1a49cd165b3ff0b86d74997",
+  "ph.out": "25576bc7f34a498446f50367d42534f12444c7345b9ae1b458367adc4aafe94d",
+  "phonon.dos": "8eb48221eeed9f2f343b2725ebaf40e7bada97bcd0cc22e5c7212d7c159c0d34",
+  "q2r.in": "a44b50b45be8fd21d96177b0ef2a3e476519de7b3967267ed4c50a6f004910c5",
+  "q2r.out": "c13b9dec15269572b6e05917ea96dc8a7db12b7c3eb7c8d48d35ede6ee987d8b",
+  "scf.in": "d8c13b5b7e7071aa3b9b0ecc0716a263a40e342bef80dacf3927e4c1ed9ad4bd",
+  "scf.out": "4b6fd3fff641056f87d185a9dbdebdc00782a74f40c5969a9024a63d9cd5b40d",
+  "scf_fit.in": "b780c90bccd5b680e7c935660cad3e8c65e983a21a0f98b0a7d02083215ebcf7",
+  "scf_fit.out": "23917c338a47a24e4a8deff508c2520ba6dc18b2702d4bcddf90ff4a33b5886c"
+ }
+}

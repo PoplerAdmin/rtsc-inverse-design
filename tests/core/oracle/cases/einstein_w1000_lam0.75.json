@@ -1,0 +1,103 @@
+{
+ "name": "einstein_w1000_lam0.75",
+ "synthetic": true,
+ "description": "single Einstein mode at 1000 K, lambda=0.75",
+ "tags": [
+  "einstein"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1000.0
+  ],
+  "weight_K": [
+   375.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: einstein_w1000_lam0.75 -- single Einstein mode at 1000 K, lambda=0.75",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 10000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 375.0,
+ "lambda": 0.75,
+ "omega_log_K": 999.9999999999998,
+ "ceiling_K": 86.57546022735478,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 79.80558022580301,
+   "err": 1.0330867564746536e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1084,
+   "crossings": [
+    [
+     78.25735899203724,
+     79.8544479510584
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.07024233827601586,
+   "notes": [],
+   "nevals": 78,
+   "jumps_checked": 0,
+   "seconds": 26.47
+  },
+  "0.1": {
+   "Tc": 47.75911455567459,
+   "err": 1.513994113483072e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     47.50893823643418,
+     48.189342854428425
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.42647054213402713,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 189,
+   "jumps_checked": 32,
+   "seconds": 70.41
+  },
+  "0.15": {
+   "Tc": 37.44822190397537,
+   "err": 3.89506364780739e-11,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     37.44822190397537,
+     37.448221904012826
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": true,
+   "rho_at_ceiling": -0.554318112849659,
+   "notes": [
+    "truncation check at cap",
+    "Tc sits on an N_c(T) jump: Tc is the jump temperature, rho+ >= 0 there (rho=1.268e-03) and < 0 just above (rho=-5.586e-04)"
+   ],
+   "nevals": 240,
+   "jumps_checked": 50,
+   "seconds": 24.63
+  }
+ },
+ "allen_dynes": {
+  "0.0": 77.52717961362569,
+  "0.1": 42.20861352100828,
+  "0.15": 27.673076932810748
+ }
+}

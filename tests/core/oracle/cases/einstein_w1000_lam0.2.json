@@ -1,0 +1,94 @@
+{
+ "name": "einstein_w1000_lam0.2",
+ "synthetic": true,
+ "description": "single Einstein mode at 1000 K, lambda=0.2",
+ "tags": [
+  "einstein"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1000.0
+  ],
+  "weight_K": [
+   100.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: einstein_w1000_lam0.2 -- single Einstein mode at 1000 K, lambda=0.2",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 10000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 100.0,
+ "lambda": 0.2,
+ "omega_log_K": 999.9999999999998,
+ "ceiling_K": 23.086789393961272,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 1.820918359278904,
+   "err": 3.862443983958316e-05,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     1.8107107436001122,
+     1.8476640240817472
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.6483324849814434,
+   "notes": [
+    "truncation check at cap",
+    "truncation capped at N=1500; residual change 3.46e-06"
+   ],
+   "nevals": 381,
+   "seconds": 18.41
+  },
+  "0.1": {
+   "Tc": null,
+   "err": NaN,
+   "status": "below_floor",
+   "T_floor": 1.3646275602562514,
+   "N_used": 0,
+   "crossings": [],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.952042052903262,
+   "notes": [
+    "scan stopped: N_start=1511 > cap at T=1.3373350090511265",
+    "N_c jump-side checks NOT performed for this case (20-min job limit on a loaded machine); below_floor claim rests on the 2% log grid only"
+   ],
+   "nevals": 282,
+   "seconds": 33.22
+  },
+  "0.15": {
+   "Tc": null,
+   "err": NaN,
+   "status": "below_floor",
+   "T_floor": 1.3646275602562514,
+   "N_used": 0,
+   "crossings": [],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -1.0390091684065266,
+   "notes": [
+    "scan stopped: N_start=1511 > cap at T=1.3373350090511265",
+    "N_c jump-side checks NOT performed for this case (20-min job limit on a loaded machine); below_floor claim rests on the 2% log grid only"
+   ],
+   "nevals": 282,
+   "seconds": 36.47
+  }
+ },
+ "allen_dynes": {
+  "0.0": 1.6373395509975874,
+  "0.1": 0.0005440829466474133,
+  "0.15": 4.585468239430805e-15
+ }
+}

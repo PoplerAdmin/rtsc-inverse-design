@@ -1,0 +1,6 @@
+Check: 34 theorems with axioms, 0 axiom-free, disallowed axioms: [], error/sorry lines: 0
+CheckPipeline: 75 theorems with axioms, 7 axiom-free, disallowed axioms: [], error/sorry lines: 0
+CheckMultiBand: 67 theorems with axioms, 0 axiom-free, disallowed axioms: [], error/sorry lines: 0
+CheckTarget: 122 theorems with axioms, 0 axiom-free, disallowed axioms: [], error/sorry lines: 0
+source scan (sorry/admit/axiom/native_decide/implemented_by/extern):
+  none

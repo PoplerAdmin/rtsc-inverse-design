@@ -1,0 +1,103 @@
+{
+ "name": "adv_einstein2_mu0_300p5",
+ "synthetic": true,
+ "description": "Einstein lam 2 scaled: Tc(mu*=0) = 300.5 K",
+ "tags": [
+  "adversarial",
+  "T*_straddle"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1419.1850257200022
+  ],
+  "weight_K": [
+   1419.1850257200022
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: adv_einstein2_mu0_300p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 300.5 K",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py",
+   "scaled_from": "einstein_w1000_lam2",
+   "scale": 1.419185025720002,
+   "target_mu": 0.0,
+   "target_Tc": 300.5
+  }
+ },
+ "omega_c_K": 14191.850257200022,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 1419.1850257200022,
+ "lambda": 2.0,
+ "omega_log_K": 1419.185025720002,
+ "ceiling_K": 327.64425799861203,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 300.49999999999676,
+   "err": 1.3848492657521388e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     296.16445875705017,
+     302.2086313847451
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.1298536513772985,
+   "notes": [],
+   "nevals": 76,
+   "jumps_checked": 0,
+   "seconds": 4.51
+  },
+  "0.1": {
+   "Tc": 244.5988602417882,
+   "err": 1.1108476799538204e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     241.98792561695404,
+     246.9264547111776
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.43456015165989376,
+   "notes": [],
+   "nevals": 104,
+   "jumps_checked": 4,
+   "seconds": 3.99
+  },
+  "0.15": {
+   "Tc": 224.64075587900174,
+   "err": 1.0507498427726687e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     223.20195769352677,
+     227.75709968727222
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5564825290491445,
+   "notes": [],
+   "nevals": 115,
+   "jumps_checked": 6,
+   "seconds": 3.54
+  }
+ },
+ "allen_dynes": {
+  "0.0": 298.5130428741741,
+  "0.1": 231.16182146901238,
+  "0.15": 201.56176074339038
+ }
+}

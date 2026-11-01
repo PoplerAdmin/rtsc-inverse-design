@@ -1,0 +1,17 @@
+REAL Quantum ESPRESSO output (not synthetic), produced 2026-10-27 inside a Ubuntu 24.04 build container
+by rtt.core.dfpt.EPhWorkflow (script equivalent to tests/test_dfpt_qe_real.py).
+
+Code: Quantum ESPRESSO 6.7MaX, Ubuntu 24.04 package quantum-espresso 6.7-2build4 (apt), run with
+LD_PRELOAD=libsnprintf_chk_shim.so (built by rtt.core.dfpt.workflow.build_fortify_shim) to bypass a glibc
+_FORTIFY_SOURCE abort in the package's md5 helper; mpirun -np 2, -nk 2.
+Pseudopotential: Al.pz-vbc.UPF from /usr/share/espresso/pseudo (QE example pseudopotential, LDA).
+
+System: fcc Al primitive cell, ASE bulk('Al','fcc',a=4.05), vc-relax at 5 GPa (press = 50 kbar),
+ecutwfc 15 Ry, Marzari-Vanderbilt smearing 0.05 Ry, k_scf 4x4x4, dense k 8x8x8 (la2F), q 2x2x2,
+matdyn interpolation grid 8x8x8, ndos 50, el_ph_sigma 0.01 Ry x 10.
+
+THIS IS A SMOKE TEST WITH DELIBERATELY UNCONVERGED GRIDS AND CUTOFF. The numbers are real program
+output but carry no physical meaning for aluminium and must not be quoted as results.
+The final scf after vc-relax gives P = 45.38 kbar (target 50 kbar; Pulay stress at 15 Ry).
+
+Files: inputs (*.in), relax.out, matdyn.out.head (first 40 lines), a2F.dos1..10, lambda, freq.dos.

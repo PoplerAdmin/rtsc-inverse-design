@@ -1,0 +1,107 @@
+{
+ "name": "weak_einstein_w100_lam0.45",
+ "synthetic": true,
+ "description": "Einstein 100 K, lam .45",
+ "tags": [
+  "weak"
+ ],
+ "spectrum": {
+  "omega_K": [
+   100.0
+  ],
+  "weight_K": [
+   22.5
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: weak_einstein_w100_lam0.45 -- Einstein 100 K, lam .45",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 1000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 22.5,
+ "lambda": 0.45,
+ "omega_log_K": 100.00000000000004,
+ "ceiling_K": 5.194527613641286,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 3.1257025463039922,
+   "err": 2.630338270134683e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     3.0720199186411548,
+     3.134714202695056
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.2813880369645688,
+   "notes": [
+    "truncation check at cap",
+    "truncation capped at N=1500; residual change 1.29e-10"
+   ],
+   "nevals": 129,
+   "jumps_checked": 0,
+   "seconds": 41.82
+  },
+  "0.1": {
+   "Tc": 1.0561860193361552,
+   "err": 7.464535311144067e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     1.0529458542543346,
+     1.0575079275208992
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.6419203529284883,
+   "notes": [
+    "truncation check at cap",
+    "truncation capped at N=1500; residual change 1.23e-09"
+   ],
+   "nevals": 710,
+   "jumps_checked": 240,
+   "seconds": 45.95
+  },
+  "0.15": {
+   "Tc": 0.5904965301513425,
+   "err": 8.485690147705646e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     0.588373172244194,
+     0.5905563751090736
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.7610916133975443,
+   "notes": [
+    "truncation check at cap",
+    "truncation capped at N=1500; residual change 2.10e-09"
+   ],
+   "nevals": 1248,
+   "jumps_checked": 482,
+   "seconds": 53.5
+  }
+ },
+ "allen_dynes": {
+  "0.0": 2.9947083157247842,
+  "0.1": 0.7841018872946226,
+  "0.15": 0.24519139156703726
+ }
+}

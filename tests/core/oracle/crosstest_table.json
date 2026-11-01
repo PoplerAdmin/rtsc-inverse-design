@@ -1,0 +1,3075 @@
+[
+ {
+  "case": "adv_einstein2_mu0_299p5",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 299.4700261583784,
+  "T_up": 299.5299221983273,
+  "width": 0.05989603994891013,
+  "Tc_oracle_mu0_max": 299.49999999999767,
+  "Tc_oracle_muhi_min": 299.49999999999767,
+  "oracle_floor_muhi": null,
+  "seconds": 0.23,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_299p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 299.5 K): REJECTED_PROVEN; bracket [299.4700261583784, 299.5299221983273] K; evi"
+  ]
+ },
+ {
+  "case": "adv_einstein2_mu0_299p5",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 243.7604790917971,
+  "T_up": 299.5299221983273,
+  "width": 55.76944310653022,
+  "Tc_oracle_mu0_max": 299.49999999999767,
+  "Tc_oracle_muhi_min": 243.78488732916918,
+  "oracle_floor_muhi": null,
+  "seconds": 0.19,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_299p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 299.5 K): REJECTED_PROVEN; bracket [243.7604790917971, 299.5299221983273] K; evi"
+  ]
+ },
+ {
+  "case": "adv_einstein2_mu0_299p5",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 223.8707840654391,
+  "T_up": 299.5299221983273,
+  "width": 75.65913813288822,
+  "Tc_oracle_mu0_max": 299.49999999999767,
+  "Tc_oracle_muhi_min": 223.89319928705666,
+  "oracle_floor_muhi": null,
+  "seconds": 0.18,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_299p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 299.5 K): REJECTED_PROVEN; bracket [223.8707840654391, 299.5299221983273] K; evi"
+  ]
+ },
+ {
+  "case": "adv_einstein2_mu0_300p5",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 300.4699260787737,
+  "T_up": 300.53002210550045,
+  "width": 0.06009602672673964,
+  "Tc_oracle_mu0_max": 300.49999999999676,
+  "Tc_oracle_muhi_min": 300.49999999999676,
+  "oracle_floor_muhi": null,
+  "seconds": 0.2,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_300p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 300.5 K): CERTIFIED_CANDIDATE; bracket [300.4699260787737, 300.53002210550045] K"
+  ]
+ },
+ {
+  "case": "adv_einstein2_mu0_300p5",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 244.57437050779646,
+  "T_up": 300.53002210550045,
+  "width": 55.95565159770399,
+  "Tc_oracle_mu0_max": 300.49999999999676,
+  "Tc_oracle_muhi_min": 244.5988602417882,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_300p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 300.5 K): UNDECIDED; bracket [244.57437050779646, 300.53002210550045] K; evidenc"
+  ]
+ },
+ {
+  "case": "adv_einstein2_mu0_300p5",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 224.6182658152403,
+  "T_up": 300.53002210550045,
+  "width": 75.91175629026014,
+  "Tc_oracle_mu0_max": 300.49999999999676,
+  "Tc_oracle_muhi_min": 224.64075587900174,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_einstein2_mu0_300p5 -- Einstein lam 2 scaled: Tc(mu*=0) = 300.5 K): UNDECIDED; bracket [224.6182658152403, 300.53002210550045] K; evidence"
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_299p7",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 413.41667640990624,
+  "T_up": 413.49939672138515,
+  "width": 0.08272031147890857,
+  "Tc_oracle_mu0_max": 413.4580813949569,
+  "Tc_oracle_muhi_min": 413.4580813949569,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_299p7 -- hydride-like scaled: Tc(mu*=.15) = 299.7 K): CERTIFIED_CANDIDATE; bracket [413.41667640990624, 413.49939672138515]"
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_299p7",
+  "mu_hi": 0.1,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 329.0331891494625,
+  "T_up": 413.49939672138515,
+  "width": 84.46620757192267,
+  "Tc_oracle_mu0_max": 413.4580813949569,
+  "Tc_oracle_muhi_min": 329.0661522733521,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_299p7 -- hydride-like scaled: Tc(mu*=.15) = 299.7 K): CERTIFIED_CANDIDATE; bracket [329.0331891494625, 413.49939672138515] "
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_299p7",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 299.6699678160382,
+  "T_up": 413.49939672138515,
+  "width": 113.82942890534696,
+  "Tc_oracle_mu0_max": 413.4580813949569,
+  "Tc_oracle_muhi_min": 299.69999999998015,
+  "oracle_floor_muhi": null,
+  "seconds": 0.17,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_299p7 -- hydride-like scaled: Tc(mu*=.15) = 299.7 K): UNDECIDED; bracket [299.6699678160382, 413.49939672138515] K; evidenc"
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_300p3",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 414.24433742374015,
+  "T_up": 414.32722334144825,
+  "width": 0.08288591770809717,
+  "Tc_oracle_mu0_max": 414.28582530165386,
+  "Tc_oracle_muhi_min": 414.28582530165386,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_300p3 -- hydride-like scaled: Tc(mu*=.15) = 300.3 K): CERTIFIED_CANDIDATE; bracket [414.24433742374015, 414.32722334144825]"
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_300p3",
+  "mu_hi": 0.1,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 329.69191425286505,
+  "T_up": 414.32722334144825,
+  "width": 84.6353090885832,
+  "Tc_oracle_mu0_max": 414.28582530165386,
+  "Tc_oracle_muhi_min": 329.7249433689797,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_300p3 -- hydride-like scaled: Tc(mu*=.15) = 300.3 K): CERTIFIED_CANDIDATE; bracket [329.69191425286505, 414.32722334144825]"
+  ]
+ },
+ {
+  "case": "adv_hydride_mu0.15_300p3",
+  "mu_hi": 0.15,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 300.269907691546,
+  "T_up": 414.32722334144825,
+  "width": 114.05731564990225,
+  "Tc_oracle_mu0_max": 414.28582530165386,
+  "Tc_oracle_muhi_min": 300.30000000001223,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_hydride_mu0.15_300p3 -- hydride-like scaled: Tc(mu*=.15) = 300.3 K): CERTIFIED_CANDIDATE; bracket [300.269907691546, 414.32722334144825] K"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.3",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 299.9366083630015,
+  "T_up": 299.9666545957389,
+  "width": 0.03004623273739071,
+  "Tc_oracle_mu0_max": 299.9666518451037,
+  "Tc_oracle_muhi_min": 299.9666518451037,
+  "oracle_floor_muhi": null,
+  "seconds": 0.01,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.3 -- near-extremal Einstein (lam 1.1436) with A = 1299.3 K: Tc(mu*=0) ~ A/4.3314815): REJECTED_PROVEN; bracket [299.936"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.3",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 219.18634942664698,
+  "T_up": 299.9666545957389,
+  "width": 80.78030516909189,
+  "Tc_oracle_mu0_max": 299.9666518451037,
+  "Tc_oracle_muhi_min": 219.2083703632317,
+  "oracle_floor_muhi": null,
+  "seconds": 0.0,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.3 -- near-extremal Einstein (lam 1.1436) with A = 1299.3 K: Tc(mu*=0) ~ A/4.3314815): REJECTED_PROVEN; bracket [219.186"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.3",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 190.93635526041783,
+  "T_up": 299.9666545957389,
+  "width": 109.03029933532105,
+  "Tc_oracle_mu0_max": 299.9666518451037,
+  "Tc_oracle_muhi_min": 190.9555969670365,
+  "oracle_floor_muhi": null,
+  "seconds": 0.0,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.3 -- near-extremal Einstein (lam 1.1436) with A = 1299.3 K: Tc(mu*=0) ~ A/4.3314815): REJECTED_PROVEN; bracket [190.936"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.6",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 300.00586179370174,
+  "T_up": 300.03591496392073,
+  "width": 0.030053170218991454,
+  "Tc_oracle_mu0_max": 300.03591221265,
+  "Tc_oracle_muhi_min": 300.03591221265,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.6 -- near-extremal Einstein (lam 1.1436) with A = 1299.6 K: Tc(mu*=0) ~ A/4.3314815): CERTIFIED_CANDIDATE; bracket [300"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.6",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 219.23695814274635,
+  "T_up": 300.03591496392073,
+  "width": 80.79895682117439,
+  "Tc_oracle_mu0_max": 300.03591221265,
+  "Tc_oracle_muhi_min": 219.25898416385695,
+  "oracle_floor_muhi": null,
+  "seconds": 0.11,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.6 -- near-extremal Einstein (lam 1.1436) with A = 1299.6 K: Tc(mu*=0) ~ A/4.3314815): UNDECIDED; bracket [219.236958142"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1299.6",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 190.9804412348487,
+  "T_up": 300.03591496392073,
+  "width": 109.05547372907202,
+  "Tc_oracle_mu0_max": 300.03591221265,
+  "Tc_oracle_muhi_min": 190.9996873842965,
+  "oracle_floor_muhi": null,
+  "seconds": 0.12,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1299.6 -- near-extremal Einstein (lam 1.1436) with A = 1299.6 K: Tc(mu*=0) ~ A/4.3314815): UNDECIDED; bracket [190.980441234"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1302",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 300.55988923930414,
+  "T_up": 300.5899979093758,
+  "width": 0.03010867007168372,
+  "Tc_oracle_mu0_max": 300.589995153043,
+  "Tc_oracle_muhi_min": 300.589995153043,
+  "oracle_floor_muhi": null,
+  "seconds": 0.11,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1302 -- near-extremal Einstein (lam 1.1436) with A = 1302.0 K: Tc(mu*=0) ~ A/4.3314815): CERTIFIED_CANDIDATE; bracket [300.5"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1302",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 219.64182787154184,
+  "T_up": 300.5899979093758,
+  "width": 80.94817003783399,
+  "Tc_oracle_mu0_max": 300.589995153043,
+  "Tc_oracle_muhi_min": 219.66389456859184,
+  "oracle_floor_muhi": null,
+  "seconds": 0.11,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1302 -- near-extremal Einstein (lam 1.1436) with A = 1302.0 K: Tc(mu*=0) ~ A/4.3314815): UNDECIDED; bracket [219.64182787154"
+  ]
+ },
+ {
+  "case": "adv_opt_einstein_A1302",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 191.3331290302963,
+  "T_up": 300.5899979093758,
+  "width": 109.25686887907952,
+  "Tc_oracle_mu0_max": 300.589995153043,
+  "Tc_oracle_muhi_min": 191.3524107219823,
+  "oracle_floor_muhi": null,
+  "seconds": 0.12,
+  "failures": [],
+  "rule_ids": [
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_einstein_A1302 -- near-extremal Einstein (lam 1.1436) with A = 1302.0 K: Tc(mu*=0) ~ A/4.3314815): UNDECIDED; bracket [191.33312903029"
+  ]
+ },
+ {
+  "case": "adv_opt_threepeak_A1300",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 299.6256457951603,
+  "T_up": 299.68557296009396,
+  "width": 0.05992716493364014,
+  "Tc_oracle_mu0_max": 299.65565731604283,
+  "Tc_oracle_muhi_min": 299.65565731604283,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_threepeak_A1300 -- near-extremal triple, A = 1300 K): REJECTED_PROVEN; bracket [299.6256457951603, 299.68557296009396] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "adv_opt_threepeak_A1300",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 219.66763442883692,
+  "T_up": 299.68557296009396,
+  "width": 80.01793853125704,
+  "Tc_oracle_mu0_max": 299.65565731604283,
+  "Tc_oracle_muhi_min": 219.68970391785646,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_threepeak_A1300 -- near-extremal triple, A = 1300 K): REJECTED_PROVEN; bracket [219.66763442883692, 299.68557296009396] K; evidence {'"
+  ]
+ },
+ {
+  "case": "adv_opt_threepeak_A1300",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 191.9614721482311,
+  "T_up": 299.68557296009396,
+  "width": 107.72410081186285,
+  "Tc_oracle_mu0_max": 299.65565731604283,
+  "Tc_oracle_muhi_min": 191.980807390123,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_threepeak_A1300 -- near-extremal triple, A = 1300 K): REJECTED_PROVEN; bracket [191.9614721482311, 299.68557296009396] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "adv_opt_twopeak_A1300",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 300.0512170479021,
+  "T_up": 300.11125412804444,
+  "width": 0.06003708014230824,
+  "Tc_oracle_mu0_max": 300.08129253642045,
+  "Tc_oracle_muhi_min": 300.08129253642045,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_twopeak_A1300 -- near-extremal split pair (Omega*(1 -/+ 0.02)), A = 1300 K): CERTIFIED_CANDIDATE; bracket [300.0512170479021, 300.1112"
+  ]
+ },
+ {
+  "case": "adv_opt_twopeak_A1300",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 219.58250047405153,
+  "T_up": 300.11125412804444,
+  "width": 80.52875365399291,
+  "Tc_oracle_mu0_max": 300.08129253642045,
+  "Tc_oracle_muhi_min": 219.6045567519924,
+  "oracle_floor_muhi": null,
+  "seconds": 0.13,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_twopeak_A1300 -- near-extremal split pair (Omega*(1 -/+ 0.02)), A = 1300 K): UNDECIDED; bracket [219.58250047405153, 300.1112541280444"
+  ]
+ },
+ {
+  "case": "adv_opt_twopeak_A1300",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 191.02882748573475,
+  "T_up": 300.11125412804444,
+  "width": 109.08242664230968,
+  "Tc_oracle_mu0_max": 300.08129253642045,
+  "Tc_oracle_muhi_min": 191.0480778027423,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: adv_opt_twopeak_A1300 -- near-extremal split pair (Omega*(1 -/+ 0.02)), A = 1300 K): UNDECIDED; bracket [191.02882748573475, 300.1112541280444"
+  ]
+ },
+ {
+  "case": "debye_wD1000_lam1.2",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 88.80221759173402,
+  "T_up": 88.81997863860958,
+  "width": 0.017761046875563125,
+  "Tc_oracle_mu0_max": 88.81111725369223,
+  "Tc_oracle_muhi_min": 88.81111725369223,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD1000_lam1.2 -- Debye omega^2 up to 1000 K, lam 1.2): REJECTED_PROVEN; bracket [88.80221759173402, 88.81997863860958] K; evidence {'uni"
+  ]
+ },
+ {
+  "case": "debye_wD1000_lam1.2",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 64.2787793051234,
+  "T_up": 88.81997863860958,
+  "width": 24.54119933348619,
+  "Tc_oracle_mu0_max": 88.81111725369223,
+  "Tc_oracle_muhi_min": 64.28524727235508,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD1000_lam1.2 -- Debye omega^2 up to 1000 K, lam 1.2): REJECTED_PROVEN; bracket [64.2787793051234, 88.81997863860958] K; evidence {'univ"
+  ]
+ },
+ {
+  "case": "debye_wD1000_lam1.2",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 56.12190694530194,
+  "T_up": 88.81997863860958,
+  "width": 32.69807169330765,
+  "Tc_oracle_mu0_max": 88.81111725369223,
+  "Tc_oracle_muhi_min": 56.12757041738948,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD1000_lam1.2 -- Debye omega^2 up to 1000 K, lam 1.2): REJECTED_PROVEN; bracket [56.12190694530194, 88.81997863860958] K; evidence {'uni"
+  ]
+ },
+ {
+  "case": "debye_wD2000_lam2",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 282.0242886347678,
+  "T_up": 282.0806954086787,
+  "width": 0.05640677391090776,
+  "Tc_oracle_mu0_max": 282.0525120108649,
+  "Tc_oracle_muhi_min": 282.0525120108649,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD2000_lam2 -- Debye omega^2 up to 2000 K, lam 2): REJECTED_PROVEN; bracket [282.0242886347678, 282.0806954086787] K; evidence {'univFir"
+  ]
+ },
+ {
+  "case": "debye_wD2000_lam2",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 225.71417766243718,
+  "T_up": 282.0806954086787,
+  "width": 56.36651774624153,
+  "Tc_oracle_mu0_max": 282.0525120108649,
+  "Tc_oracle_muhi_min": 225.73678882902973,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD2000_lam2 -- Debye omega^2 up to 2000 K, lam 2): REJECTED_PROVEN; bracket [225.71417766243718, 282.0806954086787] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "debye_wD2000_lam2",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 206.3531686670621,
+  "T_up": 282.0806954086787,
+  "width": 75.7275267416166,
+  "Tc_oracle_mu0_max": 282.0525120108649,
+  "Tc_oracle_muhi_min": 206.37384038580834,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD2000_lam2 -- Debye omega^2 up to 2000 K, lam 2): REJECTED_PROVEN; bracket [206.3531686670621, 282.0806954086787] K; evidence {'univFir"
+  ]
+ },
+ {
+  "case": "debye_wD400_lam0.6",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 13.616450963428118,
+  "T_up": 13.619175471483073,
+  "width": 0.002724508054955166,
+  "Tc_oracle_mu0_max": 13.617880750676358,
+  "Tc_oracle_muhi_min": 13.617880750676358,
+  "oracle_floor_muhi": null,
+  "seconds": -2.38,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD400_lam0.6 -- Debye omega^2 up to 400 K, lam .6, 200 atoms): REJECTED_PROVEN; bracket [13.616450963428118, 13.619175471483073] K; evid"
+  ]
+ },
+ {
+  "case": "debye_wD400_lam0.6",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 6.64769138802799,
+  "T_up": 13.619175471483073,
+  "width": 6.971484083455083,
+  "Tc_oracle_mu0_max": 13.617880750676358,
+  "Tc_oracle_muhi_min": 6.648376999982206,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD400_lam0.6 -- Debye omega^2 up to 400 K, lam .6, 200 atoms): REJECTED_PROVEN; bracket [6.64769138802799, 13.619175471483073] K; eviden"
+  ]
+ },
+ {
+  "case": "debye_wD400_lam0.6",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 4.759017522467478,
+  "T_up": 13.619175471483073,
+  "width": 8.860157949015594,
+  "Tc_oracle_mu0_max": 13.617880750676358,
+  "Tc_oracle_muhi_min": 4.759509769765402,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: debye_wD400_lam0.6 -- Debye omega^2 up to 400 K, lam .6, 200 atoms): REJECTED_PROVEN; bracket [4.759017522467478, 13.619175471483073] K; evide"
+  ]
+ },
+ {
+  "case": "dfpt_3000atoms",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 80.20167634252213,
+  "T_up": 80.2177172227124,
+  "width": 0.01604088019026051,
+  "Tc_oracle_mu0_max": 80.20978143110533,
+  "Tc_oracle_muhi_min": 80.20978143110533,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_3000atoms -- DFPT-like noisy grid, 3000 atoms to 2500 K, lam 1.8): REJECTED_PROVEN; bracket [80.20167634252213, 80.2177172227124] K; evid"
+  ]
+ },
+ {
+  "case": "dfpt_3000atoms",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 57.98276402334382,
+  "T_up": 80.2177172227124,
+  "width": 22.234953199368576,
+  "Tc_oracle_mu0_max": 80.20978143110533,
+  "Tc_oracle_muhi_min": 57.988582074280075,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_3000atoms -- DFPT-like noisy grid, 3000 atoms to 2500 K, lam 1.8): REJECTED_PROVEN; bracket [57.98276402334382, 80.2177172227124] K; evid"
+  ]
+ },
+ {
+  "case": "dfpt_3000atoms",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 51.87658565588421,
+  "T_up": 80.2177172227124,
+  "width": 28.34113156682818,
+  "Tc_oracle_mu0_max": 80.20978143110533,
+  "Tc_oracle_muhi_min": 51.881787127995594,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_3000atoms -- DFPT-like noisy grid, 3000 atoms to 2500 K, lam 1.8): REJECTED_PROVEN; bracket [51.87658565588421, 80.2177172227124] K; evid"
+  ]
+ },
+ {
+  "case": "dfpt_6000atoms",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 17.65943884064188,
+  "T_up": 17.662970848395187,
+  "width": 0.003532007753307198,
+  "Tc_oracle_mu0_max": 17.661218101808096,
+  "Tc_oracle_muhi_min": 17.661218101808096,
+  "oracle_floor_muhi": null,
+  "seconds": 0.32,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_6000atoms -- DFPT-like noisy grid, 6000 atoms to 1200 K, lam 0.9): REJECTED_PROVEN; bracket [17.65943884064188, 17.662970848395187] K; ev"
+  ]
+ },
+ {
+  "case": "dfpt_6000atoms",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 10.885503550759374,
+  "T_up": 17.662970848395187,
+  "width": 6.777467297635813,
+  "Tc_oracle_mu0_max": 17.661218101808096,
+  "Tc_oracle_muhi_min": 10.886593803108124,
+  "oracle_floor_muhi": null,
+  "seconds": 0.37,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_6000atoms -- DFPT-like noisy grid, 6000 atoms to 1200 K, lam 0.9): REJECTED_PROVEN; bracket [10.885503550759374, 17.662970848395187] K; e"
+  ]
+ },
+ {
+  "case": "dfpt_6000atoms",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 9.103429980713084,
+  "T_up": 17.662970848395187,
+  "width": 8.559540867682102,
+  "Tc_oracle_mu0_max": 17.661218101808096,
+  "Tc_oracle_muhi_min": 9.10434164715066,
+  "oracle_floor_muhi": null,
+  "seconds": 0.39,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: dfpt_6000atoms -- DFPT-like noisy grid, 6000 atoms to 1200 K, lam 0.9): REJECTED_PROVEN; bracket [9.103429980713084, 17.662970848395187] K; ev"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.2",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.820677809300834,
+  "T_up": 1.8210420242032457,
+  "width": 0.00036421490241167476,
+  "Tc_oracle_mu0_max": 1.820918359278904,
+  "Tc_oracle_muhi_min": 1.820918359278904,
+  "oracle_floor_muhi": null,
+  "seconds": 3.66,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.2 -- single Einstein mode at 1000 K, lambda=0.2): REJECTED_PROVEN; bracket [1.820677809300834, 1.8210420242032457] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.2",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": null,
+  "T_up": 1.8210420242032457,
+  "width": null,
+  "Tc_oracle_mu0_max": 1.820918359278904,
+  "Tc_oracle_muhi_min": null,
+  "oracle_floor_muhi": 1.3646275602562514,
+  "seconds": 4.09,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.2 -- single Einstein mode at 1000 K, lambda=0.2): REJECTED_PROVEN; bracket [None, 1.8210420242032457] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.2",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": null,
+  "T_up": 1.8210420242032457,
+  "width": null,
+  "Tc_oracle_mu0_max": 1.820918359278904,
+  "Tc_oracle_muhi_min": null,
+  "oracle_floor_muhi": 1.3646275602562514,
+  "seconds": 3.77,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.2 -- single Einstein mode at 1000 K, lambda=0.2): REJECTED_PROVEN; bracket [None, 1.8210420242032457] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.3",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 9.921910029770071,
+  "T_up": 9.923894228290512,
+  "width": 0.0019841985204411827,
+  "Tc_oracle_mu0_max": 9.92332498942463,
+  "Tc_oracle_muhi_min": 9.92332498942463,
+  "oracle_floor_muhi": null,
+  "seconds": 0.2,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.3 -- single Einstein mode at 1000 K, lambda=0.3): REJECTED_PROVEN; bracket [9.921910029770071, 9.923894228290512] K; evide"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.3",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.0773590973993141,
+  "T_up": 9.923894228290512,
+  "width": 8.846535130891198,
+  "Tc_oracle_mu0_max": 9.92332498942463,
+  "Tc_oracle_muhi_min": null,
+  "oracle_floor_muhi": 1.3665543565556675,
+  "seconds": 1.5,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.3 -- single Einstein mode at 1000 K, lambda=0.3): REJECTED_PROVEN; bracket [1.0773590973993141, 9.923894228290512] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.3",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 0.07409280059443261,
+  "T_up": 9.923894228290512,
+  "width": 9.84980142769608,
+  "Tc_oracle_mu0_max": 9.92332498942463,
+  "Tc_oracle_muhi_min": null,
+  "oracle_floor_muhi": 1.3665543565556675,
+  "seconds": 5.21,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.3 -- single Einstein mode at 1000 K, lambda=0.3): REJECTED_PROVEN; bracket [0.07409280059443261, 9.923894228290512] K; evi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.5",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 39.42457426143056,
+  "T_up": 39.43245944414892,
+  "width": 0.00788518271836125,
+  "Tc_oracle_mu0_max": 39.42887713406144,
+  "Tc_oracle_muhi_min": 39.42887713406144,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.5 -- single Einstein mode at 1000 K, lambda=0.5): REJECTED_PROVEN; bracket [39.42457426143056, 39.43245944414892] K; evide"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.5",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 15.737863030879096,
+  "T_up": 39.43245944414892,
+  "width": 23.69459641326982,
+  "Tc_oracle_mu0_max": 39.42887713406144,
+  "Tc_oracle_muhi_min": 15.739635844491522,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.5 -- single Einstein mode at 1000 K, lambda=0.5): REJECTED_PROVEN; bracket [15.737863030879096, 39.43245944414892] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.5",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 9.78074090255947,
+  "T_up": 39.43245944414892,
+  "width": 29.651718541589446,
+  "Tc_oracle_mu0_max": 39.42887713406144,
+  "Tc_oracle_muhi_min": 9.781875618901985,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.5 -- single Einstein mode at 1000 K, lambda=0.5): REJECTED_PROVEN; bracket [9.78074090255947, 39.43245944414892] K; eviden"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.75",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 79.79753676316604,
+  "T_up": 79.81350340765078,
+  "width": 0.015966644484748826,
+  "Tc_oracle_mu0_max": 79.80558022580301,
+  "Tc_oracle_muhi_min": 79.80558022580301,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.75 -- single Einstein mode at 1000 K, lambda=0.75): REJECTED_PROVEN; bracket [79.79753676316604, 79.81350340765078] K; evi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.75",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 47.75408760727571,
+  "T_up": 79.81350340765078,
+  "width": 32.05941580037508,
+  "Tc_oracle_mu0_max": 79.80558022580301,
+  "Tc_oracle_muhi_min": 47.75911455567459,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.75 -- single Einstein mode at 1000 K, lambda=0.75): REJECTED_PROVEN; bracket [47.75408760727571, 79.81350340765078] K; evi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam0.75",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 37.444476652412746,
+  "T_up": 79.81350340765078,
+  "width": 42.36902675523804,
+  "Tc_oracle_mu0_max": 79.80558022580301,
+  "Tc_oracle_muhi_min": 37.44822190397537,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam0.75 -- single Einstein mode at 1000 K, lambda=0.75): REJECTED_PROVEN; bracket [37.444476652412746, 79.81350340765078] K; ev"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.1436",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 131.99703891477276,
+  "T_up": 132.01026175467058,
+  "width": 0.013222839897821359,
+  "Tc_oracle_mu0_max": 132.0102605441621,
+  "Tc_oracle_muhi_min": 132.0102605441621,
+  "oracle_floor_muhi": null,
+  "seconds": 0.01,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.1436 -- single Einstein mode at 1000 K, lambda=1.1436): REJECTED_PROVEN; bracket [131.99703891477276, 132.01026175467058] "
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.1436",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 96.46021288552046,
+  "T_up": 132.01026175467058,
+  "width": 35.55004886915012,
+  "Tc_oracle_mu0_max": 132.0102605441621,
+  "Tc_oracle_muhi_min": 96.46990392806087,
+  "oracle_floor_muhi": null,
+  "seconds": 0.01,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.1436 -- single Einstein mode at 1000 K, lambda=1.1436): REJECTED_PROVEN; bracket [96.46021288552046, 132.01026175467058] K"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.1436",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 84.02786726537896,
+  "T_up": 132.01026175467058,
+  "width": 47.98239448929162,
+  "Tc_oracle_mu0_max": 132.0102605441621,
+  "Tc_oracle_muhi_min": 84.03633521569222,
+  "oracle_floor_muhi": null,
+  "seconds": 0.0,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.1436 -- single Einstein mode at 1000 K, lambda=1.1436): REJECTED_PROVEN; bracket [84.02786726537896, 132.01026175467058] K"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.5",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 169.1304527220569,
+  "T_up": 169.16427996174022,
+  "width": 0.03382723968331902,
+  "Tc_oracle_mu0_max": 169.14738122575383,
+  "Tc_oracle_muhi_min": 169.14738122575383,
+  "oracle_floor_muhi": null,
+  "seconds": 0.08,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.5 -- single Einstein mode at 1000 K, lambda=1.5): REJECTED_PROVEN; bracket [169.1304527220569, 169.16427996174022] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.5",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 132.11689953375785,
+  "T_up": 169.16427996174022,
+  "width": 37.047380427982375,
+  "Tc_oracle_mu0_max": 169.14738122575383,
+  "Tc_oracle_muhi_min": 132.1301400915915,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.5 -- single Einstein mode at 1000 K, lambda=1.5): REJECTED_PROVEN; bracket [132.11689953375785, 169.16427996174022] K; evi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1.5",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 118.78752553821452,
+  "T_up": 169.16427996174022,
+  "width": 50.376754423525696,
+  "Tc_oracle_mu0_max": 169.14738122575383,
+  "Tc_oracle_muhi_min": 118.79943458032182,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1.5 -- single Einstein mode at 1000 K, lambda=1.5): REJECTED_PROVEN; bracket [118.78752553821452, 169.16427996174022] K; evi"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 114.60802240476029,
+  "T_up": 114.63094478793325,
+  "width": 0.02292238317295414,
+  "Tc_oracle_mu0_max": 114.61951209000276,
+  "Tc_oracle_muhi_min": 114.61951209000276,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1 -- single Einstein mode at 1000 K, lambda=1): REJECTED_PROVEN; bracket [114.60802240476029, 114.63094478793325] K; evidenc"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 79.90818984408746,
+  "T_up": 114.63094478793325,
+  "width": 34.722754943845786,
+  "Tc_oracle_mu0_max": 114.61951209000276,
+  "Tc_oracle_muhi_min": 79.91624916263038,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1 -- single Einstein mode at 1000 K, lambda=1): REJECTED_PROVEN; bracket [79.90818984408746, 114.63094478793325] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam1",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 67.76905701152863,
+  "T_up": 114.63094478793325,
+  "width": 46.861887776404615,
+  "Tc_oracle_mu0_max": 114.61951209000276,
+  "Tc_oracle_muhi_min": 67.77593774729249,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam1 -- single Einstein mode at 1000 K, lambda=1): REJECTED_PROVEN; bracket [67.76905701152863, 114.63094478793325] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam2",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 211.7200510386831,
+  "T_up": 211.76239648740022,
+  "width": 0.04234544871712842,
+  "Tc_oracle_mu0_max": 211.7412420184929,
+  "Tc_oracle_muhi_min": 211.7412420184929,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam2 -- single Einstein mode at 1000 K, lambda=2): REJECTED_PROVEN; bracket [211.7200510386831, 211.76239648740022] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam2",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 172.3343792918864,
+  "T_up": 211.76239648740022,
+  "width": 39.42801719551383,
+  "Tc_oracle_mu0_max": 211.7412420184929,
+  "Tc_oracle_muhi_min": 172.3516354872009,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam2 -- single Einstein mode at 1000 K, lambda=2): REJECTED_PROVEN; bracket [172.3343792918864, 211.76239648740022] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam2",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 158.2727140890481,
+  "T_up": 211.76239648740022,
+  "width": 53.48968239835213,
+  "Tc_oracle_mu0_max": 211.7412420184929,
+  "Tc_oracle_muhi_min": 158.2885612572147,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam2 -- single Einstein mode at 1000 K, lambda=2): REJECTED_PROVEN; bracket [158.2727140890481, 211.76239648740022] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam3",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 278.9562529469267,
+  "T_up": 279.01204609285463,
+  "width": 0.05579314592790752,
+  "Tc_oracle_mu0_max": 278.9841722446443,
+  "Tc_oracle_muhi_min": 278.9841722446443,
+  "oracle_floor_muhi": null,
+  "seconds": 0.08,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam3 -- single Einstein mode at 1000 K, lambda=3): REJECTED_PROVEN; bracket [278.9562529469267, 279.01204609285463] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam3",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 234.64376184775438,
+  "T_up": 279.01204609285463,
+  "width": 44.368284245100256,
+  "Tc_oracle_mu0_max": 278.9841722446443,
+  "Tc_oracle_muhi_min": 234.66724053087412,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam3 -- single Einstein mode at 1000 K, lambda=3): REJECTED_PROVEN; bracket [234.64376184775438, 279.01204609285463] K; evidenc"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam3",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 218.4557357404754,
+  "T_up": 279.01204609285463,
+  "width": 60.55631035237923,
+  "Tc_oracle_mu0_max": 278.9841722446443,
+  "Tc_oracle_muhi_min": 218.47760276292078,
+  "oracle_floor_muhi": null,
+  "seconds": 0.09,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam3 -- single Einstein mode at 1000 K, lambda=3): REJECTED_PROVEN; bracket [218.4557357404754, 279.01204609285463] K; evidence"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam4",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 333.2103262313391,
+  "T_up": 333.27699809908563,
+  "width": 0.06667186774654965,
+  "Tc_oracle_mu0_max": 333.24368462121424,
+  "Tc_oracle_muhi_min": 333.24368462121424,
+  "oracle_floor_muhi": null,
+  "seconds": 0.17,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam4 -- single Einstein mode at 1000 K, lambda=4): CERTIFIED_CANDIDATE; bracket [333.2103262313391, 333.27699809908563] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam4",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 284.1132190355743,
+  "T_up": 333.27699809908563,
+  "width": 49.163779063511356,
+  "Tc_oracle_mu0_max": 333.24368462121424,
+  "Tc_oracle_muhi_min": 284.1416541946745,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam4 -- single Einstein mode at 1000 K, lambda=4): UNDECIDED; bracket [284.1132190355743, 333.27699809908563] K; evidence {'uni"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam4",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 266.15599023876825,
+  "T_up": 333.27699809908563,
+  "width": 67.12100786031738,
+  "Tc_oracle_mu0_max": 333.24368462121424,
+  "Tc_oracle_muhi_min": 266.18262393370617,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam4 -- single Einstein mode at 1000 K, lambda=4): UNDECIDED; bracket [266.15599023876825, 333.27699809908563] K; evidence {'un"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam5",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 379.8905992689382,
+  "T_up": 379.96657996991826,
+  "width": 0.07598070098003973,
+  "Tc_oracle_mu0_max": 379.92861045766676,
+  "Tc_oracle_muhi_min": 379.92861045766676,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam5 -- single Einstein mode at 1000 K, lambda=5): CERTIFIED_CANDIDATE; bracket [379.8905992689382, 379.96657996991826] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam5",
+  "mu_hi": 0.1,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 326.3449314705756,
+  "T_up": 379.96657996991826,
+  "width": 53.621648499342655,
+  "Tc_oracle_mu0_max": 379.92861045766676,
+  "Tc_oracle_muhi_min": 326.3775812010578,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam5 -- single Einstein mode at 1000 K, lambda=5): CERTIFIED_CANDIDATE; bracket [326.3449314705756, 379.96657996991826] K; evid"
+  ]
+ },
+ {
+  "case": "einstein_w1000_lam5",
+  "mu_hi": 0.15,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 306.5632150683207,
+  "T_up": 379.96657996991826,
+  "width": 73.40336490159757,
+  "Tc_oracle_mu0_max": 379.92861045766676,
+  "Tc_oracle_muhi_min": 306.5938944441989,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: einstein_w1000_lam5 -- single Einstein mode at 1000 K, lambda=5): CERTIFIED_CANDIDATE; bracket [306.5632150683207, 379.96657996991826] K; evid"
+  ]
+ },
+ {
+  "case": "env_einstein_lam1_e0.1",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 101.43046552848476,
+  "T_up": 126.97734166678701,
+  "width": 25.546876138302252,
+  "Tc_oracle_mu0_max": 126.90555003504817,
+  "Tc_oracle_muhi_min": 101.44064832821687,
+  "oracle_floor_muhi": null,
+  "seconds": 0.63,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_einstein_lam1_e0.1 -- Einstein 1000 K lam 1, rel_envelope .1): REJECTED_PROVEN; bracket [101.43046552848476, 126.97734166678701] K; eviden"
+  ]
+ },
+ {
+  "case": "env_einstein_lam1_e0.1",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 67.51409819356158,
+  "T_up": 126.97734166678701,
+  "width": 59.46324347322543,
+  "Tc_oracle_mu0_max": 126.90555003504817,
+  "Tc_oracle_muhi_min": 67.52095338542705,
+  "oracle_floor_muhi": null,
+  "seconds": 0.61,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_einstein_lam1_e0.1 -- Einstein 1000 K lam 1, rel_envelope .1): REJECTED_PROVEN; bracket [67.51409819356158, 126.97734166678701] K; evidenc"
+  ]
+ },
+ {
+  "case": "env_einstein_lam1_e0.1",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 55.86217216544301,
+  "T_up": 126.97734166678701,
+  "width": 71.115169501344,
+  "Tc_oracle_mu0_max": 126.90555003504817,
+  "Tc_oracle_muhi_min": 55.86793260346881,
+  "oracle_floor_muhi": null,
+  "seconds": 0.64,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_einstein_lam1_e0.1 -- Einstein 1000 K lam 1, rel_envelope .1): REJECTED_PROVEN; bracket [55.86217216544301, 126.97734166678701] K; evidenc"
+  ]
+ },
+ {
+  "case": "env_hydride_lam2.2_e0.05",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 341.7523145364149,
+  "T_up": 372.8312220268243,
+  "width": 31.07890749040945,
+  "Tc_oracle_mu0_max": 370.38652784643494,
+  "Tc_oracle_muhi_min": 341.7865362398904,
+  "oracle_floor_muhi": null,
+  "seconds": 1.35,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_hydride_lam2.2_e0.05 -- hydride-like lam 2.2, rel_envelope .05): CERTIFIED_CANDIDATE; bracket [341.7523145364149, 372.8312220268243] K; ev"
+  ]
+ },
+ {
+  "case": "env_hydride_lam2.2_e0.05",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 269.97910744407267,
+  "T_up": 372.8312220268243,
+  "width": 102.85211458275165,
+  "Tc_oracle_mu0_max": 370.38652784643494,
+  "Tc_oracle_muhi_min": 270.0061532067306,
+  "oracle_floor_muhi": null,
+  "seconds": 1.31,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_hydride_lam2.2_e0.05 -- hydride-like lam 2.2, rel_envelope .05): UNDECIDED; bracket [269.97910744407267, 372.8312220268243] K; evidence {'"
+  ]
+ },
+ {
+  "case": "env_hydride_lam2.2_e0.05",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 245.0265774410091,
+  "T_up": 372.8312220268243,
+  "width": 127.80464458581523,
+  "Tc_oracle_mu0_max": 370.38652784643494,
+  "Tc_oracle_muhi_min": 245.0511302499144,
+  "oracle_floor_muhi": null,
+  "seconds": 1.26,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: env_hydride_lam2.2_e0.05 -- hydride-like lam 2.2, rel_envelope .05): UNDECIDED; bracket [245.0265774410091, 372.8312220268243] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "hydride_lam1.6",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 234.66596816972717,
+  "T_up": 234.71290295777408,
+  "width": 0.046934788046911535,
+  "Tc_oracle_mu0_max": 234.68948670929595,
+  "Tc_oracle_muhi_min": 234.68948670929595,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam1.6 -- acoustic band <600 K (lam .6) + H band 1500-2500 K (lam 1.0)): REJECTED_PROVEN; bracket [234.66596816972717, 234.71290295777"
+  ]
+ },
+ {
+  "case": "hydride_lam1.6",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 170.27535516177832,
+  "T_up": 234.71290295777408,
+  "width": 64.43754779599575,
+  "Tc_oracle_mu0_max": 234.68948670929595,
+  "Tc_oracle_muhi_min": 170.2924795465878,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam1.6 -- acoustic band <600 K (lam .6) + H band 1500-2500 K (lam 1.0)): REJECTED_PROVEN; bracket [170.27535516177832, 234.71290295777"
+  ]
+ },
+ {
+  "case": "hydride_lam1.6",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 149.25628124988302,
+  "T_up": 234.71290295777408,
+  "width": 85.45662170789106,
+  "Tc_oracle_mu0_max": 234.68948670929595,
+  "Tc_oracle_muhi_min": 149.27133401143524,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam1.6 -- acoustic band <600 K (lam .6) + H band 1500-2500 K (lam 1.0)): REJECTED_PROVEN; bracket [149.25628124988302, 234.71290295777"
+  ]
+ },
+ {
+  "case": "hydride_lam2.2",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 356.2971982368882,
+  "T_up": 356.3684895439374,
+  "width": 0.07129130704919362,
+  "Tc_oracle_mu0_max": 356.33288252587397,
+  "Tc_oracle_muhi_min": 356.33288252587397,
+  "oracle_floor_muhi": null,
+  "seconds": 0.16,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.2 -- acoustic (lam .6) + H band 1500-2500 K (lam 1.6)): CERTIFIED_CANDIDATE; bracket [356.2971982368882, 356.3684895439374] K; ev"
+  ]
+ },
+ {
+  "case": "hydride_lam2.2",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 283.57250713481966,
+  "T_up": 356.3684895439374,
+  "width": 72.79598240911776,
+  "Tc_oracle_mu0_max": 356.33288252587397,
+  "Tc_oracle_muhi_min": 283.60091592758425,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.2 -- acoustic (lam .6) + H band 1500-2500 K (lam 1.6)): UNDECIDED; bracket [283.57250713481966, 356.3684895439374] K; evidence {'"
+  ]
+ },
+ {
+  "case": "hydride_lam2.2",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 258.2662384492877,
+  "T_up": 356.3684895439374,
+  "width": 98.10225109464972,
+  "Tc_oracle_mu0_max": 356.33288252587397,
+  "Tc_oracle_muhi_min": 258.2921212537634,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.2 -- acoustic (lam .6) + H band 1500-2500 K (lam 1.6)): UNDECIDED; bracket [258.2662384492877, 356.3684895439374] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "hydride_lam2.8",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 450.88994628741426,
+  "T_up": 450.98012734019557,
+  "width": 0.09018105278130406,
+  "Tc_oracle_mu0_max": 450.9350757869605,
+  "Tc_oracle_muhi_min": 450.9350757869605,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.8 -- acoustic (lam .6) + H band 1500-2500 K (lam 2.2)): CERTIFIED_CANDIDATE; bracket [450.88994628741426, 450.98012734019557] K; "
+  ]
+ },
+ {
+  "case": "hydride_lam2.8",
+  "mu_hi": 0.1,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 371.75458881694664,
+  "T_up": 450.98012734019557,
+  "width": 79.22553852324893,
+  "Tc_oracle_mu0_max": 450.9350757869605,
+  "Tc_oracle_muhi_min": 371.79180288186893,
+  "oracle_floor_muhi": null,
+  "seconds": 0.19,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.8 -- acoustic (lam .6) + H band 1500-2500 K (lam 2.2)): CERTIFIED_CANDIDATE; bracket [371.75458881694664, 450.98012734019557] K; "
+  ]
+ },
+ {
+  "case": "hydride_lam2.8",
+  "mu_hi": 0.15,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 344.4177157335277,
+  "T_up": 450.98012734019557,
+  "width": 106.56241160666787,
+  "Tc_oracle_mu0_max": 450.9350757869605,
+  "Tc_oracle_muhi_min": 344.4521987986268,
+  "oracle_floor_muhi": null,
+  "seconds": 0.14,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: hydride_lam2.8 -- acoustic (lam .6) + H band 1500-2500 K (lam 2.2)): CERTIFIED_CANDIDATE; bracket [344.4177157335277, 450.98012734019557] K; e"
+  ]
+ },
+ {
+  "case": "soft_atom0.5K",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 43.63330350055503,
+  "T_up": 43.642030457716984,
+  "width": 0.008726957161954374,
+  "Tc_oracle_mu0_max": 43.63769071575769,
+  "Tc_oracle_muhi_min": 43.63769071575769,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom0.5K -- 500 K mode (lam .8) + soft atom at 0.5 K (lam 2)): REJECTED_PROVEN; bracket [43.63330350055503, 43.642030457716984] K; eviden"
+  ]
+ },
+ {
+  "case": "soft_atom0.5K",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 27.215791105614088,
+  "T_up": 43.642030457716984,
+  "width": 16.426239352102897,
+  "Tc_oracle_mu0_max": 43.63769071575769,
+  "Tc_oracle_muhi_min": 27.218602120167912,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom0.5K -- 500 K mode (lam .8) + soft atom at 0.5 K (lam 2)): REJECTED_PROVEN; bracket [27.215791105614088, 43.642030457716984] K; evide"
+  ]
+ },
+ {
+  "case": "soft_atom0.5K",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 21.79986623674874,
+  "T_up": 43.642030457716984,
+  "width": 21.842164220968243,
+  "Tc_oracle_mu0_max": 43.63769071575769,
+  "Tc_oracle_muhi_min": 21.802046998889775,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom0.5K -- 500 K mode (lam .8) + soft atom at 0.5 K (lam 2)): REJECTED_PROVEN; bracket [21.79986623674874, 43.642030457716984] K; eviden"
+  ]
+ },
+ {
+  "case": "soft_atom2K",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 91.68721059364948,
+  "T_up": 91.7055486587272,
+  "width": 0.01833806507771385,
+  "Tc_oracle_mu0_max": 91.6964035458856,
+  "Tc_oracle_muhi_min": 91.6964035458856,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom2K -- 800 K mode (lam 1) + soft atom at 2 K (lam .5)): REJECTED_PROVEN; bracket [91.68721059364948, 91.7055486587272] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "soft_atom2K",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 63.92777109382341,
+  "T_up": 91.7055486587272,
+  "width": 27.777777564903786,
+  "Tc_oracle_mu0_max": 91.6964035458856,
+  "Tc_oracle_muhi_min": 63.934219689701415,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom2K -- 800 K mode (lam 1) + soft atom at 2 K (lam .5)): REJECTED_PROVEN; bracket [63.92777109382341, 91.7055486587272] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "soft_atom2K",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 54.21678209509602,
+  "T_up": 91.7055486587272,
+  "width": 37.488766563631174,
+  "Tc_oracle_mu0_max": 91.6964035458856,
+  "Tc_oracle_muhi_min": 54.22228812393946,
+  "oracle_floor_muhi": null,
+  "seconds": 0.04,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_atom2K -- 800 K mode (lam 1) + soft atom at 2 K (lam .5)): REJECTED_PROVEN; bracket [54.21678209509602, 91.7055486587272] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "soft_band1-20K",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 16.057090115686055,
+  "T_up": 16.06030164280738,
+  "width": 0.0032115271213264407,
+  "Tc_oracle_mu0_max": 16.058827173097338,
+  "Tc_oracle_muhi_min": 16.058827173097338,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_band1-20K -- soft band 1-20 K (lam 1.5) + 400 K mode (lam .5)): REJECTED_PROVEN; bracket [16.057090115686055, 16.06030164280738] K; evide"
+  ]
+ },
+ {
+  "case": "soft_band1-20K",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 6.961360169900049,
+  "T_up": 16.06030164280738,
+  "width": 9.098941472907333,
+  "Tc_oracle_mu0_max": 16.058827173097338,
+  "Tc_oracle_muhi_min": 6.962126404639561,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_band1-20K -- soft band 1-20 K (lam 1.5) + 400 K mode (lam .5)): REJECTED_PROVEN; bracket [6.961360169900049, 16.06030164280738] K; eviden"
+  ]
+ },
+ {
+  "case": "soft_band1-20K",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 4.8257712947318785,
+  "T_up": 16.06030164280738,
+  "width": 11.234530348075502,
+  "Tc_oracle_mu0_max": 16.058827173097338,
+  "Tc_oracle_muhi_min": 4.826301978997906,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: soft_band1-20K -- soft band 1-20 K (lam 1.5) + 400 K mode (lam .5)): REJECTED_PROVEN; bracket [4.8257712947318785, 16.06030164280738] K; evide"
+  ]
+ },
+ {
+  "case": "strong_debye_wD1500_lam4",
+  "mu_hi": 0.0,
+  "status": "CERTIFIED_CANDIDATE",
+  "T_low": 343.1317460497907,
+  "T_up": 343.2004030888778,
+  "width": 0.06865703908709975,
+  "Tc_oracle_mu0_max": 343.1661004046627,
+  "Tc_oracle_muhi_min": 343.1661004046627,
+  "oracle_floor_muhi": null,
+  "seconds": 0.2,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_debye_wD1500_lam4 -- Debye 1500 K, lam 4): CERTIFIED_CANDIDATE; bracket [343.1317460497907, 343.2004030888778] K; evidence {'univFires'"
+  ]
+ },
+ {
+  "case": "strong_debye_wD1500_lam4",
+  "mu_hi": 0.1,
+  "status": "UNDECIDED",
+  "T_low": 289.98488267790043,
+  "T_up": 343.2004030888778,
+  "width": 53.215520410977376,
+  "Tc_oracle_mu0_max": 343.1661004046627,
+  "Tc_oracle_muhi_min": 290.01390298765585,
+  "oracle_floor_muhi": null,
+  "seconds": 0.18,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_debye_wD1500_lam4 -- Debye 1500 K, lam 4): UNDECIDED; bracket [289.98488267790043, 343.2004030888778] K; evidence {'univFires': False, "
+  ]
+ },
+ {
+  "case": "strong_debye_wD1500_lam4",
+  "mu_hi": 0.15,
+  "status": "UNDECIDED",
+  "T_low": 271.61534677692197,
+  "T_up": 343.2004030888778,
+  "width": 71.58505631195584,
+  "Tc_oracle_mu0_max": 343.1661004046627,
+  "Tc_oracle_muhi_min": 271.6425304750481,
+  "oracle_floor_muhi": null,
+  "seconds": 0.15,
+  "failures": [],
+  "rule_ids": [
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_debye_wD1500_lam4 -- Debye 1500 K, lam 4): UNDECIDED; bracket [271.61534677692197, 343.2004030888778] K; evidence {'univFires': False, "
+  ]
+ },
+ {
+  "case": "strong_einstein_w500_lam4",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 166.60516311566954,
+  "T_up": 166.63849904954282,
+  "width": 0.033335933873274826,
+  "Tc_oracle_mu0_max": 166.62184231060712,
+  "Tc_oracle_muhi_min": 166.62184231060712,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_einstein_w500_lam4 -- Einstein 500 K, lam 4): REJECTED_PROVEN; bracket [166.60516311566954, 166.63849904954282] K; evidence {'univFires"
+  ]
+ },
+ {
+  "case": "strong_einstein_w500_lam4",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 142.05660951778714,
+  "T_up": 166.63849904954282,
+  "width": 24.581889531755678,
+  "Tc_oracle_mu0_max": 166.62184231060712,
+  "Tc_oracle_muhi_min": 142.07082709733726,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_einstein_w500_lam4 -- Einstein 500 K, lam 4): REJECTED_PROVEN; bracket [142.05660951778714, 166.63849904954282] K; evidence {'univFires"
+  ]
+ },
+ {
+  "case": "strong_einstein_w500_lam4",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 133.07799511938413,
+  "T_up": 166.63849904954282,
+  "width": 33.56050393015869,
+  "Tc_oracle_mu0_max": 166.62184231060712,
+  "Tc_oracle_muhi_min": 133.09131196685308,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_einstein_w500_lam4 -- Einstein 500 K, lam 4): REJECTED_PROVEN; bracket [133.07799511938413, 166.63849904954282] K; evidence {'univFires"
+  ]
+ },
+ {
+  "case": "strong_twopeak_lam4",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 121.60949101275595,
+  "T_up": 121.63381373722126,
+  "width": 0.024322724465307033,
+  "Tc_oracle_mu0_max": 121.62166853485992,
+  "Tc_oracle_muhi_min": 121.62166853485992,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_twopeak_lam4 -- 150 K (lam 3) + 900 K (lam 1)): REJECTED_PROVEN; bracket [121.60949101275595, 121.63381373722126] K; evidence {'univFir"
+  ]
+ },
+ {
+  "case": "strong_twopeak_lam4",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 94.6896053195596,
+  "T_up": 121.63381373722126,
+  "width": 26.944208417661656,
+  "Tc_oracle_mu0_max": 121.62166853485992,
+  "Tc_oracle_muhi_min": 94.69909706064364,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_twopeak_lam4 -- 150 K (lam 3) + 900 K (lam 1)): REJECTED_PROVEN; bracket [94.6896053195596, 121.63381373722126] K; evidence {'univFires"
+  ]
+ },
+ {
+  "case": "strong_twopeak_lam4",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 85.93915468379738,
+  "T_up": 121.63381373722126,
+  "width": 35.69465905342388,
+  "Tc_oracle_mu0_max": 121.62166853485992,
+  "Tc_oracle_muhi_min": 85.94777623603235,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: strong_twopeak_lam4 -- 150 K (lam 3) + 900 K (lam 1)): REJECTED_PROVEN; bracket [85.93915468379738, 121.63381373722126] K; evidence {'univFire"
+  ]
+ },
+ {
+  "case": "twopeak_a",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 95.42473496886323,
+  "T_up": 95.4438205642102,
+  "width": 0.01908559534696508,
+  "Tc_oracle_mu0_max": 95.43433982283241,
+  "Tc_oracle_muhi_min": 95.43433982283241,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_a -- two Einstein peaks 200 K (lam .5) + 1200 K (lam .7)): REJECTED_PROVEN; bracket [95.42473496886323, 95.4438205642102] K; evidence "
+  ]
+ },
+ {
+  "case": "twopeak_a",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 62.105801276473194,
+  "T_up": 95.4438205642102,
+  "width": 33.338019287737005,
+  "Tc_oracle_mu0_max": 95.43433982283241,
+  "Tc_oracle_muhi_min": 62.11217509723868,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_a -- two Einstein peaks 200 K (lam .5) + 1200 K (lam .7)): REJECTED_PROVEN; bracket [62.105801276473194, 95.4438205642102] K; evidence"
+  ]
+ },
+ {
+  "case": "twopeak_a",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 52.02375925146742,
+  "T_up": 95.4438205642102,
+  "width": 43.42006131274278,
+  "Tc_oracle_mu0_max": 95.43433982283241,
+  "Tc_oracle_muhi_min": 52.029182154691995,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_a -- two Einstein peaks 200 K (lam .5) + 1200 K (lam .7)): REJECTED_PROVEN; bracket [52.02375925146742, 95.4438205642102] K; evidence "
+  ]
+ },
+ {
+  "case": "twopeak_b",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 33.20123220240863,
+  "T_up": 33.20787267443135,
+  "width": 0.006640472022716892,
+  "Tc_oracle_mu0_max": 33.20460241887385,
+  "Tc_oracle_muhi_min": 33.20460241887385,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_b -- two Einstein peaks 80 K (lam 1) + 600 K (lam .5)): REJECTED_PROVEN; bracket [33.20123220240863, 33.20787267443135] K; evidence {'"
+  ]
+ },
+ {
+  "case": "twopeak_b",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 21.7001396556275,
+  "T_up": 33.20787267443135,
+  "width": 11.507733018803851,
+  "Tc_oracle_mu0_max": 33.20460241887385,
+  "Tc_oracle_muhi_min": 21.702370635502536,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_b -- two Einstein peaks 80 K (lam 1) + 600 K (lam .5)): REJECTED_PROVEN; bracket [21.7001396556275, 33.20787267443135] K; evidence {'u"
+  ]
+ },
+ {
+  "case": "twopeak_b",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 18.59149420321739,
+  "T_up": 33.20787267443135,
+  "width": 14.61637847121396,
+  "Tc_oracle_mu0_max": 33.20460241887385,
+  "Tc_oracle_muhi_min": 18.59340177929449,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_b -- two Einstein peaks 80 K (lam 1) + 600 K (lam .5)): REJECTED_PROVEN; bracket [18.59149420321739, 33.20787267443135] K; evidence {'"
+  ]
+ },
+ {
+  "case": "twopeak_c",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 229.66913998217188,
+  "T_up": 229.7150943518925,
+  "width": 0.045954369720618615,
+  "Tc_oracle_mu0_max": 229.69214958802772,
+  "Tc_oracle_muhi_min": 229.69214958802772,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_c -- two Einstein peaks 400 K (lam .4) + 1600 K (lam 1.2)): REJECTED_PROVEN; bracket [229.66913998217188, 229.7150943518925] K; eviden"
+  ]
+ },
+ {
+  "case": "twopeak_c",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 174.58339470615877,
+  "T_up": 229.7150943518925,
+  "width": 55.13169964573373,
+  "Tc_oracle_mu0_max": 229.69214958802772,
+  "Tc_oracle_muhi_min": 174.60089974766106,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_c -- two Einstein peaks 400 K (lam .4) + 1600 K (lam 1.2)): REJECTED_PROVEN; bracket [174.58339470615877, 229.7150943518925] K; eviden"
+  ]
+ },
+ {
+  "case": "twopeak_c",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 155.1528114952394,
+  "T_up": 229.7150943518925,
+  "width": 74.5622828566531,
+  "Tc_oracle_mu0_max": 229.69214958802772,
+  "Tc_oracle_muhi_min": 155.168392596292,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: twopeak_c -- two Einstein peaks 400 K (lam .4) + 1600 K (lam 1.2)): REJECTED_PROVEN; bracket [155.1528114952394, 229.7150943518925] K; evidenc"
+  ]
+ },
+ {
+  "case": "weak_debye_wD150_lam0.6",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 5.106169111285541,
+  "T_up": 5.1071908018061505,
+  "width": 0.0010216905206092974,
+  "Tc_oracle_mu0_max": 5.106705281503857,
+  "Tc_oracle_muhi_min": 5.106705281503857,
+  "oracle_floor_muhi": null,
+  "seconds": 0.05,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD150_lam0.6 -- Debye 150 K, lam .6): REJECTED_PROVEN; bracket [5.106169111285541, 5.1071908018061505] K; evidence {'univFires': Tr"
+  ]
+ },
+ {
+  "case": "weak_debye_wD150_lam0.6",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 2.4928842705104954,
+  "T_up": 5.1071908018061505,
+  "width": 2.614306531295655,
+  "Tc_oracle_mu0_max": 5.106705281503857,
+  "Tc_oracle_muhi_min": 2.4931413749941065,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD150_lam0.6 -- Debye 150 K, lam .6): REJECTED_PROVEN; bracket [2.4928842705104954, 5.1071908018061505] K; evidence {'univFires': T"
+  ]
+ },
+ {
+  "case": "weak_debye_wD150_lam0.6",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.7846315709253038,
+  "T_up": 5.1071908018061505,
+  "width": 3.322559230880847,
+  "Tc_oracle_mu0_max": 5.106705281503857,
+  "Tc_oracle_muhi_min": 1.784816163661622,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD150_lam0.6 -- Debye 150 K, lam .6): REJECTED_PROVEN; bracket [1.7846315709253038, 5.1071908018061505] K; evidence {'univFires': T"
+  ]
+ },
+ {
+  "case": "weak_debye_wD300_lam0.45",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 5.614507820672393,
+  "T_up": 5.61563122440095,
+  "width": 0.0011234037285570153,
+  "Tc_oracle_mu0_max": 5.615149173369864,
+  "Tc_oracle_muhi_min": 5.615149173369864,
+  "oracle_floor_muhi": null,
+  "seconds": 0.08,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD300_lam0.45 -- Debye 300 K, lam .45): REJECTED_PROVEN; bracket [5.614507820672393, 5.61563122440095] K; evidence {'univFires': Tr"
+  ]
+ },
+ {
+  "case": "weak_debye_wD300_lam0.45",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.8766351701843234,
+  "T_up": 5.61563122440095,
+  "width": 3.7389960542166265,
+  "Tc_oracle_mu0_max": 5.615149173369864,
+  "Tc_oracle_muhi_min": 1.8768301011825403,
+  "oracle_floor_muhi": null,
+  "seconds": 0.11,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD300_lam0.45 -- Debye 300 K, lam .45): REJECTED_PROVEN; bracket [1.8766351701843234, 5.61563122440095] K; evidence {'univFires': T"
+  ]
+ },
+ {
+  "case": "weak_debye_wD300_lam0.45",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.0830914728835415,
+  "T_up": 5.61563122440095,
+  "width": 4.532539751517408,
+  "Tc_oracle_mu0_max": 5.615149173369864,
+  "Tc_oracle_muhi_min": 1.0832044768694205,
+  "oracle_floor_muhi": null,
+  "seconds": 0.17,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_debye_wD300_lam0.45 -- Debye 300 K, lam .45): REJECTED_PROVEN; bracket [1.0830914728835415, 5.61563122440095] K; evidence {'univFires': T"
+  ]
+ },
+ {
+  "case": "weak_einstein_w100_lam0.45",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 3.1253222119398107,
+  "T_up": 3.1259472976168676,
+  "width": 0.0006250856770568802,
+  "Tc_oracle_mu0_max": 3.1257025463039922,
+  "Tc_oracle_muhi_min": 3.1257025463039922,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_einstein_w100_lam0.45 -- Einstein 100 K, lam .45): REJECTED_PROVEN; bracket [3.1253222119398107, 3.1259472976168676] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "weak_einstein_w100_lam0.45",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 1.0560653641838178,
+  "T_up": 3.1259472976168676,
+  "width": 2.0698819334330496,
+  "Tc_oracle_mu0_max": 3.1257025463039922,
+  "Tc_oracle_muhi_min": 1.0561860193361552,
+  "oracle_floor_muhi": null,
+  "seconds": 0.09,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_einstein_w100_lam0.45 -- Einstein 100 K, lam .45): REJECTED_PROVEN; bracket [1.0560653641838178, 3.1259472976168676] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "weak_einstein_w100_lam0.45",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 0.5904265053241071,
+  "T_up": 3.1259472976168676,
+  "width": 2.5355207922927603,
+  "Tc_oracle_mu0_max": 3.1257025463039922,
+  "Tc_oracle_muhi_min": 0.5904965301513425,
+  "oracle_floor_muhi": null,
+  "seconds": 0.12,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: weak_einstein_w100_lam0.45 -- Einstein 100 K, lam .45): REJECTED_PROVEN; bracket [0.5904265053241071, 3.1259472976168676] K; evidence {'univFi"
+  ]
+ },
+ {
+  "case": "wide_flat_10-3000",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 61.120821666804375,
+  "T_up": 61.133046246416654,
+  "width": 0.01222457961227974,
+  "Tc_oracle_mu0_max": 61.1271012149739,
+  "Tc_oracle_muhi_min": 61.1271012149739,
+  "oracle_floor_muhi": null,
+  "seconds": 0.06,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_flat_10-3000 -- flat a2F on 10..3000 K (log grid, 300 atoms), lam 1.5): REJECTED_PROVEN; bracket [61.120821666804375, 61.133046246416654]"
+  ]
+ },
+ {
+  "case": "wide_flat_10-3000",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 36.725060204903606,
+  "T_up": 61.133046246416654,
+  "width": 24.40798604151305,
+  "Tc_oracle_mu0_max": 61.1271012149739,
+  "Tc_oracle_muhi_min": 36.728749329867306,
+  "oracle_floor_muhi": null,
+  "seconds": 0.08,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_flat_10-3000 -- flat a2F on 10..3000 K (log grid, 300 atoms), lam 1.5): REJECTED_PROVEN; bracket [36.725060204903606, 61.133046246416654]"
+  ]
+ },
+ {
+  "case": "wide_flat_10-3000",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 30.555300518455628,
+  "T_up": 61.133046246416654,
+  "width": 30.577745727961027,
+  "Tc_oracle_mu0_max": 61.1271012149739,
+  "Tc_oracle_muhi_min": 30.558366575245824,
+  "oracle_floor_muhi": null,
+  "seconds": 0.07,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_flat_10-3000 -- flat a2F on 10..3000 K (log grid, 300 atoms), lam 1.5): REJECTED_PROVEN; bracket [30.555300518455628, 61.133046246416654]"
+  ]
+ },
+ {
+  "case": "wide_twohump_10-3000",
+  "mu_hi": 0.0,
+  "status": "REJECTED_PROVEN",
+  "T_low": 39.17668104595599,
+  "T_up": 39.18451664834698,
+  "width": 0.00783560239099046,
+  "Tc_oracle_mu0_max": 39.18085245076467,
+  "Tc_oracle_muhi_min": 39.18085245076467,
+  "oracle_floor_muhi": null,
+  "seconds": -2.11,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_twohump_10-3000 -- two humps (60 K, 2200 K) on 10..3000 K log grid, lam 3): REJECTED_PROVEN; bracket [39.17668104595599, 39.1845166483469"
+  ]
+ },
+ {
+  "case": "wide_twohump_10-3000",
+  "mu_hi": 0.1,
+  "status": "REJECTED_PROVEN",
+  "T_low": 21.315676336146222,
+  "T_up": 39.18451664834698,
+  "width": 17.868840312200756,
+  "Tc_oracle_mu0_max": 39.18085245076467,
+  "Tc_oracle_muhi_min": 21.31782328203713,
+  "oracle_floor_muhi": null,
+  "seconds": 0.33,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_twohump_10-3000 -- two humps (60 K, 2200 K) on 10..3000 K log grid, lam 3): REJECTED_PROVEN; bracket [21.315676336146222, 39.184516648346"
+  ]
+ },
+ {
+  "case": "wide_twohump_10-3000",
+  "mu_hi": 0.15,
+  "status": "REJECTED_PROVEN",
+  "T_low": 18.112942228042026,
+  "T_up": 39.18451664834698,
+  "width": 21.07157442030495,
+  "Tc_oracle_mu0_max": 39.18085245076467,
+  "Tc_oracle_muhi_min": 18.114762721238815,
+  "oracle_floor_muhi": null,
+  "seconds": 0.35,
+  "failures": [],
+  "rule_ids": [
+   "R-UNIV",
+   "R-CELLS",
+   "R-MU",
+   "R-ODD",
+   "C-RAYLEIGH",
+   "CLASSIFY-S5"
+  ],
+  "reasons": [
+   "alt 0 (SYNTHETIC: wide_twohump_10-3000 -- two humps (60 K, 2200 K) on 10..3000 K log grid, lam 3): REJECTED_PROVEN; bracket [18.112942228042026, 39.184516648346"
+  ]
+ }
+]

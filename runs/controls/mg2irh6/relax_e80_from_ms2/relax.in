@@ -1,0 +1,51 @@
+ &control
+    calculation = 'vc-relax'
+    prefix = 'pwscf'
+    outdir = './tmp/'
+    pseudo_dir = '~/pseudo/sg15/'
+    tprnfor = .true.
+    tstress = .true.
+    etot_conv_thr = 1.0d-6
+    forc_conv_thr = 1.0d-4
+    nstep = 100
+ /
+ &system
+    ibrav = 2
+    celldm(1) = 12.3361321416
+    nat = 9
+    ntyp = 3
+    ecutwfc = 80.0
+    ecutrho = 320.0
+    occupations = 'smearing'
+    smearing = 'mv'
+    degauss = 0.02
+ /
+ &electrons
+    conv_thr = 1.0d-10
+    mixing_beta = 0.5
+ /
+ &ions
+    ion_dynamics = 'bfgs'
+ /
+ &cell
+    cell_dynamics = 'bfgs'
+    press = 0.0
+    press_conv_thr = 0.2
+    cell_dofree = 'ibrav'
+ /
+ATOMIC_SPECIES
+ Mg  24.30500 Mg_ONCV_PBE-1.2.upf
+ Ir  192.21700 Ir_ONCV_PBE-1.2.upf
+ H   1.00794 H_ONCV_PBE-1.2.upf
+ATOMIC_POSITIONS alat
+ Ir      0.0000000000     0.0000000000     0.0000000000
+ Mg      0.2500000000     0.2500000000     0.2500000000
+ Mg     -0.2500000000    -0.2500000000    -0.2500000000
+ H       0.2512000000     0.0000000000     0.0000000000
+ H      -0.2512000000     0.0000000000     0.0000000000
+ H       0.0000000000     0.2512000000     0.0000000000
+ H       0.0000000000    -0.2512000000     0.0000000000
+ H       0.0000000000     0.0000000000     0.2512000000
+ H       0.0000000000     0.0000000000    -0.2512000000
+K_POINTS automatic
+ 10 10 10 0 0 0

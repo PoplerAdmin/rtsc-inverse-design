@@ -1,0 +1,24 @@
+== RL1Decide.lean
+'RL1.ex_proven' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ex_sound_inst' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ex_unstable' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_negA' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_negA_no_model' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ex_B0_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ex_B0_stable' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_eps0' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_epsDoc_not_fired' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_sign' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1.ce_mix' depends on axioms: [propext, Classical.choice, Quot.sound]
+== RL1NMG.lean
+'RL1N.stable_of_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1N.nmhyp_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1N.gT_antitone' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1N.nmg_rule_inst' depends on axioms: [propext, Classical.choice, Quot.sound]
+== RL1HProp.lean
+'RL1H.Fp_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1H.H_and_PropN_consistent' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1H.fully_instantiated' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RL1H.n1_dos_inst' depends on axioms: [propext, Classical.choice, Quot.sound]
+== source scan
+none

@@ -1,0 +1,100 @@
+{
+ "name": "twopeak_c",
+ "synthetic": true,
+ "description": "two Einstein peaks 400 K (lam .4) + 1600 K (lam 1.2)",
+ "tags": [
+  "twopeak"
+ ],
+ "spectrum": {
+  "omega_K": [
+   400.0,
+   1600.0
+  ],
+  "weight_K": [
+   80.0,
+   960.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: twopeak_c -- two Einstein peaks 400 K (lam .4) + 1600 K (lam 1.2)",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 16000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 1040.0,
+ "lambda": 1.6,
+ "omega_log_K": 1131.370849898475,
+ "ceiling_K": 240.10260969719724,
+ "n_atoms": 2,
+ "oracle": {
+  "0.0": {
+   "Tc": 229.69214958802772,
+   "err": 1.3720266343717761e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     225.98265542612444,
+     230.5945463531882
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.055978101243889786,
+   "notes": [],
+   "nevals": 69,
+   "jumps_checked": 0,
+   "seconds": 6.3
+  },
+  "0.1": {
+   "Tc": 174.60089974766106,
+   "err": 1.5808555425382927e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1148,
+   "crossings": [
+    [
+     173.78572160714097,
+     175.6192475496776
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.37808480251001386,
+   "notes": [],
+   "nevals": 115,
+   "jumps_checked": 8,
+   "seconds": 26.42
+  },
+  "0.15": {
+   "Tc": 155.168392596292,
+   "err": 1.5016255047342335e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1202,
+   "crossings": [
+    [
+     154.33206602865891,
+     157.08852794758982
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5006140595058077,
+   "notes": [],
+   "nevals": 133,
+   "jumps_checked": 12,
+   "seconds": 34.91
+  }
+ },
+ "allen_dynes": {
+  "0.0": 216.16832099108,
+  "0.1": 155.89525142620022,
+  "0.15": 131.2544025155506
+ }
+}

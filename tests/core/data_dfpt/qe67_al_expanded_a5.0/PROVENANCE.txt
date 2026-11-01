@@ -1,0 +1,6 @@
+REAL Quantum ESPRESSO 6.7 output (not synthetic), produced 2026-10-27 in a Ubuntu 24.04 build container
+by rtt.core.dfpt.EPhWorkflow, same smoke-test setup as ../qe67_al_smoke (15 Ry, k 4/8, q 2x2x2,
+matdyn 8x8x8, ndos 50, el_ph_sigma 0.01 Ry x 10) but NO relaxation and a deliberately
+over-expanded fcc lattice a = 5.0 A (ASE bulk). The structure is dynamically unstable
+(min matdyn frequency -115.2 cm^-1). matdyn writes NaN in the a2F column (0/0 in dos_gam);
+kept as a regression fixture for NaN detection. Not physical data. Only a2F.dos1 is kept.

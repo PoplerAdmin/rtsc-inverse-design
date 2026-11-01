@@ -1,0 +1,43 @@
+ &control
+    calculation = 'vc-relax'
+    prefix = 'al'
+    outdir = './tmp/'
+    pseudo_dir = '/usr/share/espresso/pseudo/'
+    tprnfor = .true.
+    tstress = .true.
+    etot_conv_thr = 1.0d-5
+    forc_conv_thr = 0.0001
+    nstep = 100
+ /
+ &system
+    ibrav = 0
+    nat = 1
+    ntyp = 1
+    ecutwfc = 15.0
+    occupations = 'smearing'
+    smearing = 'mv'
+    degauss = 0.05
+ /
+ &electrons
+    conv_thr = 1.0d-9
+    mixing_beta = 0.5
+ /
+ &ions
+    ion_dynamics = 'bfgs'
+ /
+ &cell
+    cell_dynamics = 'bfgs'
+    press = 50.0
+    press_conv_thr = 0.5
+    cell_dofree = 'all'
+ /
+ATOMIC_SPECIES
+ Al  26.98153850 Al.pz-vbc.UPF
+CELL_PARAMETERS angstrom
+      0.00000000000000     2.02500000000000     2.02500000000000
+      2.02500000000000     0.00000000000000     2.02500000000000
+      2.02500000000000     2.02500000000000     0.00000000000000
+ATOMIC_POSITIONS crystal
+ Al      0.00000000000000     0.00000000000000    -0.00000000000000
+K_POINTS automatic
+ 4 4 4 0 0 0

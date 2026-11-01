@@ -1,0 +1,272 @@
+{
+ "cost_model": "(est., doc 32 \u00a74): anchor Mg2IrH6 = 30 core-h at 60 Ry (campaign 1 measured), x\n(ecut/60)^1.5, x V/V0 (plane waves), x nat/9 (perturbations), x n_el/43 (bands), x 48/|G| (irreducible\nk and q; non-centrosymmetric cells: low end uses min(48, 2|G|), time reversal). V from the S4 DFT\nrelax when present, else the MatterSim S3 relax.",
+ "anchor": {
+  "core_h_60Ry": 30.0,
+  "V_A3": 73.58838392942701,
+  "nat": 9,
+  "nel": 43,
+  "nsym": 48
+ },
+ "queue": [
+  {
+   "cid": "c-43d572803f9d",
+   "lane": "P",
+   "formula": "LiScIrH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 73.58,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.20099999999999998,
+   "H_DOS": 0.3969513091295087,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.01229,
+   "e_hull_ml_dftref": -0.06829,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    25.8,
+    51.6
+   ],
+   "core_h_80Ry_est_range": [
+    39.7,
+    79.5
+   ],
+   "rank": 1
+  },
+  {
+   "cid": "c-5ff054e14807",
+   "lane": "P",
+   "formula": "LaLiCoH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 84.51,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.20022222222222222,
+   "H_DOS": 0.393722492786766,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.02525,
+   "e_hull_ml_dftref": 0.01807,
+   "novel_composition": false,
+   "core_h_60Ry_est_range": [
+    29.6,
+    59.3
+   ],
+   "core_h_80Ry_est_range": [
+    45.6,
+    91.3
+   ],
+   "rank": 2
+  },
+  {
+   "cid": "c-7c5823b24da2",
+   "lane": "P",
+   "formula": "LiScCoH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 63.59,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.19748888888888885,
+   "H_DOS": 0.3262169622331607,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.04357,
+   "e_hull_ml_dftref": 0.08443,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    22.3,
+    44.6
+   ],
+   "core_h_80Ry_est_range": [
+    34.3,
+    68.7
+   ],
+   "rank": 3
+  },
+  {
+   "cid": "c-b91240dd4cd0",
+   "lane": "P",
+   "formula": "LaLiIrH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 94.82,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.19511111111111112,
+   "H_DOS": 0.48641537074849583,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.06263,
+   "e_hull_ml_dftref": -0.1414,
+   "novel_composition": false,
+   "core_h_60Ry_est_range": [
+    33.3,
+    66.5
+   ],
+   "core_h_80Ry_est_range": [
+    51.2,
+    102.4
+   ],
+   "rank": 4
+  },
+  {
+   "cid": "c-b16887414468",
+   "lane": "P",
+   "formula": "LaLiRhH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 92.32,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.17833333333333334,
+   "H_DOS": 0.4798968049037859,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.01842,
+   "e_hull_ml_dftref": -0.09815,
+   "novel_composition": false,
+   "core_h_60Ry_est_range": [
+    32.4,
+    64.8
+   ],
+   "core_h_80Ry_est_range": [
+    49.9,
+    99.7
+   ],
+   "rank": 5
+  },
+  {
+   "cid": "c-7a746dec73c4",
+   "lane": "P",
+   "formula": "LiYCoH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 72.96,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.17577777777777778,
+   "H_DOS": 0.3934199298733621,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.03153,
+   "e_hull_ml_dftref": -0.01601,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    25.6,
+    51.2
+   ],
+   "core_h_80Ry_est_range": [
+    39.4,
+    78.8
+   ],
+   "rank": 6
+  },
+  {
+   "cid": "c-33f78121fcea",
+   "lane": "P",
+   "formula": "BaLiPtH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 114.54,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.16322222222222224,
+   "H_DOS": 0.6263158987827956,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.00035,
+   "e_hull_ml_dftref": 0.09439,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    40.2,
+    80.4
+   ],
+   "core_h_80Ry_est_range": [
+    61.9,
+    123.7
+   ],
+   "rank": 7
+  },
+  {
+   "cid": "c-3ba28b0824f3",
+   "lane": "P",
+   "formula": "LiYRhH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 80.42,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.15611111111111112,
+   "H_DOS": 0.48179185357228765,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.01172,
+   "e_hull_ml_dftref": 0.05215,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    28.2,
+    56.4
+   ],
+   "core_h_80Ry_est_range": [
+    43.4,
+    86.9
+   ],
+   "rank": 8
+  },
+  {
+   "cid": "c-9bb28830217f",
+   "lane": "P",
+   "formula": "LiYIrH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 82.61,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.15377777777777776,
+   "H_DOS": 0.5039125980449838,
+   "n_sheets": 1,
+   "e_hull_ml_self": -0.0458,
+   "e_hull_ml_dftref": 0.02061,
+   "novel_composition": true,
+   "core_h_60Ry_est_range": [
+    29.0,
+    58.0
+   ],
+   "core_h_80Ry_est_range": [
+    44.6,
+    89.2
+   ],
+   "rank": 9
+  },
+  {
+   "cid": "c-6c2d8da02768",
+   "lane": "P",
+   "formula": "CaLiPtH6",
+   "prototype": "AA'MH6",
+   "N": 19.0,
+   "nat": 9,
+   "nsym": -24,
+   "vol_A3": 86.86,
+   "n_el": 37.0,
+   "N_EF_per_eV_atom": 0.14388888888888887,
+   "H_DOS": 0.5858663418047089,
+   "n_sheets": 1,
+   "e_hull_ml_self": 0.00489,
+   "e_hull_ml_dftref": 0.07648,
+   "novel_composition": false,
+   "core_h_60Ry_est_range": [
+    30.5,
+    60.9
+   ],
+   "core_h_80Ry_est_range": [
+    46.9,
+    93.8
+   ],
+   "rank": 10
+  }
+ ]
+}

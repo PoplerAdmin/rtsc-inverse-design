@@ -1,0 +1,14 @@
+phonons Mg2IrH6
+ &inputph
+    prefix = 'pwscf'
+    outdir = './tmp/'
+    tr2_ph = 1.0d-16
+    fildyn = 'dyn'
+    ldisp = .true.
+    nq1 = 2
+    nq2 = 2
+    nq3 = 2
+    amass(1) = 24.305
+    amass(2) = 192.217
+    amass(3) = 1.00794
+ /

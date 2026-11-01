@@ -1,0 +1,99 @@
+{
+ "name": "adv_opt_einstein_A1299.3",
+ "synthetic": true,
+ "description": "near-extremal Einstein (lam 1.1436) with A = 1299.3 K: Tc(mu*=0) ~ A/4.3314815",
+ "tags": [
+  "adversarial",
+  "near_bound"
+ ],
+ "spectrum": {
+  "omega_K": [
+   2272.2980062959077
+  ],
+  "weight_K": [
+   1299.3
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: adv_opt_einstein_A1299.3 -- near-extremal Einstein (lam 1.1436) with A = 1299.3 K: Tc(mu*=0) ~ A/4.3314815",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 22722.980062959075,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 1299.3,
+ "lambda": 1.1436,
+ "omega_log_K": 2272.29800629591,
+ "ceiling_K": 299.9666545957388,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 299.9666518451037,
+   "err": 2.0003463525723584e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     293.96732150382405,
+     299.9666545957388
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -1.0878048534319248e-08,
+   "notes": [],
+   "nevals": 69,
+   "jumps_checked": 0,
+   "seconds": 0.91
+  },
+  "0.1": {
+   "Tc": 219.2083703632317,
+   "err": 2.3703056058903527e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1202,
+   "crossings": [
+    [
+     219.18027871528125,
+     221.5461029083186
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.33677491596614817,
+   "notes": [],
+   "nevals": 116,
+   "jumps_checked": 10,
+   "seconds": 12.67
+  },
+  "0.15": {
+   "Tc": 190.9555969670365,
+   "err": 2.3174735256815267e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1288,
+   "crossings": [
+    [
+     188.48323215149645,
+     192.32982872601679
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.4641152802385518,
+   "notes": [],
+   "nevals": 143,
+   "jumps_checked": 14,
+   "seconds": 19.97
+  }
+ },
+ "allen_dynes": {
+  "0.0": 295.4774736502362,
+  "0.1": 203.12702637594353,
+  "0.15": 161.31567206103045
+ }
+}

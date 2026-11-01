@@ -1,0 +1,7 @@
+ &input
+    fildyn = 'dyn'
+    flfrc = 'ifc.fc'
+    zasr = 'crystal'
+    la2F = .true.
+    el_ph_nsigma = 10
+ /

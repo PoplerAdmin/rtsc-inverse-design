@@ -1,0 +1,533 @@
+{
+ "plan_summary": {
+  "G1": {
+   "jobs": 24,
+   "structures": 384,
+   "gpu_h_est": 1.08
+  },
+  "G2": {
+   "jobs": 6,
+   "structures": 96,
+   "gpu_h_est": 0.27
+  },
+  "G3": {
+   "jobs": 4,
+   "structures": 64,
+   "gpu_h_est": 0.18
+  },
+  "G4": {
+   "jobs": 6,
+   "structures": 96,
+   "gpu_h_est": 0.27
+  },
+  "G5": {
+   "jobs": 4,
+   "structures": 64,
+   "gpu_h_est": 0.088
+  }
+ },
+ "jobs": [
+  {
+   "batch_id": "campaign1-day0-G1-000",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Al-H-Pd",
+    "energy_above_hull": 0.062
+   },
+   "n": 16,
+   "seed": 83362397,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-001",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Mg-Rh",
+    "energy_above_hull": 0.195
+   },
+   "n": 16,
+   "seed": 1132204018,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-002",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Au-H-Li",
+    "energy_above_hull": 0.27
+   },
+   "n": 16,
+   "seed": 1283519859,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-003",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Ir-Na",
+    "energy_above_hull": 0.061
+   },
+   "n": 16,
+   "seed": 1779547227,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-004",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Li-Pd",
+    "energy_above_hull": 0.177
+   },
+   "n": 16,
+   "seed": 1702942310,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-005",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Au-H-Sc",
+    "energy_above_hull": 0.131
+   },
+   "n": 16,
+   "seed": 962916755,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-006",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Pd-Sc",
+    "energy_above_hull": 0.225
+   },
+   "n": 16,
+   "seed": 1621273949,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-007",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ba-H-Rh",
+    "energy_above_hull": 0.252
+   },
+   "n": 16,
+   "seed": 1230659040,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-008",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Na-Pt",
+    "energy_above_hull": 0.127
+   },
+   "n": 16,
+   "seed": 2121562480,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-009",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Li-Pd",
+    "energy_above_hull": 0.154
+   },
+   "n": 16,
+   "seed": 2130569967,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-010",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ag-Ba-H",
+    "energy_above_hull": 0.149
+   },
+   "n": 16,
+   "seed": 270107390,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-011",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ba-H-Ir",
+    "energy_above_hull": 0.232
+   },
+   "n": 16,
+   "seed": 880453527,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-012",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-La-Rh",
+    "energy_above_hull": 0.138
+   },
+   "n": 16,
+   "seed": 1753505656,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-013",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ba-H-Ir",
+    "energy_above_hull": 0.182
+   },
+   "n": 16,
+   "seed": 411466964,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-014",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Au-H-Y",
+    "energy_above_hull": 0.156
+   },
+   "n": 16,
+   "seed": 1609964374,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-015",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ag-H-La",
+    "energy_above_hull": 0.24
+   },
+   "n": 16,
+   "seed": 340837478,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-016",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Pt-Sr",
+    "energy_above_hull": 0.185
+   },
+   "n": 16,
+   "seed": 1737385239,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-017",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Au-H-La",
+    "energy_above_hull": 0.259
+   },
+   "n": 16,
+   "seed": 1501009373,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-018",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ba-H-Pt",
+    "energy_above_hull": 0.209
+   },
+   "n": 16,
+   "seed": 1877125245,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-019",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Pt-Y",
+    "energy_above_hull": 0.042
+   },
+   "n": 16,
+   "seed": 221832417,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-020",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Au-H-Na",
+    "energy_above_hull": 0.236
+   },
+   "n": 16,
+   "seed": 422751503,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-021",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Al-H-Pt",
+    "energy_above_hull": 0.206
+   },
+   "n": 16,
+   "seed": 1954038260,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-022",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "H-Mg-Pd",
+    "energy_above_hull": 0.22
+   },
+   "n": 16,
+   "seed": 459385657,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G1-023",
+   "lane": "G1",
+   "checkpoint": "chemical_system_energy_above_hull",
+   "conditioning": {
+    "chemical_system": "Ag-H-Sc",
+    "energy_above_hull": 0.24
+   },
+   "n": 16,
+   "seed": 507357031,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-000",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 191
+   },
+   "n": 16,
+   "seed": 1423143002,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-001",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 194
+   },
+   "n": 16,
+   "seed": 1993053143,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-002",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 139
+   },
+   "n": 16,
+   "seed": 1049479192,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-003",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 123
+   },
+   "n": 16,
+   "seed": 982382533,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-004",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 166
+   },
+   "n": 16,
+   "seed": 344209949,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G2-005",
+   "lane": "G2",
+   "checkpoint": "space_group",
+   "conditioning": {
+    "space_group": 221
+   },
+   "n": 16,
+   "seed": 1841116911,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G3-000",
+   "lane": "G3",
+   "checkpoint": "dft_band_gap",
+   "conditioning": {
+    "dft_band_gap": 0.0
+   },
+   "n": 16,
+   "seed": 2065545016,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G3-001",
+   "lane": "G3",
+   "checkpoint": "dft_mag_density",
+   "conditioning": {
+    "dft_mag_density": 0.0
+   },
+   "n": 16,
+   "seed": 1451362654,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G3-002",
+   "lane": "G3",
+   "checkpoint": "dft_band_gap",
+   "conditioning": {
+    "dft_band_gap": 0.0
+   },
+   "n": 16,
+   "seed": 1465838844,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G3-003",
+   "lane": "G3",
+   "checkpoint": "dft_mag_density",
+   "conditioning": {
+    "dft_mag_density": 0.0
+   },
+   "n": 16,
+   "seed": 1042328603,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-000",
+   "lane": "G4",
+   "checkpoint": "chemical_system",
+   "conditioning": {
+    "chemical_system": "B-C-Li"
+   },
+   "n": 16,
+   "seed": 951487064,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-001",
+   "lane": "G4",
+   "checkpoint": "chemical_system",
+   "conditioning": {
+    "chemical_system": "B-C-Mg"
+   },
+   "n": 16,
+   "seed": 28784222,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-002",
+   "lane": "G4",
+   "checkpoint": "chemical_system",
+   "conditioning": {
+    "chemical_system": "B-Be"
+   },
+   "n": 16,
+   "seed": 419931900,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-003",
+   "lane": "G4",
+   "checkpoint": "ml_bulk_modulus",
+   "conditioning": {
+    "ml_bulk_modulus": 300.0
+   },
+   "n": 16,
+   "seed": 1069822768,
+   "status": "SKIPPED_CHECKPOINT_NOT_LOCAL"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-004",
+   "lane": "G4",
+   "checkpoint": "chemical_system",
+   "conditioning": {
+    "chemical_system": "B-C-N"
+   },
+   "n": 16,
+   "seed": 804094117,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G4-005",
+   "lane": "G4",
+   "checkpoint": "chemical_system",
+   "conditioning": {
+    "chemical_system": "B-C-Li"
+   },
+   "n": 16,
+   "seed": 592006016,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G5-000",
+   "lane": "G5",
+   "checkpoint": "mattergen_base",
+   "conditioning": {},
+   "n": 16,
+   "seed": 1346319513,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G5-001",
+   "lane": "G5",
+   "checkpoint": "mattergen_base",
+   "conditioning": {},
+   "n": 16,
+   "seed": 2092365499,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G5-002",
+   "lane": "G5",
+   "checkpoint": "mattergen_base",
+   "conditioning": {},
+   "n": 16,
+   "seed": 781760874,
+   "status": "planned"
+  },
+  {
+   "batch_id": "campaign1-day0-G5-003",
+   "lane": "G5",
+   "checkpoint": "mattergen_base",
+   "conditioning": {},
+   "n": 16,
+   "seed": 201101583,
+   "status": "planned"
+  }
+ ],
+ "gpu_h": 2.0,
+ "batch": 16
+}

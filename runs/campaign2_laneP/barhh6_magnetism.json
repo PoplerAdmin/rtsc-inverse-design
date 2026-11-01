@@ -1,0 +1,73 @@
+{
+ "nm_a3": {
+  "E_Ry": -551.42717913,
+  "total_mag": null,
+  "abs_mag": null,
+  "converged": true,
+  "wall": "3m38.91s"
+ },
+ "fm_a3": {
+  "E_Ry": -551.42717503,
+  "total_mag": "0.00",
+  "abs_mag": 0.0,
+  "converged": true,
+  "wall": "9m27.62s"
+ },
+ "afm_a3": {
+  "E_Ry": -551.42717503,
+  "total_mag": "-0.00",
+  "abs_mag": 0.0,
+  "converged": true,
+  "wall": "11m15.79s"
+ },
+ "nm_a1": {
+  "E_Ry": -551.42676019,
+  "total_mag": null,
+  "abs_mag": null,
+  "converged": true,
+  "wall": "6m46.92s"
+ },
+ "afm_a1": {
+  "E_Ry": -551.42675609,
+  "total_mag": "-0.00",
+  "abs_mag": 0.0,
+  "converged": true,
+  "wall": "18m 8.74s"
+ },
+ "soc_nm_a3": {
+  "E_Ry": -551.38529,
+  "total_mag": null,
+  "abs_mag": null,
+  "converged": true,
+  "wall": "17m56.19s"
+ },
+ "soc_afm_a3.stalled": {
+  "E_Ry": null,
+  "total_mag": "-0.03    -0.00     0.00",
+  "abs_mag": 0.08,
+  "converged": false,
+  "wall": null
+ },
+ "nm_a3_s005": {
+  "E_Ry": -551.42733938,
+  "total_mag": null,
+  "abs_mag": null,
+  "converged": true,
+  "wall": "3m28.74s"
+ },
+ "fm_a3_s005": {
+  "E_Ry": -551.42733528,
+  "total_mag": "0.00",
+  "abs_mag": 0.0,
+  "converged": true,
+  "wall": "7m23.54s"
+ },
+ "afm_a3_s005": {
+  "E_Ry": -551.42733528,
+  "total_mag": "-0.00",
+  "abs_mag": 0.0,
+  "converged": true,
+  "wall": "8m55.72s"
+ },
+ "note": "BaRhH6 c-336a1451e874 campaign-1 S4 cell; 16-atom supercells; doc 32 section 6. soc_afm_a3.stalled: killed after 57 scf iterations (accuracy stalled 4e-7 Ry); soc_afm_a3b restart running."
+}

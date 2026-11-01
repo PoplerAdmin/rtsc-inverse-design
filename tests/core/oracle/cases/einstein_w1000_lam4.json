@@ -1,0 +1,98 @@
+{
+ "name": "einstein_w1000_lam4",
+ "synthetic": true,
+ "description": "single Einstein mode at 1000 K, lambda=4",
+ "tags": [
+  "einstein"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1000.0
+  ],
+  "weight_K": [
+   2000.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: einstein_w1000_lam4 -- single Einstein mode at 1000 K, lambda=4",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 10000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 2000.0,
+ "lambda": 4.0,
+ "omega_log_K": 999.9999999999998,
+ "ceiling_K": 461.7357878792255,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 333.24368462121424,
+   "err": 1.2430255527165198e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     327.5192445673042,
+     334.2033107829635
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.47402907417496315,
+   "notes": [],
+   "nevals": 99,
+   "jumps_checked": 0,
+   "seconds": 5.44
+  },
+  "0.1": {
+   "Tc": 284.1416541946745,
+   "err": 9.386734924256749e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     278.6412624617828,
+     284.32781883855387
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.7378373409746846,
+   "notes": [],
+   "nevals": 124,
+   "jumps_checked": 6,
+   "seconds": 5.09
+  },
+  "0.15": {
+   "Tc": 266.18262393370617,
+   "err": 8.488321763197331e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 677,
+   "crossings": [
+    [
+     262.25492709893024,
+     267.6070684682962
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.8532976652142539,
+   "notes": [],
+   "nevals": 134,
+   "jumps_checked": 6,
+   "seconds": 5.79
+  }
+ },
+ "allen_dynes": {
+  "0.0": 330.1996243320803,
+  "0.1": 264.048953411285,
+  "0.15": 237.51961376486034
+ }
+}

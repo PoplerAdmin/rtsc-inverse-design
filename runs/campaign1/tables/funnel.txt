@@ -1,0 +1,21 @@
+S1 C {'PASS': 6}
+S1 D {'PASS': 487, 'SCREENED_OUT(n_atoms_primitive)': 19}
+S1 G1 {'PASS': 384}
+S1 G4 {'PASS': 80}
+S1 G5 {'PASS': 41, 'SCREENED_OUT(no_pseudo)': 23}
+S2 C {'PASS': 6}
+S2 D {'PASS': 456, 'DUPLICATE(duplicate_of)': 31}
+S2 G1 {'PASS': 369, 'DUPLICATE(duplicate_of)': 15}
+S2 G4 {'PASS': 80}
+S2 G5 {'PASS': 41}
+S3 C {'PASS': 6}
+S3 D {'DEFERRED(rank_cut)': 440, 'PASS': 15, 'SCREENED_OUT(H7-ml:e_hull_ml_self_eV)': 1}
+S3 G1 {'DEFERRED(rank_cut)': 351, 'SCREENED_OUT(H7-ml:e_hull_ml_self_eV)': 3, 'PASS': 15}
+S3 G4 {'SCREENED_OUT(H7-ml:e_hull_ml_self_eV)': 34, 'DEFERRED(rank_cut)': 46}
+S3 G5 {'DEFERRED(rank_cut)': 41}
+S4 C {'PASS': 4}
+S4 D {'PASS': 8, 'EXCLUDED_ASSUMPTION(H1)': 4}
+S4 G1 {'PASS': 7, 'ERROR': 2, 'EXCLUDED_ASSUMPTION(H1)': 4}
+S5 C {'PASS': 4}
+S5 D {'SCREENED_OUT(coarse-A envelope)': 1, 'DEFERRED(multiband)': 1}
+S5 G1 {'ERROR': 2, 'DEFERRED(imaginary_modes)': 1}

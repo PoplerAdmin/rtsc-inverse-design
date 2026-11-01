@@ -1,0 +1,27 @@
+{
+ "cmd": "relax",
+ "a_A_in": 6.6326,
+ "x_in": 0.260649,
+ "ranks": 4,
+ "rows": [
+  {
+   "name": "relax",
+   "rc": 0,
+   "wall_s": 138.21,
+   "etot_Ry": -436.95078746,
+   "P_kbar": 0.08,
+   "total_force_Ry_bohr": 4.4e-05,
+   "F_H_x_Ry_bohr": 1.789e-05,
+   "EF_eV": 10.9676,
+   "nks": 47,
+   "pw_wall": "2m16.50s",
+   "job_done": true,
+   "a_A": 6.652063985939111,
+   "x_H_alat_orig": -0.2593823281,
+   "final_converged": true,
+   "ecutwfc": 80.0,
+   "k": 10,
+   "x_H": -0.2586233735863838
+  }
+ ]
+}

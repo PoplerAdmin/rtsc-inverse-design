@@ -1,0 +1,32 @@
+{
+ "tool": "src/scoring/coarse_dfpt.py",
+ "structure_source": "template_e80.in",
+ "settings": {
+  "ecutwfc": 80.0,
+  "ecutrho": 320.0,
+  "kscf": 8,
+  "kfit": 36,
+  "nq": 3,
+  "sigma0_Ry": 0.005,
+  "nsigma": 10,
+  "degauss_Ry": 0.02,
+  "tr2_ph": "1.0d-16",
+  "matdyn_nk": 32,
+  "ranks": 4,
+  "omp_threads_1": true
+ },
+ "steps": {
+  "scf_fit": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/mpirun -np 4 --bind-to none ~/micromamba/envs/qe/bin/pw.x -nk 4 -in scf_fit.in",
+   "wall_s": 611.514,
+   "rc": 0,
+   "timed_out": false
+  },
+  "scf": {
+   "cmd": "nice -n 19 ~/micromamba/envs/qe/bin/mpirun -np 4 --bind-to none ~/micromamba/envs/qe/bin/pw.x -nk 4 -in scf.in",
+   "wall_s": 17.63,
+   "rc": 0,
+   "timed_out": false
+  }
+ }
+}

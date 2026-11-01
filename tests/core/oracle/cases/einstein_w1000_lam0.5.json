@@ -1,0 +1,105 @@
+{
+ "name": "einstein_w1000_lam0.5",
+ "synthetic": true,
+ "description": "single Einstein mode at 1000 K, lambda=0.5",
+ "tags": [
+  "einstein"
+ ],
+ "spectrum": {
+  "omega_K": [
+   1000.0
+  ],
+  "weight_K": [
+   250.0
+  ],
+  "rel_envelope": 0.0,
+  "label": "SYNTHETIC: einstein_w1000_lam0.5 -- single Einstein mode at 1000 K, lambda=0.5",
+  "provenance": {
+   "synthetic": true,
+   "note": "SYNTHETIC test spectrum, not data for any real compound",
+   "generator": "tests/oracle/make_suite.py"
+  }
+ },
+ "omega_c_K": 10000.0,
+ "omega_c_rule": "10*max(omega_K)",
+ "N_c_rule": "#{n>=0 : (2n+1)*pi*T <= omega_c}",
+ "A_K": 250.0,
+ "lambda": 0.5,
+ "omega_log_K": 999.9999999999998,
+ "ceiling_K": 57.716973484903185,
+ "n_atoms": 1,
+ "oracle": {
+  "0.0": {
+   "Tc": 39.42887713406144,
+   "err": 1.459323577124271e-08,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     39.31868531030487,
+     40.121107459494766
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.2318313215686862,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 110,
+   "jumps_checked": 0,
+   "seconds": 73.16
+  },
+  "0.1": {
+   "Tc": 15.739635844491522,
+   "err": 2.858399630778581e-07,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     15.680289959808327,
+     15.836312745462223
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.5936218210342581,
+   "notes": [
+    "truncation check at cap",
+    "truncation capped at N=1500; residual change 3.49e-09"
+   ],
+   "nevals": 494,
+   "jumps_checked": 150,
+   "seconds": 79.44
+  },
+  "0.15": {
+   "Tc": 9.781875618901985,
+   "err": 4.8862796194300694e-09,
+   "status": "ok",
+   "T_floor": null,
+   "N_used": 1500,
+   "crossings": [
+    [
+     9.754347218097452,
+     9.794150344116638
+    ]
+   ],
+   "reentrant": false,
+   "at_Nc_jump": false,
+   "rho_at_ceiling": -0.7152733552066124,
+   "notes": [
+    "truncation check at cap"
+   ],
+   "nevals": 785,
+   "jumps_checked": 270,
+   "seconds": 68.57
+  }
+ },
+ "allen_dynes": {
+  "0.0": 37.888917837563,
+  "0.1": 12.380461831822078,
+  "0.15": 4.955890110921865
+ }
+}

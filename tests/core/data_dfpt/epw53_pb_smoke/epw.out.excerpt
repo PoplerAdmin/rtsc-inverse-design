@@ -1,0 +1,56 @@
+
+
+     Nr irreducible k-points within the Fermi shell =         7 out of        16
+
+     Progression iq (fine) =        100/       208
+     Progression iq (fine) =        200/       208
+                  Fermi level (eV) =    0.120590742343335D+02
+     DOS(states/spin/eV/Unit Cell) =    0.512283854390677D+00
+            Electron smearing (eV) =    0.100000000000000D+00
+                 Fermi window (eV) =    0.100000000000000D+01
+      
+     Finish writing .ephmat files
+
+     ===================================================================
+     Memory usage:  VmHWM =        37Mb
+                   VmPeak =       260Mb
+     ===================================================================
+
+
+     ===================================================================
+     Solve anisotropic Eliashberg equations
+     ===================================================================
+
+
+     Finish reading freq file
+
+                  Fermi level (eV) =     1.2059074234E+01
+     DOS(states/spin/eV/Unit Cell) =     5.1228385439E-01
+            Electron smearing (eV) =     1.0000000000E-01
+                 Fermi window (eV) =     1.0000000000E+00
+     Nr irreducible k-points within the Fermi shell =         7 out of        16
+
+           2 bands within the Fermi window
+
+
+     Finish reading egnv file 
+
+
+     Max nr of q-points =       117
+
+
+     Finish reading ikmap files
+
+
+     Start reading .ephmat files
+
+
+     Finish reading .ephmat files
+
+     Electron-phonon coupling strength =    0.3439096
+ 
+     Estimated Allen-Dynes Tc =     0.187180 K for muc =    0.10000
+  
+     Estimated w_log in Allen-Dynes Tc =    10.323551 meV
+  
+     Estimated BCS superconducting gap =     0.028389 meV

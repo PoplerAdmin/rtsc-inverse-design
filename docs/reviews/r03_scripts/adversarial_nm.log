@@ -1,0 +1,495 @@
+== lambda_k = 0.8  g_lo = 9.452681e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=0.8                         top_ev = 0.999977 
+   Einstein lam=0.76                        top_ev = 0.981357 
+   Einstein lam=0.64                        top_ev = 0.916644 
+   Einstein lam=0.4                         top_ev = 0.731465 
+   Einstein lam=0.16                        top_ev = 0.411454 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.998933 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.994989 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.987043 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.982704 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.983500 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.991826 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.998085 
+   2atom r=3 f_lo=0.02                      top_ev = 0.995608 
+   2atom r=3 f_lo=0.1                       top_ev = 0.978179 
+   2atom r=3 f_lo=0.3                       top_ev = 0.935979 
+   2atom r=3 f_lo=0.5                       top_ev = 0.899941 
+   2atom r=3 f_lo=0.7                       top_ev = 0.881988 
+   2atom r=3 f_lo=0.9                       top_ev = 0.918839 
+   2atom r=3 f_lo=0.98                      top_ev = 0.976667 
+   2atom r=10 f_lo=0.02                     top_ev = 0.993084 
+   2atom r=10 f_lo=0.1                      top_ev = 0.964661 
+   2atom r=10 f_lo=0.3                      top_ev = 0.887079 
+   2atom r=10 f_lo=0.5                      top_ev = 0.799094 
+   2atom r=10 f_lo=0.7                      top_ev = 0.702815 
+   2atom r=10 f_lo=0.9                      top_ev = 0.644769 
+   2atom r=10 f_lo=0.98                     top_ev = 0.788723 
+   2atom r=30 f_lo=0.02                     top_ev = 0.992781 
+   2atom r=30 f_lo=0.1                      top_ev = 0.962992 
+   2atom r=30 f_lo=0.3                      top_ev = 0.880459 
+   2atom r=30 f_lo=0.5                      top_ev = 0.783303 
+   2atom r=30 f_lo=0.7                      top_ev = 0.666197 
+   2atom r=30 f_lo=0.9                      top_ev = 0.531618 
+   2atom r=30 f_lo=0.98                     top_ev = 0.535788 
+   2atom r=100 f_lo=0.02                    top_ev = 0.992745 
+   2atom r=100 f_lo=0.1                     top_ev = 0.962795 
+   2atom r=100 f_lo=0.3                     top_ev = 0.879669 
+   2atom r=100 f_lo=0.5                     top_ev = 0.781378 
+   2atom r=100 f_lo=0.7                     top_ev = 0.661515 
+   2atom r=100 f_lo=0.9                     top_ev = 0.514321 
+   2atom r=100 f_lo=0.98                    top_ev = 0.462939 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.992742 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.962776 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.879591 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.781188 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.661050 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.512567 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.455045 
+   soft+hard lf=0.6 r=20                    top_ev = 0.459130 
+   soft+hard lf=0.6 r=200                   top_ev = 0.436295 
+   soft+hard lf=0.9 r=20                    top_ev = 0.577621 
+   soft+hard lf=0.9 r=200                   top_ev = 0.557500 
+   soft+hard lf=1 r=20                      top_ev = 0.609640 
+   soft+hard lf=1 r=200                     top_ev = 0.590323 
+   box width=0.2                            top_ev = 0.998450 
+   box width=1                              top_ev = 0.962685 
+   box width=1.8                            top_ev = 0.894448 
+   NM-opt 2 atoms p=[-0.     2.955]         top_ev = 0.999977 
+   NM-opt 3 atoms p=[-0.    -0.     4.827  0.915] top_ev = 0.999977 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000210 (should be > 1)
+== lambda_k = 1.0  g_lo = 6.850545e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=1                           top_ev = 0.999976 
+   Einstein lam=0.95                        top_ev = 0.985116 
+   Einstein lam=0.8                         top_ev = 0.931915 
+   Einstein lam=0.5                         top_ev = 0.768321 
+   Einstein lam=0.2                         top_ev = 0.453864 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.998967 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.995123 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.987186 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.982601 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.983108 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.991480 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.997991 
+   2atom r=3 f_lo=0.02                      top_ev = 0.996183 
+   2atom r=3 f_lo=0.1                       top_ev = 0.980851 
+   2atom r=3 f_lo=0.3                       top_ev = 0.942146 
+   2atom r=3 f_lo=0.5                       top_ev = 0.906249 
+   2atom r=3 f_lo=0.7                       top_ev = 0.884167 
+   2atom r=3 f_lo=0.9                       top_ev = 0.915299 
+   2atom r=3 f_lo=0.98                      top_ev = 0.974955 
+   2atom r=10 f_lo=0.02                     top_ev = 0.994447 
+   2atom r=10 f_lo=0.1                      top_ev = 0.971443 
+   2atom r=10 f_lo=0.3                      top_ev = 0.906899 
+   2atom r=10 f_lo=0.5                      top_ev = 0.830217 
+   2atom r=10 f_lo=0.7                      top_ev = 0.740042 
+   2atom r=10 f_lo=0.9                      top_ev = 0.665742 
+   2atom r=10 f_lo=0.98                     top_ev = 0.780269 
+   2atom r=30 f_lo=0.02                     top_ev = 0.994258 
+   2atom r=30 f_lo=0.1                      top_ev = 0.970395 
+   2atom r=30 f_lo=0.3                      top_ev = 0.902668 
+   2atom r=30 f_lo=0.5                      top_ev = 0.819921 
+   2atom r=30 f_lo=0.7                      top_ev = 0.715509 
+   2atom r=30 f_lo=0.9                      top_ev = 0.584428 
+   2atom r=30 f_lo=0.98                     top_ev = 0.566622 
+   2atom r=100 f_lo=0.02                    top_ev = 0.994236 
+   2atom r=100 f_lo=0.1                     top_ev = 0.970272 
+   2atom r=100 f_lo=0.3                     top_ev = 0.902171 
+   2atom r=100 f_lo=0.5                     top_ev = 0.818694 
+   2atom r=100 f_lo=0.7                     top_ev = 0.712483 
+   2atom r=100 f_lo=0.9                     top_ev = 0.573004 
+   2atom r=100 f_lo=0.98                    top_ev = 0.516983 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.994234 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.970261 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.902122 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.818573 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.712183 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.571858 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.511793 
+   soft+hard lf=0.6 r=20                    top_ev = 0.508450 
+   soft+hard lf=0.6 r=200                   top_ev = 0.492788 
+   soft+hard lf=0.9 r=20                    top_ev = 0.628256 
+   soft+hard lf=0.9 r=200                   top_ev = 0.614925 
+   soft+hard lf=1 r=20                      top_ev = 0.659568 
+   soft+hard lf=1 r=200                     top_ev = 0.646887 
+   box width=0.2                            top_ev = 0.998424 
+   box width=1                              top_ev = 0.963460 
+   box width=1.8                            top_ev = 0.904175 
+   NM-opt 2 atoms p=[-0.    2.96]           top_ev = 0.999976 
+   NM-opt 3 atoms p=[0.    0.    4.827 0.915] top_ev = 0.999976 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000233 (should be > 1)
+== lambda_k = 1.5  g_lo = 4.718488e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=1.5                         top_ev = 0.999975 
+   Einstein lam=1.42                        top_ev = 0.990977 
+   Einstein lam=1.2                         top_ev = 0.956892 
+   Einstein lam=0.75                        top_ev = 0.835847 
+   Einstein lam=0.3                         top_ev = 0.544019 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999209 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.996246 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.989798 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.985601 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.985399 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.992266 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.998135 
+   2atom r=3 f_lo=0.02                      top_ev = 0.997498 
+   2atom r=3 f_lo=0.1                       top_ev = 0.987277 
+   2atom r=3 f_lo=0.3                       top_ev = 0.959650 
+   2atom r=3 f_lo=0.5                       top_ev = 0.930373 
+   2atom r=3 f_lo=0.7                       top_ev = 0.906233 
+   2atom r=3 f_lo=0.9                       top_ev = 0.921801 
+   2atom r=3 f_lo=0.98                      top_ev = 0.975055 
+   2atom r=10 f_lo=0.02                     top_ev = 0.996632 
+   2atom r=10 f_lo=0.1                      top_ev = 0.982490 
+   2atom r=10 f_lo=0.3                      top_ev = 0.940699 
+   2atom r=10 f_lo=0.5                      top_ev = 0.886534 
+   2atom r=10 f_lo=0.7                      top_ev = 0.814603 
+   2atom r=10 f_lo=0.9                      top_ev = 0.731987 
+   2atom r=10 f_lo=0.98                     top_ev = 0.794501 
+   2atom r=30 f_lo=0.02                     top_ev = 0.996545 
+   2atom r=30 f_lo=0.1                      top_ev = 0.982001 
+   2atom r=30 f_lo=0.3                      top_ev = 0.938647 
+   2atom r=30 f_lo=0.5                      top_ev = 0.881318 
+   2atom r=30 f_lo=0.7                      top_ev = 0.801492 
+   2atom r=30 f_lo=0.9                      top_ev = 0.684100 
+   2atom r=30 f_lo=0.98                     top_ev = 0.645225 
+   2atom r=100 f_lo=0.02                    top_ev = 0.996535 
+   2atom r=100 f_lo=0.1                     top_ev = 0.981945 
+   2atom r=100 f_lo=0.3                     top_ev = 0.938409 
+   2atom r=100 f_lo=0.5                     top_ev = 0.880707 
+   2atom r=100 f_lo=0.7                     top_ev = 0.799919 
+   2atom r=100 f_lo=0.9                     top_ev = 0.677802 
+   2atom r=100 f_lo=0.98                    top_ev = 0.616867 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.996534 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.981939 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.938386 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.880646 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.799764 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.677174 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.613959 
+   soft+hard lf=0.6 r=20                    top_ev = 0.610016 
+   soft+hard lf=0.6 r=200                   top_ev = 0.600933 
+   soft+hard lf=0.9 r=20                    top_ev = 0.724311 
+   soft+hard lf=0.9 r=200                   top_ev = 0.717046 
+   soft+hard lf=1 r=20                      top_ev = 0.752255 
+   soft+hard lf=1 r=200                     top_ev = 0.745461 
+   box width=0.2                            top_ev = 0.998662 
+   box width=1                              top_ev = 0.970891 
+   box width=1.8                            top_ev = 0.929594 
+   NM-opt 2 atoms p=[-0.     2.955]         top_ev = 0.999975 
+   NM-opt 3 atoms p=[-0.    -0.     5.747  0.33 ] top_ev = 0.999975 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000250 (should be > 1)
+== lambda_k = 2.0  g_lo = 4.014775e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=2                           top_ev = 0.999976 
+   Einstein lam=1.9                         top_ev = 0.994013 
+   Einstein lam=1.6                         top_ev = 0.970574 
+   Einstein lam=1                           top_ev = 0.878596 
+   Einstein lam=0.4                         top_ev = 0.614456 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999420 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.997250 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.992374 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.988965 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.988471 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.993668 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.998445 
+   2atom r=3 f_lo=0.02                      top_ev = 0.998295 
+   2atom r=3 f_lo=0.1                       top_ev = 0.991279 
+   2atom r=3 f_lo=0.3                       top_ev = 0.971574 
+   2atom r=3 f_lo=0.5                       top_ev = 0.949072 
+   2atom r=3 f_lo=0.7                       top_ev = 0.927586 
+   2atom r=3 f_lo=0.9                       top_ev = 0.933901 
+   2atom r=3 f_lo=0.98                      top_ev = 0.977631 
+   2atom r=10 f_lo=0.02                     top_ev = 0.997769 
+   2atom r=10 f_lo=0.1                      top_ev = 0.988337 
+   2atom r=10 f_lo=0.3                      top_ev = 0.959528 
+   2atom r=10 f_lo=0.5                      top_ev = 0.919961 
+   2atom r=10 f_lo=0.7                      top_ev = 0.862882 
+   2atom r=10 f_lo=0.9                      top_ev = 0.784786 
+   2atom r=10 f_lo=0.98                     top_ev = 0.819578 
+   2atom r=30 f_lo=0.02                     top_ev = 0.997717 
+   2atom r=30 f_lo=0.1                      top_ev = 0.988044 
+   2atom r=30 f_lo=0.3                      top_ev = 0.958266 
+   2atom r=30 f_lo=0.5                      top_ev = 0.916639 
+   2atom r=30 f_lo=0.7                      top_ev = 0.854144 
+   2atom r=30 f_lo=0.9                      top_ev = 0.750563 
+   2atom r=30 f_lo=0.98                     top_ev = 0.704596 
+   2atom r=100 f_lo=0.02                    top_ev = 0.997711 
+   2atom r=100 f_lo=0.1                     top_ev = 0.988011 
+   2atom r=100 f_lo=0.3                     top_ev = 0.958121 
+   2atom r=100 f_lo=0.5                     top_ev = 0.916251 
+   2atom r=100 f_lo=0.7                     top_ev = 0.853104 
+   2atom r=100 f_lo=0.9                     top_ev = 0.746148 
+   2atom r=100 f_lo=0.98                    top_ev = 0.684141 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.997711 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.988007 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.958106 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.916213 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.853002 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.745709 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.682050 
+   soft+hard lf=0.6 r=20                    top_ev = 0.683444 
+   soft+hard lf=0.6 r=200                   top_ev = 0.676897 
+   soft+hard lf=0.9 r=20                    top_ev = 0.787738 
+   soft+hard lf=0.9 r=200                   top_ev = 0.782740 
+   soft+hard lf=1 r=20                      top_ev = 0.811989 
+   soft+hard lf=1 r=200                     top_ev = 0.807373 
+   box width=0.2                            top_ev = 0.998959 
+   box width=1                              top_ev = 0.977968 
+   box width=1.8                            top_ev = 0.947986 
+   NM-opt 2 atoms p=[-0.     2.961]         top_ev = 0.999976 
+   NM-opt 3 atoms p=[-0.     0.     5.746  0.33 ] top_ev = 0.999976 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000242 (should be > 1)
+== lambda_k = 3.0  g_lo = 3.468999e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=3                           top_ev = 0.999979 
+   Einstein lam=2.85                        top_ev = 0.996822 
+   Einstein lam=2.4                         top_ev = 0.983855 
+   Einstein lam=1.5                         top_ev = 0.926167 
+   Einstein lam=0.6                         top_ev = 0.714199 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999662 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.998411 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.995505 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.993315 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.992772 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.995851 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.998956 
+   2atom r=3 f_lo=0.02                      top_ev = 0.999075 
+   2atom r=3 f_lo=0.1                       top_ev = 0.995256 
+   2atom r=3 f_lo=0.3                       top_ev = 0.984082 
+   2atom r=3 f_lo=0.5                       top_ev = 0.970255 
+   2atom r=3 f_lo=0.7                       top_ev = 0.954894 
+   2atom r=3 f_lo=0.9                       top_ev = 0.953832 
+   2atom r=3 f_lo=0.98                      top_ev = 0.983070 
+   2atom r=10 f_lo=0.02                     top_ev = 0.998817 
+   2atom r=10 f_lo=0.1                      top_ev = 0.993798 
+   2atom r=10 f_lo=0.3                      top_ev = 0.977876 
+   2atom r=10 f_lo=0.5                      top_ev = 0.954436 
+   2atom r=10 f_lo=0.7                      top_ev = 0.916826 
+   2atom r=10 f_lo=0.9                      top_ev = 0.852876 
+   2atom r=10 f_lo=0.98                     top_ev = 0.861553 
+   2atom r=30 f_lo=0.02                     top_ev = 0.998793 
+   2atom r=30 f_lo=0.1                      top_ev = 0.993656 
+   2atom r=30 f_lo=0.3                      top_ev = 0.977242 
+   2atom r=30 f_lo=0.5                      top_ev = 0.952682 
+   2atom r=30 f_lo=0.7                      top_ev = 0.911881 
+   2atom r=30 f_lo=0.9                      top_ev = 0.831188 
+   2atom r=30 f_lo=0.98                     top_ev = 0.782000 
+   2atom r=100 f_lo=0.02                    top_ev = 0.998790 
+   2atom r=100 f_lo=0.1                     top_ev = 0.993639 
+   2atom r=100 f_lo=0.3                     top_ev = 0.977169 
+   2atom r=100 f_lo=0.5                     top_ev = 0.952478 
+   2atom r=100 f_lo=0.7                     top_ev = 0.911295 
+   2atom r=100 f_lo=0.9                     top_ev = 0.828425 
+   2atom r=100 f_lo=0.98                    top_ev = 0.768451 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.998790 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.993638 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.977161 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.952458 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.911237 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.828151 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.767066 
+   soft+hard lf=0.6 r=20                    top_ev = 0.778694 
+   soft+hard lf=0.6 r=200                   top_ev = 0.774470 
+   soft+hard lf=0.9 r=20                    top_ev = 0.862707 
+   soft+hard lf=0.9 r=200                   top_ev = 0.859701 
+   soft+hard lf=1 r=20                      top_ev = 0.880878 
+   soft+hard lf=1 r=200                     top_ev = 0.878155 
+   box width=0.2                            top_ev = 0.999358 
+   box width=1                              top_ev = 0.986717 
+   box width=1.8                            top_ev = 0.968974 
+   NM-opt 2 atoms p=[0.    2.629]           top_ev = 0.999979 
+   NM-opt 3 atoms p=[ 0.    -0.     6.114  0.417] top_ev = 0.999979 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000211 (should be > 1)
+== lambda_k = 5.0  g_lo = 3.117512e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=5                           top_ev = 0.999984 
+   Einstein lam=4.75                        top_ev = 0.998661 
+   Einstein lam=4                           top_ev = 0.992996 
+   Einstein lam=2.5                         top_ev = 0.964404 
+   Einstein lam=1                           top_ev = 0.824792 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999845 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.999290 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.997964 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.996902 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.996547 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.997934 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.999466 
+   2atom r=3 f_lo=0.02                      top_ev = 0.999603 
+   2atom r=3 f_lo=0.1                       top_ev = 0.997974 
+   2atom r=3 f_lo=0.3                       top_ev = 0.993041 
+   2atom r=3 f_lo=0.5                       top_ev = 0.986501 
+   2atom r=3 f_lo=0.7                       top_ev = 0.978234 
+   2atom r=3 f_lo=0.9                       top_ev = 0.974879 
+   2atom r=3 f_lo=0.98                      top_ev = 0.989906 
+   2atom r=10 f_lo=0.02                     top_ev = 0.999501 
+   2atom r=10 f_lo=0.1                      top_ev = 0.997391 
+   2atom r=10 f_lo=0.3                      top_ev = 0.990470 
+   2atom r=10 f_lo=0.5                      top_ev = 0.979595 
+   2atom r=10 f_lo=0.7                      top_ev = 0.960134 
+   2atom r=10 f_lo=0.9                      top_ev = 0.918007 
+   2atom r=10 f_lo=0.98                     top_ev = 0.910453 
+   2atom r=30 f_lo=0.02                     top_ev = 0.999491 
+   2atom r=30 f_lo=0.1                      top_ev = 0.997335 
+   2atom r=30 f_lo=0.3                      top_ev = 0.990211 
+   2atom r=30 f_lo=0.5                      top_ev = 0.978841 
+   2atom r=30 f_lo=0.7                      top_ev = 0.957818 
+   2atom r=30 f_lo=0.9                      top_ev = 0.906036 
+   2atom r=30 f_lo=0.98                     top_ev = 0.860898 
+   2atom r=100 f_lo=0.02                    top_ev = 0.999490 
+   2atom r=100 f_lo=0.1                     top_ev = 0.997328 
+   2atom r=100 f_lo=0.3                     top_ev = 0.990181 
+   2atom r=100 f_lo=0.5                     top_ev = 0.978753 
+   2atom r=100 f_lo=0.7                     top_ev = 0.957545 
+   2atom r=100 f_lo=0.9                     top_ev = 0.904518 
+   2atom r=100 f_lo=0.98                    top_ev = 0.852586 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.999490 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.997328 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.990178 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.978744 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.957518 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.904367 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.851735 
+   soft+hard lf=0.6 r=20                    top_ev = 0.873346 
+   soft+hard lf=0.6 r=200                   top_ev = 0.870970 
+   soft+hard lf=0.9 r=20                    top_ev = 0.928641 
+   soft+hard lf=0.9 r=200                   top_ev = 0.927103 
+   soft+hard lf=1 r=20                      top_ev = 0.939585 
+   soft+hard lf=1 r=200                     top_ev = 0.938226 
+   box width=0.2                            top_ev = 0.999695 
+   box width=1                              top_ev = 0.993829 
+   box width=1.8                            top_ev = 0.985548 
+   NM-opt 2 atoms p=[-0.    -1.362]         top_ev = 0.999984 
+   NM-opt 3 atoms p=[0.    0.    6.114 0.417] top_ev = 0.999984 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000158 (should be > 1)
+== lambda_k = 10.0  g_lo = 2.892808e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=10                          top_ev = 0.999991 
+   Einstein lam=9.5                         top_ev = 0.999616 
+   Einstein lam=8                           top_ev = 0.997953 
+   Einstein lam=5                           top_ev = 0.988524 
+   Einstein lam=2                           top_ev = 0.925993 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999950 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.999787 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.999389 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.999056 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.998923 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.999332 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.999821 
+   2atom r=3 f_lo=0.02                      top_ev = 0.999882 
+   2atom r=3 f_lo=0.1                       top_ev = 0.999417 
+   2atom r=3 f_lo=0.3                       top_ev = 0.997968 
+   2atom r=3 f_lo=0.5                       top_ev = 0.995937 
+   2atom r=3 f_lo=0.7                       top_ev = 0.993086 
+   2atom r=3 f_lo=0.9                       top_ev = 0.991016 
+   2atom r=3 f_lo=0.98                      top_ev = 0.996005 
+   2atom r=10 f_lo=0.02                     top_ev = 0.999855 
+   2atom r=10 f_lo=0.1                      top_ev = 0.999257 
+   2atom r=10 f_lo=0.3                      top_ev = 0.997242 
+   2atom r=10 f_lo=0.5                      top_ev = 0.993895 
+   2atom r=10 f_lo=0.7                      top_ev = 0.987265 
+   2atom r=10 f_lo=0.9                      top_ev = 0.968599 
+   2atom r=10 f_lo=0.98                     top_ev = 0.957170 
+   2atom r=30 f_lo=0.02                     top_ev = 0.999852 
+   2atom r=30 f_lo=0.1                      top_ev = 0.999242 
+   2atom r=30 f_lo=0.3                      top_ev = 0.997169 
+   2atom r=30 f_lo=0.5                      top_ev = 0.993674 
+   2atom r=30 f_lo=0.7                      top_ev = 0.986520 
+   2atom r=30 f_lo=0.9                      top_ev = 0.963761 
+   2atom r=30 f_lo=0.98                     top_ev = 0.932180 
+   2atom r=100 f_lo=0.02                    top_ev = 0.999852 
+   2atom r=100 f_lo=0.1                     top_ev = 0.999240 
+   2atom r=100 f_lo=0.3                     top_ev = 0.997161 
+   2atom r=100 f_lo=0.5                     top_ev = 0.993648 
+   2atom r=100 f_lo=0.7                     top_ev = 0.986433 
+   2atom r=100 f_lo=0.9                     top_ev = 0.963145 
+   2atom r=100 f_lo=0.98                    top_ev = 0.927941 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.999852 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.999240 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.997160 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.993645 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.986424 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.963084 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.927505 
+   soft+hard lf=0.6 r=20                    top_ev = 0.950348 
+   soft+hard lf=0.6 r=200                   top_ev = 0.949378 
+   soft+hard lf=0.9 r=20                    top_ev = 0.975017 
+   soft+hard lf=0.9 r=200                   top_ev = 0.974462 
+   soft+hard lf=1 r=20                      top_ev = 0.979414 
+   soft+hard lf=1 r=200                     top_ev = 0.978939 
+   box width=0.2                            top_ev = 0.999903 
+   box width=1                              top_ev = 0.998111 
+   box width=1.8                            top_ev = 0.995535 
+   NM-opt 2 atoms p=[-0.     2.957]         top_ev = 0.999991 
+   NM-opt 3 atoms p=[0.    0.    6.114 0.417] top_ev = 0.999991 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000094 (should be > 1)
+== lambda_k = 100.0  g_lo = 2.714132e+06 K^2, m = 0.99990 g_lo
+   Einstein lam=100                         top_ev = 0.999999 
+   Einstein lam=95                          top_ev = 0.999995 
+   Einstein lam=80                          top_ev = 0.999975 
+   Einstein lam=50                          top_ev = 0.999848 
+   Einstein lam=20                          top_ev = 0.998583 
+   2atom r=1.5 f_lo=0.02                    top_ev = 0.999998 
+   2atom r=1.5 f_lo=0.1                     top_ev = 0.999997 
+   2atom r=1.5 f_lo=0.3                     top_ev = 0.999992 
+   2atom r=1.5 f_lo=0.5                     top_ev = 0.999988 
+   2atom r=1.5 f_lo=0.7                     top_ev = 0.999986 
+   2atom r=1.5 f_lo=0.9                     top_ev = 0.999991 
+   2atom r=1.5 f_lo=0.98                    top_ev = 0.999997 
+   2atom r=3 f_lo=0.02                      top_ev = 0.999998 
+   2atom r=3 f_lo=0.1                       top_ev = 0.999992 
+   2atom r=3 f_lo=0.3                       top_ev = 0.999975 
+   2atom r=3 f_lo=0.5                       top_ev = 0.999951 
+   2atom r=3 f_lo=0.7                       top_ev = 0.999912 
+   2atom r=3 f_lo=0.9                       top_ev = 0.999868 
+   2atom r=3 f_lo=0.98                      top_ev = 0.999932 
+   2atom r=10 f_lo=0.02                     top_ev = 0.999997 
+   2atom r=10 f_lo=0.1                      top_ev = 0.999991 
+   2atom r=10 f_lo=0.3                      top_ev = 0.999967 
+   2atom r=10 f_lo=0.5                      top_ev = 0.999926 
+   2atom r=10 f_lo=0.7                      top_ev = 0.999835 
+   2atom r=10 f_lo=0.9                      top_ev = 0.999467 
+   2atom r=10 f_lo=0.98                     top_ev = 0.998677 
+   2atom r=30 f_lo=0.02                     top_ev = 0.999997 
+   2atom r=30 f_lo=0.1                      top_ev = 0.999990 
+   2atom r=30 f_lo=0.3                      top_ev = 0.999966 
+   2atom r=30 f_lo=0.5                      top_ev = 0.999924 
+   2atom r=30 f_lo=0.7                      top_ev = 0.999826 
+   2atom r=30 f_lo=0.9                      top_ev = 0.999371 
+   2atom r=30 f_lo=0.98                     top_ev = 0.997518 
+   2atom r=100 f_lo=0.02                    top_ev = 0.999997 
+   2atom r=100 f_lo=0.1                     top_ev = 0.999990 
+   2atom r=100 f_lo=0.3                     top_ev = 0.999966 
+   2atom r=100 f_lo=0.5                     top_ev = 0.999923 
+   2atom r=100 f_lo=0.7                     top_ev = 0.999824 
+   2atom r=100 f_lo=0.9                     top_ev = 0.999358 
+   2atom r=100 f_lo=0.98                    top_ev = 0.997297 
+   2atom r=1000 f_lo=0.02                   top_ev = 0.999997 
+   2atom r=1000 f_lo=0.1                    top_ev = 0.999990 
+   2atom r=1000 f_lo=0.3                    top_ev = 0.999966 
+   2atom r=1000 f_lo=0.5                    top_ev = 0.999923 
+   2atom r=1000 f_lo=0.7                    top_ev = 0.999824 
+   2atom r=1000 f_lo=0.9                    top_ev = 0.999357 
+   2atom r=1000 f_lo=0.98                   top_ev = 0.997274 
+   soft+hard lf=0.6 r=20                    top_ev = 0.999142 
+   soft+hard lf=0.6 r=200                   top_ev = 0.999123 
+   soft+hard lf=0.9 r=20                    top_ev = 0.999635 
+   soft+hard lf=0.9 r=200                   top_ev = 0.999627 
+   soft+hard lf=1 r=20                      top_ev = 0.999710 
+   soft+hard lf=1 r=200                     top_ev = 0.999703 
+   box width=0.2                            top_ev = 0.999998 
+   box width=1                              top_ev = 0.999976 
+   box width=1.8                            top_ev = 0.999944 
+   NM-opt 2 atoms p=[0.    6.259]           top_ev = 0.999999 
+   NM-opt 3 atoms p=[-0.     0.     6.114  0.417] top_ev = 0.999999 
+   sharpness: Einstein lam_k, m = 1.001 g_lo: top_ev = 1.000011 (should be > 1)
+== N1mu mu*=0.10 wc=5000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.998808 ; sharpness (A=1.002 A_float) max top_ev = 1.001047
+== N1mu mu*=0.10 wc=10000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999459 ; sharpness (A=1.002 A_float) max top_ev = 1.001058
+== N1mu mu*=0.10 wc=20000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999736 ; sharpness (A=1.002 A_float) max top_ev = 1.000974
+== N1mu mu*=0.10 wc=50000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999747 ; sharpness (A=1.002 A_float) max top_ev = 1.000953
+== N1mu mu*=0.13 wc=5000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.998807 ; sharpness (A=1.002 A_float) max top_ev = 1.001069
+== N1mu mu*=0.13 wc=10000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999597 ; sharpness (A=1.002 A_float) max top_ev = 1.001066
+== N1mu mu*=0.13 wc=20000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999846 ; sharpness (A=1.002 A_float) max top_ev = 1.000968
+== N1mu mu*=0.13 wc=50000 A=0.9999 A_floor: max top_ev over shapes x T grid = 0.999846 ; sharpness (A=1.002 A_float) max top_ev = 1.000947
+== corollary Tc <= 0.18272634 sqrt(m) (mu*=0)
+   Einstein lam=10, 1000K             Tc=557.7779  C*sqrt(m)=577.8314  ratio=0.9652951 
+   Einstein lam=100, 300K             Tc=546.2945  C*sqrt(m)=548.1790  ratio=0.9965622 
+   Einstein lam=1000, 100K            Tc=577.6327  C*sqrt(m)=577.8314  ratio=0.9996561 
+   2atom lam 50@50K + 2@2000K         Tc=430.5326  C*sqrt(m)=520.8502  ratio=0.8265957 
+   2atom lam 500@20K + 0.5@1500K      Tc=131.5827  C*sqrt(m)=210.3338  ratio=0.6255900 
+WORST top_ev over all NM tests: 0.999999 at 100.0 NM-opt k=2  -> no violation

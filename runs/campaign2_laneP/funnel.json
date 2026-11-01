@@ -1,0 +1,29 @@
+{
+ "S1": {
+  "PASS": 347
+ },
+ "S2": {
+  "PASS": 347
+ },
+ "S3": {
+  "DEFERRED(rank_cut)": 307,
+  "PASS(None)": 40
+ },
+ "S4": {
+  "PASS(None)": 10
+ },
+ "novel_structure": {
+  "False": 36,
+  "True": 311
+ },
+ "novel_composition": {
+  "False": 81,
+  "True": 266
+ },
+ "by_prototype": {
+  "A2MH6": 62,
+  "AA'MH6": 165,
+  "A2MM'H12": 60,
+  "A3A'M2H12": 60
+ }
+}

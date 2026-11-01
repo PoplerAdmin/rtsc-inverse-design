@@ -1,0 +1,90 @@
+Lake version 5.0.0-src+eb6cafb (Lean version 4.35.0)
+⚠ [1035/1204] Replayed TcR1.Basic
+warning: TcR1/Basic.lean: imports `Mathlib.Basic.Real.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Algebra.Order.BigOperators.Group.Finset` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Algebra.BigOperators.Ring.Finset` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Tactic.Linarith` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Tactic.Positivity` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Tactic.FieldSimp` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TcR1/Basic.lean: imports `Mathlib.Tactic.Ring` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [1091/1204] Replayed TargetLogic.Matrix
+warning: TargetLogic/Matrix.lean: imports `Mathlib.Algebra.BigOperators.Field` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Matrix.lean: imports `Mathlib.Algebra.BigOperators.Fin` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [2199/2218] Replayed TargetLogic.Moments
+warning: TargetLogic/Moments.lean: imports `Mathlib.Algebra.BigOperators.Field` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Moments.lean: imports `Mathlib.Analysis.SpecialFunctions.Log.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Moments.lean: imports `Mathlib.Analysis.SpecialFunctions.Sqrt` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [2201/2218] Replayed TargetLogic.NMTable
+warning: TargetLogic/NMTable.lean: imports `Mathlib.Algebra.Order.Field.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [2202/2218] Replayed TargetLogic.Decide
+warning: TargetLogic/Decide.lean: imports `Mathlib.Algebra.Order.BigOperators.Group.Finset` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Decide.lean: imports `Mathlib.Data.Finset.Fold` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Decide.lean: imports `Mathlib.Order.Lattice` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: TargetLogic/Decide.lean:421:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:428:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:440:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:441:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:450:10: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:455:10: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:546:15: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:552:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:552:19: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:616:6: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:625:6: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:634:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:641:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: TargetLogic/Decide.lean:647:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: TargetLogic/Decide.lean:659:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+⚠ [2214/2218] Replayed TargetLogic.Sound
+warning: TargetLogic/Sound.lean: imports `Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [2216/2218] Replayed TargetLogic.Regression
+warning: TargetLogic/Regression.lean:52:6: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+Build completed successfully (2218 jobs).

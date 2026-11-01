@@ -1,0 +1,14 @@
+24K	~/rtsc_targeted_work/P1-control/densefit36/
+200K	~/rtsc_targeted_work/P1-control/ecut/
+200K	~/rtsc_targeted_work/P1-control/ecut_wrongx/
+4.4G	~/rtsc_targeted_work/P1-control/eph_q3_k6_kf36/
+3.6G	~/rtsc_targeted_work/P1-control/eph_q3_k8_kf24/
+432K	~/rtsc_targeted_work/P1-control/eph_q3_k8_kf36_INVALID_noncommensurate/
+66M	~/rtsc_targeted_work/P1-control/eph_q3_k8_kf36_rerun_INVALID/
+164K	~/rtsc_targeted_work/P1-control/kconv/
+353M	~/rtsc_targeted_work/P1-control/phon_G_e80_k12/
+707M	~/rtsc_targeted_work/P1-control/phon_G_e80_k16/
+466M	~/rtsc_targeted_work/P1-control/phon_q2_e80_k8/
+200K	~/rtsc_targeted_work/P1-control/relax_e100/
+204K	~/rtsc_targeted_work/P1-control/relax_e80/
+224K	~/rtsc_targeted_work/P1-control/relax_e80_from_ms2/

@@ -1,0 +1,13 @@
+
+  Electron-phonon coupling constant, lambda 
+
+ Broadening   0.0050 lambda       1.8152 dos(Ef) 19.7491 omega_ln [K]    591.6568
+ Broadening   0.0100 lambda       1.4090 dos(Ef) 17.1672 omega_ln [K]    594.3528
+ Broadening   0.0150 lambda       1.2106 dos(Ef) 15.1609 omega_ln [K]    595.6819
+ Broadening   0.0200 lambda       1.0707 dos(Ef) 13.5655 omega_ln [K]    596.5565
+ Broadening   0.0250 lambda       0.9620 dos(Ef) 12.2845 omega_ln [K]    597.1761
+ Broadening   0.0300 lambda       0.8749 dos(Ef) 11.2361 omega_ln [K]    597.7863
+ Broadening   0.0350 lambda       0.8036 dos(Ef) 10.3632 omega_ln [K]    598.4680
+ Broadening   0.0400 lambda       0.7445 dos(Ef)  9.6303 omega_ln [K]    599.3271
+ Broadening   0.0450 lambda       0.6953 dos(Ef)  9.0160 omega_ln [K]    600.5394
+ Broadening   0.0500 lambda       0.6549 dos(Ef)  8.5072 omega_ln [K]    602.2862

@@ -1,0 +1,29 @@
+     number of k points=    29  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9684 ev
+!    total energy              =    -436.95054859 Ry
+          total   stress  (Ry/bohr**3)                   (kbar)     P=        0.30
+     init_run     :      0.75s CPU      0.82s WALL (       1 calls)
+     electrons    :     15.02s CPU     16.22s WALL (       1 calls)
+     forces       :      0.11s CPU      0.11s WALL (       1 calls)
+     stress       :      0.45s CPU      0.48s WALL (       1 calls)
+     wfcinit      :      0.43s CPU      0.48s WALL (       1 calls)
+     potinit      :      0.09s CPU      0.09s WALL (       1 calls)
+     hinit0       :      0.21s CPU      0.22s WALL (       1 calls)
+     c_bands      :     12.62s CPU     13.61s WALL (      12 calls)
+     sum_band     :      1.91s CPU      2.05s WALL (      12 calls)
+     v_of_rho     :      0.43s CPU      0.48s WALL (      12 calls)
+     mix_rho      :      0.03s CPU      0.04s WALL (      12 calls)
+     init_us_2    :      0.48s CPU      0.55s WALL (     216 calls)
+     cegterg      :     10.92s CPU     11.75s WALL (      96 calls)
+     cdiaghg      :      0.16s CPU      0.18s WALL (     394 calls)
+     h_psi        :      9.98s CPU     10.73s WALL (     410 calls)
+     g_psi        :      0.09s CPU      0.10s WALL (     306 calls)
+     h_psi:calbec :      0.40s CPU      0.43s WALL (     410 calls)
+     vloc_psi     :      9.19s CPU      9.89s WALL (     410 calls)
+     add_vuspsi   :      0.32s CPU      0.34s WALL (     410 calls)
+     calbec       :      0.55s CPU      0.59s WALL (     546 calls)
+     fft          :      0.21s CPU      0.23s WALL (     128 calls)
+     ffts         :      0.01s CPU      0.01s WALL (      12 calls)
+     fftw         :      9.60s CPU     10.33s WALL (   16664 calls)
+     PWSCF        :     16.36s CPU     17.68s WALL
+   JOB DONE.

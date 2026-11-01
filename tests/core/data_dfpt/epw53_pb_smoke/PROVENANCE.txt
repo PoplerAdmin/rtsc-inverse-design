@@ -1,0 +1,16 @@
+REAL EPW output (not synthetic), produced 2026-10-27 in a Ubuntu 24.04 build container.
+Code: EPW 5.3 from the Ubuntu 24.04 quantum-espresso 6.7 package (epw.x), run with mpirun -np 2
+-nk 2 and LD_PRELOAD=libsnprintf_chk_shim.so (rtt.core.dfpt.workflow.build_fortify_shim). Inputs written by
+rtt.core.dfpt.qe_inputs / rtt.core.dfpt.epw_inputs.write_epw_aniso_input (files here).
+System: fcc Pb (celldm 9.2225583816 bohr), pb_s.UPF (QE/EPW example pseudopotential),
+ecutwfc 30 Ry, scf k 8x8x8, ph q 3x3x3, nscf/EPW coarse k 3x3x3, nbndsub 4 (Pb:sp3),
+fine grids nkf = nqf = 6x6x6, fsthick 1 eV, degaussw 0.1 eV, eps_acustic 2 cm^-1, iverbosity 2.
+THIS IS A SMOKE TEST WITH DELIBERATELY UNCONVERGED SETTINGS; the numbers are real program output
+but carry no physical meaning for lead.
+After writing these files EPW aborted inside the anisotropic Eliashberg solver ("free(): invalid
+size", heap error in this binary); the lambda/a2f files were complete (evaluate_a2f_lambda runs
+first). EPW's own lambda = 0.3439 (a2f integral), "Summed el-ph coupling" 0.3434788.
+Files: pb.lambda_FS, pb.lambda_aniso, pb.a2f, inputs, epw.out.excerpt (lines 440-495).
+pb.ephmat.freq = <outdir>/pb.ephmat/freq (unformatted gfortran sequential file written by EPW,
+fine-grid phonon frequencies in Ry for the q-points selected inside fsthick); used to verify the
+omega_max / no-imaginary / no-excluded-mode conditions of the lambda_nk bound.

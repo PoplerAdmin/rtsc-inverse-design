@@ -1,0 +1,2 @@
+JSONL exported by rtt.ledger.store.Ledger.export_jsonl, then: home directory -> '~', host name -> 'host',
+user name -> 'user', repository path -> '<repo>'. manifest.sha256 covers the sanitized files.

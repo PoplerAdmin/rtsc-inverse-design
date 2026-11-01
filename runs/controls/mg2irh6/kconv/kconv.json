@@ -1,0 +1,83 @@
+{
+ "cmd": "kconv",
+ "a_A_in": 6.6326,
+ "x_in": 0.260649,
+ "ranks": 4,
+ "rows": [
+  {
+   "name": "scf_k6",
+   "rc": 0,
+   "wall_s": 11.45,
+   "etot_Ry": -436.94998472,
+   "P_kbar": -0.44,
+   "total_force_Ry_bohr": 0.010076,
+   "F_H_x_Ry_bohr": -0.00411363,
+   "EF_eV": 11.0138,
+   "nks": 16,
+   "pw_wall": "9.73s",
+   "job_done": true,
+   "ecutwfc": 80.0,
+   "k": 6
+  },
+  {
+   "name": "scf_k8",
+   "rc": 0,
+   "wall_s": 17.9,
+   "etot_Ry": -436.95016609,
+   "P_kbar": -0.32,
+   "total_force_Ry_bohr": 0.010478,
+   "F_H_x_Ry_bohr": -0.0042777,
+   "EF_eV": 11.0442,
+   "nks": 29,
+   "pw_wall": "16.16s",
+   "job_done": true,
+   "ecutwfc": 80.0,
+   "k": 8
+  },
+  {
+   "name": "scf_k10",
+   "rc": 0,
+   "wall_s": 25.35,
+   "etot_Ry": -436.95041682,
+   "P_kbar": -0.55,
+   "total_force_Ry_bohr": 0.010421,
+   "F_H_x_Ry_bohr": -0.00425431,
+   "EF_eV": 11.0442,
+   "nks": 47,
+   "pw_wall": "23.64s",
+   "job_done": true,
+   "ecutwfc": 80.0,
+   "k": 10
+  },
+  {
+   "name": "scf_k12",
+   "rc": 0,
+   "wall_s": 38.41,
+   "etot_Ry": -436.9503975,
+   "P_kbar": -0.55,
+   "total_force_Ry_bohr": 0.01038,
+   "F_H_x_Ry_bohr": -0.00423754,
+   "EF_eV": 11.0411,
+   "nks": 72,
+   "pw_wall": "36.71s",
+   "job_done": true,
+   "ecutwfc": 80.0,
+   "k": 12
+  },
+  {
+   "name": "scf_k16",
+   "rc": 0,
+   "wall_s": 71.44,
+   "etot_Ry": -436.95038315,
+   "P_kbar": -0.52,
+   "total_force_Ry_bohr": 0.010393,
+   "F_H_x_Ry_bohr": -0.00424303,
+   "EF_eV": 11.0418,
+   "nks": 145,
+   "pw_wall": "1m 9.61s",
+   "job_done": true,
+   "ecutwfc": 80.0,
+   "k": 16
+  }
+ ]
+}

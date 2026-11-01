@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rtt"
+version = "0.1.0"
+description = "Targeted pipeline: theory-derived Tc>=300 K targets -> generation -> certified decisions"
+requires-python = ">=3.12"
+dependencies = ["numpy", "python-flint>=0.6"]
+
+[project.optional-dependencies]
+ml = ["mattersim", "pymatgen", "ase", "phonopy", "torch"]
+tui = ["textual>=0.80,<4"]
+test = ["pytest"]
+
+[project.scripts]
+rtt = "rtt.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["rtt*"]
+
+[tool.setuptools.package-data]
+"rtt" = ["configs/*.toml", "configs/targets/*.txt", "ledger/schema.sql", "core/PINS.json", "core/certify/PROOFS.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["slow: certify end-to-end runs (minutes)"]

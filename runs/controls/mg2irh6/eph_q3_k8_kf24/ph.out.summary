@@ -1,0 +1,1517 @@
+     number of k points=    29  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :      0.87s CPU      1.05s WALL
+     Pert. #  1: Fermi energy shift (Ry) =     9.3010E-03    -1.2117E-27
+     Pert. #  1: Fermi energy shift (Ry) =     2.1755E-01     8.2718E-25
+     Pert. #  1: Fermi energy shift (Ry) =     4.6520E-02     7.7548E-26
+     Pert. #  1: Fermi energy shift (Ry) =     6.0612E-02     2.0195E-28
+     Pert. #  1: Fermi energy shift (Ry) =     6.0544E-02    -6.0585E-28
+     Pert. #  1: Fermi energy shift (Ry) =     6.0244E-02    -4.8468E-27
+     Pert. #  1: Fermi energy shift (Ry) =     6.0239E-02    -6.0585E-28
+     Pert. #  1: Fermi energy shift (Ry) =    -6.5052E-19     9.8651E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -2.8189E-18    -1.3452E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.9516E-18    -6.6963E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.3010E-18     6.2180E-41
+     Pert. #  1: Fermi energy shift (Ry) =     1.0119E-18    -1.5545E-42
+     Pert. #  2: Fermi energy shift (Ry) =     6.1438E-19     3.5873E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.0842E-18     8.9683E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -4.4814E-18    -5.5305E-43
+     Pert. #  1: Fermi energy shift (Ry) =     4.3368E-19     1.2145E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -2.2768E-18    -2.7092E-44
+     Pert. #  1: Fermi energy shift (Ry) =     1.5179E-18    -2.4756E-44
+     Pert. #  2: Fermi energy shift (Ry) =     2.3852E-18    -2.0085E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -1.4456E-19    -4.8979E-39
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     9.7958E-40
+     Pert. #  3: Fermi energy shift (Ry) =     5.0596E-19     4.8979E-40
+     Pert. #  1: Fermi energy shift (Ry) =    -3.6140E-20     4.7831E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -7.2280E-20     2.5111E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -5.4210E-20    -4.1852E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -5.0596E-19    -1.3079E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -2.8912E-19     5.6052E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -4.0658E-19     8.3144E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -2.1684E-19    -1.8684E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -7.2280E-20    -9.3420E-45
+     Pert. #  3: Fermi energy shift (Ry) =    -9.9385E-20     5.3249E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -7.9508E-19    -3.9461E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20    -1.9132E-42
+     Pert. #  3: Fermi energy shift (Ry) =     6.3697E-19    -4.0656E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.0842E-19     1.4349E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20    -7.6530E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -3.2752E-19     1.4439E-41
+     Pert. #  1: Fermi energy shift (Ry) =     1.9877E-19     4.1254E-42
+     Pert. #  2: Fermi energy shift (Ry) =     7.2280E-20     1.1958E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -3.6818E-19     1.7750E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -6.7763E-19    -3.7368E-45
+     Pert. #  2: Fermi energy shift (Ry) =     3.6140E-19     2.9894E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -6.7763E-21     3.9376E-43
+     Pert. #  1: Fermi energy shift (Ry) =     2.8009E-19     8.4078E-45
+     Pert. #  2: Fermi energy shift (Ry) =     2.1684E-19    -3.7368E-44
+     Pert. #  3: Fermi energy shift (Ry) =     7.0021E-19    -4.2039E-45
+     Pert. #  1: Fermi energy shift (Ry) =     1.4456E-19    -1.0276E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -3.6140E-19    -1.4947E-44
+     Pert. #  3: Fermi energy shift (Ry) =    -6.5504E-20    -2.7559E-44
+     Pert. #  1: Fermi energy shift (Ry) =     2.3130E-18    -3.1090E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -2.1684E-18    -4.7831E-43
+     Pert. #  3: Fermi energy shift (Ry) =     8.8905E-18    -1.1479E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -8.3122E-19     3.6352E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -1.4456E-19    -1.1479E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -2.0961E-18     5.7397E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -3.0719E-19    -2.0089E-41
+     Pert. #  2: Fermi energy shift (Ry) =     1.0842E-19    -7.6530E-42
+     Pert. #  3: Fermi energy shift (Ry) =     4.6079E-19    -3.2525E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -1.5360E-19     6.5768E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -8.1315E-20    -3.5873E-43
+     Pert. #  3: Fermi energy shift (Ry) =     2.8912E-19    -1.7937E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.0842E-19    -7.4736E-44
+     Pert. #  2: Fermi energy shift (Ry) =    -7.2280E-20    -2.9894E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.7947E-19    -8.5199E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -1.8070E-19    -6.9131E-44
+     Pert. #  2: Fermi energy shift (Ry) =     9.0350E-20    -2.3355E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.1171E-19     2.2421E-44
+     Pert. #  1: Fermi energy shift (Ry) =     1.6263E-19    -3.7368E-45
+     Pert. #  2: Fermi energy shift (Ry) =    -2.7105E-20    -7.4736E-45
+     Pert. #  3: Fermi energy shift (Ry) =     2.6202E-19     5.2315E-44
+     Pert. #  1: Fermi energy shift (Ry) =    -1.3571E-25    -9.4040E-38
+     Pert. #  2: Fermi energy shift (Ry) =     1.4702E-25    -1.0971E-37
+     Pert. #  3: Fermi energy shift (Ry) =     1.7718E-25     1.8808E-37
+     Pert. #  1: Fermi energy shift (Ry) =     0.0000E+00    -4.5918E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -1.1848E-26    -3.2525E-41
+     Pert. #  3: Fermi energy shift (Ry) =     1.5617E-26    -6.5050E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -4.3082E-26    -5.7397E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -8.3472E-27     2.1620E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -1.6156E-26    -2.4394E-41
+     Pert. #  1: Fermi energy shift (Ry) =     6.4623E-27    -2.8699E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -5.6546E-27    -1.0045E-41
+     Pert. #  3: Fermi energy shift (Ry) =     2.1541E-27     6.4572E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -2.5849E-26     7.1746E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -8.0779E-27     3.7069E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -1.0771E-27    -3.0492E-42
+     Pert. #  1: Fermi energy shift (Ry) =     4.3082E-27    -1.1958E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.5004E-27     2.3915E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -3.7697E-27     1.2556E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -5.3853E-27    -4.7831E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -6.1931E-27     4.1852E-42
+     Pert. #  3: Fermi energy shift (Ry) =     1.5079E-26    -1.1958E-43
+     Pert. #  1: Fermi energy shift (Ry) =    -6.6864E-24    -1.1755E-37
+     Pert. #  2: Fermi energy shift (Ry) =     9.9262E-24    -3.3306E-38
+     Pert. #  3: Fermi energy shift (Ry) =    -8.2718E-25     5.8775E-39
+     Pert. #  1: Fermi energy shift (Ry) =     2.5580E-26     3.2142E-40
+     Pert. #  2: Fermi energy shift (Ry) =    -2.5849E-26    -2.4489E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -3.3389E-26     1.2245E-40
+     Pert. #  1: Fermi energy shift (Ry) =     4.7391E-26    -5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -3.0158E-26     0.0000E+00
+     Pert. #  3: Fermi energy shift (Ry) =    -3.2312E-27    -1.1097E-40
+     Pert. #  1: Fermi energy shift (Ry) =    -8.0779E-27    -1.9850E-41
+     Pert. #  2: Fermi energy shift (Ry) =     6.4623E-27     3.8265E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -1.0771E-27    -2.3915E-41
+     Pert. #  1: Fermi energy shift (Ry) =     1.2319E-26    -1.3751E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.2925E-26     3.3482E-42
+     Pert. #  3: Fermi energy shift (Ry) =     5.3853E-27    -1.6741E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.3329E-26     2.0179E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -1.7233E-26     8.9683E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -9.1550E-27     1.4947E-43
+     Pert. #  1: Fermi energy shift (Ry) =     2.2349E-26    -7.8473E-44
+     Pert. #  2: Fermi energy shift (Ry) =     3.6620E-26     7.4736E-44
+     Pert. #  3: Fermi energy shift (Ry) =     3.2312E-27     1.7189E-43
+     Pert. #  1: Fermi energy shift (Ry) =     1.3598E-26     2.3915E-43
+     Pert. #  2: Fermi energy shift (Ry) =     4.3082E-27     3.8302E-44
+     Pert. #  3: Fermi energy shift (Ry) =     6.4623E-27     9.3420E-44
+     Pert. #  1: Fermi energy shift (Ry) =     4.9114E-25    -1.2852E-36
+     Pert. #  2: Fermi energy shift (Ry) =    -6.2039E-25    -1.8808E-37
+     Pert. #  3: Fermi energy shift (Ry) =    -1.8956E-25     1.0344E-36
+     Pert. #  1: Fermi energy shift (Ry) =     8.8319E-26     3.8265E-41
+     Pert. #  2: Fermi energy shift (Ry) =     2.1541E-25     1.6837E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -7.5394E-26    -1.6837E-40
+     Pert. #  1: Fermi energy shift (Ry) =     1.3356E-25    -7.6530E-41
+     Pert. #  2: Fermi energy shift (Ry) =     2.5849E-26    -2.9081E-40
+     Pert. #  3: Fermi energy shift (Ry) =    -8.8319E-26     2.6785E-40
+     Pert. #  1: Fermi energy shift (Ry) =     9.6935E-26     9.0879E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.4648E-25    -1.7219E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -1.1201E-25     9.5662E-42
+     Pert. #  1: Fermi energy shift (Ry) =     8.6165E-26     1.6741E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.0340E-25    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =    -1.7879E-25     1.4349E-41
+     Pert. #  1: Fermi energy shift (Ry) =     8.6165E-26    -8.3704E-42
+     Pert. #  2: Fermi energy shift (Ry) =     9.4781E-26     1.0523E-41
+     Pert. #  3: Fermi energy shift (Ry) =    -4.0928E-26     1.5784E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -6.8932E-26    -1.1755E-38
+     Pert. #  2: Fermi energy shift (Ry) =     1.9301E-23    -4.7020E-38
+     Pert. #  3: Fermi energy shift (Ry) =    -6.2039E-24     4.5061E-38
+     Pert. #  1: Fermi energy shift (Ry) =     2.9296E-25    -1.5918E-39
+     Pert. #  2: Fermi energy shift (Ry) =     2.0680E-25    -1.2245E-39
+     Pert. #  3: Fermi energy shift (Ry) =    -1.2063E-25    -1.9592E-39
+     Pert. #  1: Fermi energy shift (Ry) =    -8.6165E-27     2.4489E-40
+     Pert. #  2: Fermi energy shift (Ry) =     0.0000E+00     1.5306E-40
+     Pert. #  3: Fermi energy shift (Ry) =     3.5543E-26    -6.1224E-41
+     Pert. #  1: Fermi energy shift (Ry) =    -1.5510E-25    -1.1958E-42
+     Pert. #  2: Fermi energy shift (Ry) =     1.7233E-25    -3.3482E-42
+     Pert. #  3: Fermi energy shift (Ry) =     3.6189E-25    -3.1090E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.7233E-25     3.3482E-42
+     Pert. #  2: Fermi energy shift (Ry) =     6.8932E-26    -1.9132E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -4.3082E-26    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -1.7233E-26     5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -2.4126E-25     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =    -1.5079E-25    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.2063E-25     5.7397E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -1.0340E-25     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =     2.3695E-25    -2.8699E-42
+     Pert. #  1: Fermi energy shift (Ry) =     1.7061E-24    -4.3101E-38
+     Pert. #  2: Fermi energy shift (Ry) =     3.4466E-25     3.1347E-38
+     Pert. #  3: Fermi energy shift (Ry) =     6.5485E-25    -3.5265E-38
+     Pert. #  1: Fermi energy shift (Ry) =     1.1848E-26    -1.6741E-41
+     Pert. #  2: Fermi energy shift (Ry) =    -1.2925E-26     5.7397E-42
+     Pert. #  3: Fermi energy shift (Ry) =     3.7697E-26     0.0000E+00
+     Pert. #  1: Fermi energy shift (Ry) =     3.4466E-26     1.1958E-43
+     Pert. #  2: Fermi energy shift (Ry) =    -1.2925E-26    -1.1958E-42
+     Pert. #  3: Fermi energy shift (Ry) =     7.1086E-26    -1.9132E-42
+     Pert. #  1: Fermi energy shift (Ry) =     6.4623E-27    -2.8699E-42
+     Pert. #  2: Fermi energy shift (Ry) =     8.6165E-27     0.0000E+00
+     Pert. #  3: Fermi energy shift (Ry) =     3.0158E-26    -7.0551E-42
+     Pert. #  1: Fermi energy shift (Ry) =    -5.3853E-27    -2.1524E-42
+     Pert. #  2: Fermi energy shift (Ry) =    -6.0315E-26    -9.5662E-43
+     Pert. #  3: Fermi energy shift (Ry) =     1.8310E-26    -8.3704E-43
+     freq (    1) =       0.173438 [THz] =       5.785265 [cm-1]
+     freq (    2) =       0.173438 [THz] =       5.785265 [cm-1]
+     freq (    3) =       0.173438 [THz] =       5.785265 [cm-1]
+     freq (    4) =       4.580599 [THz] =     152.792346 [cm-1]
+     freq (    5) =       4.580599 [THz] =     152.792346 [cm-1]
+     freq (    6) =       4.580599 [THz] =     152.792346 [cm-1]
+     freq (    7) =       6.104643 [THz] =     203.628968 [cm-1]
+     freq (    8) =       6.104643 [THz] =     203.628968 [cm-1]
+     freq (    9) =       6.104643 [THz] =     203.628968 [cm-1]
+     freq (   10) =       7.265357 [THz] =     242.346235 [cm-1]
+     freq (   11) =       7.265357 [THz] =     242.346235 [cm-1]
+     freq (   12) =       7.265357 [THz] =     242.346235 [cm-1]
+     freq (   13) =      21.342679 [THz] =     711.915145 [cm-1]
+     freq (   14) =      21.342679 [THz] =     711.915145 [cm-1]
+     freq (   15) =      21.342679 [THz] =     711.915145 [cm-1]
+     freq (   16) =      23.577794 [THz] =     786.470563 [cm-1]
+     freq (   17) =      23.577794 [THz] =     786.470563 [cm-1]
+     freq (   18) =      23.577794 [THz] =     786.470563 [cm-1]
+     freq (   19) =      25.582464 [THz] =     853.339131 [cm-1]
+     freq (   20) =      25.582464 [THz] =     853.339131 [cm-1]
+     freq (   21) =      25.582464 [THz] =     853.339131 [cm-1]
+     freq (   22) =      42.376798 [THz] =    1413.537829 [cm-1]
+     freq (   23) =      42.376798 [THz] =    1413.537829 [cm-1]
+     freq (   24) =      42.376798 [THz] =    1413.537829 [cm-1]
+     freq (   25) =      45.593342 [THz] =    1520.830189 [cm-1]
+     freq (   26) =      45.593342 [THz] =    1520.830189 [cm-1]
+     freq (   27) =      54.995201 [THz] =    1834.442444 [cm-1]
+     freq (   1-   3) =          5.8  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   4-   6) =        152.8  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (   7-   9) =        203.6  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  10-  12) =        242.3  [cm-1]   --> T_1g G_15' G_4+    
+     freq (  13-  15) =        711.9  [cm-1]   --> T_2g G_25' G_5+ R  
+     freq (  16-  18) =        786.5  [cm-1]   --> T_2u G_25  G_5-    
+     freq (  19-  21) =        853.3  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  22-  24) =       1413.5  [cm-1]   --> T_1u G_15  G_4- I  
+     freq (  25-  26) =       1520.8  [cm-1]   --> E_g  G_12  G_3+ R  
+     freq (  27-  27) =       1834.4  [cm-1]   --> A_1g G_1   G_1+ R  
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0040   gamma=    2.71 GHz
+     lambda(    8)=  0.0040   gamma=    2.72 GHz
+     lambda(    9)=  0.0040   gamma=    2.68 GHz
+     lambda(   10)=  2.5678   gamma= 2453.93 GHz
+     lambda(   11)=  2.5433   gamma= 2430.53 GHz
+     lambda(   12)=  2.5483   gamma= 2435.37 GHz
+     lambda(   13)=  0.6312   gamma= 5205.59 GHz
+     lambda(   14)=  0.6355   gamma= 5240.89 GHz
+     lambda(   15)=  0.6571   gamma= 5419.23 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.00 GHz
+     lambda(   23)=  0.0000   gamma=    0.00 GHz
+     lambda(   24)=  0.0000   gamma=    0.00 GHz
+     lambda(   25)=  0.2634   gamma= 9914.07 GHz
+     lambda(   26)=  0.2634   gamma= 9914.07 GHz
+     lambda(   27)=  0.0025   gamma=  137.67 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0023   gamma=    1.40 GHz
+     lambda(    8)=  0.0023   gamma=    1.41 GHz
+     lambda(    9)=  0.0023   gamma=    1.38 GHz
+     lambda(   10)=  1.3627   gamma= 1179.19 GHz
+     lambda(   11)=  1.3586   gamma= 1175.67 GHz
+     lambda(   12)=  1.3595   gamma= 1176.40 GHz
+     lambda(   13)=  0.3171   gamma= 2367.86 GHz
+     lambda(   14)=  0.3192   gamma= 2383.37 GHz
+     lambda(   15)=  0.3297   gamma= 2461.73 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.00 GHz
+     lambda(   23)=  0.0000   gamma=    0.00 GHz
+     lambda(   24)=  0.0000   gamma=    0.00 GHz
+     lambda(   25)=  0.1457   gamma= 4965.32 GHz
+     lambda(   26)=  0.1457   gamma= 4965.32 GHz
+     lambda(   27)=  0.0014   gamma=   70.64 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0016   gamma=    0.88 GHz
+     lambda(    8)=  0.0016   gamma=    0.89 GHz
+     lambda(    9)=  0.0016   gamma=    0.87 GHz
+     lambda(   10)=  0.9185   gamma=  701.91 GHz
+     lambda(   11)=  0.9173   gamma=  700.97 GHz
+     lambda(   12)=  0.9175   gamma=  701.16 GHz
+     lambda(   13)=  0.2144   gamma= 1413.77 GHz
+     lambda(   14)=  0.2157   gamma= 1422.17 GHz
+     lambda(   15)=  0.2221   gamma= 1464.59 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.00 GHz
+     lambda(   23)=  0.0000   gamma=    0.00 GHz
+     lambda(   24)=  0.0000   gamma=    0.00 GHz
+     lambda(   25)=  0.1018   gamma= 3064.49 GHz
+     lambda(   26)=  0.1018   gamma= 3064.49 GHz
+     lambda(   27)=  0.0010   gamma=   45.14 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0013   gamma=    0.62 GHz
+     lambda(    8)=  0.0013   gamma=    0.62 GHz
+     lambda(    9)=  0.0013   gamma=    0.61 GHz
+     lambda(   10)=  0.6878   gamma=  470.29 GHz
+     lambda(   11)=  0.6867   gamma=  469.55 GHz
+     lambda(   12)=  0.6869   gamma=  469.70 GHz
+     lambda(   13)=  0.1622   gamma=  957.28 GHz
+     lambda(   14)=  0.1631   gamma=  962.30 GHz
+     lambda(   15)=  0.1674   gamma=  987.64 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.00 GHz
+     lambda(   23)=  0.0000   gamma=    0.00 GHz
+     lambda(   24)=  0.0000   gamma=    0.00 GHz
+     lambda(   25)=  0.0789   gamma= 2123.49 GHz
+     lambda(   26)=  0.0789   gamma= 2123.49 GHz
+     lambda(   27)=  0.0008   gamma=   32.39 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0011   gamma=    0.47 GHz
+     lambda(    8)=  0.0011   gamma=    0.47 GHz
+     lambda(    9)=  0.0011   gamma=    0.46 GHz
+     lambda(   10)=  0.5467   gamma=  338.52 GHz
+     lambda(   11)=  0.5455   gamma=  337.80 GHz
+     lambda(   12)=  0.5458   gamma=  337.95 GHz
+     lambda(   13)=  0.1306   gamma=  697.69 GHz
+     lambda(   14)=  0.1312   gamma=  700.95 GHz
+     lambda(   15)=  0.1343   gamma=  717.40 GHz
+     lambda(   16)=  0.0000   gamma=    0.00 GHz
+     lambda(   17)=  0.0000   gamma=    0.00 GHz
+     lambda(   18)=  0.0000   gamma=    0.00 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.00 GHz
+     lambda(   23)=  0.0000   gamma=    0.00 GHz
+     lambda(   24)=  0.0000   gamma=    0.00 GHz
+     lambda(   25)=  0.0645   gamma= 1572.89 GHz
+     lambda(   26)=  0.0645   gamma= 1572.89 GHz
+     lambda(   27)=  0.0007   gamma=   24.92 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.00 GHz
+     lambda(    5)=  0.0000   gamma=    0.00 GHz
+     lambda(    6)=  0.0000   gamma=    0.00 GHz
+     lambda(    7)=  0.0009   gamma=    0.37 GHz
+     lambda(    8)=  0.0009   gamma=    0.37 GHz
+     lambda(    9)=  0.0009   gamma=    0.36 GHz
+     lambda(   10)=  0.4513   gamma=  255.62 GHz
+     lambda(   11)=  0.4502   gamma=  254.97 GHz
+     lambda(   12)=  0.4504   gamma=  255.11 GHz
+     lambda(   13)=  0.1093   gamma=  534.05 GHz
+     lambda(   14)=  0.1097   gamma=  536.30 GHz
+     lambda(   15)=  0.1121   gamma=  547.68 GHz
+     lambda(   16)=  0.0000   gamma=    0.08 GHz
+     lambda(   17)=  0.0000   gamma=    0.09 GHz
+     lambda(   18)=  0.0000   gamma=    0.08 GHz
+     lambda(   19)=  0.0000   gamma=    0.00 GHz
+     lambda(   20)=  0.0000   gamma=    0.00 GHz
+     lambda(   21)=  0.0000   gamma=    0.00 GHz
+     lambda(   22)=  0.0000   gamma=    0.10 GHz
+     lambda(   23)=  0.0000   gamma=    0.11 GHz
+     lambda(   24)=  0.0000   gamma=    0.11 GHz
+     lambda(   25)=  0.0545   gamma= 1216.41 GHz
+     lambda(   26)=  0.0545   gamma= 1216.41 GHz
+     lambda(   27)=  0.0006   gamma=   20.08 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0000   gamma=    0.01 GHz
+     lambda(    5)=  0.0000   gamma=    0.01 GHz
+     lambda(    6)=  0.0000   gamma=    0.01 GHz
+     lambda(    7)=  0.0008   gamma=    0.30 GHz
+     lambda(    8)=  0.0008   gamma=    0.30 GHz
+     lambda(    9)=  0.0008   gamma=    0.30 GHz
+     lambda(   10)=  0.3827   gamma=  199.93 GHz
+     lambda(   11)=  0.3817   gamma=  199.37 GHz
+     lambda(   12)=  0.3819   gamma=  199.49 GHz
+     lambda(   13)=  0.0940   gamma=  423.54 GHz
+     lambda(   14)=  0.0943   gamma=  425.18 GHz
+     lambda(   15)=  0.0962   gamma=  433.43 GHz
+     lambda(   16)=  0.0001   gamma=    0.60 GHz
+     lambda(   17)=  0.0001   gamma=    0.63 GHz
+     lambda(   18)=  0.0001   gamma=    0.60 GHz
+     lambda(   19)=  0.0000   gamma=    0.03 GHz
+     lambda(   20)=  0.0000   gamma=    0.03 GHz
+     lambda(   21)=  0.0000   gamma=    0.03 GHz
+     lambda(   22)=  0.0000   gamma=    0.77 GHz
+     lambda(   23)=  0.0000   gamma=    0.83 GHz
+     lambda(   24)=  0.0000   gamma=    0.84 GHz
+     lambda(   25)=  0.0472   gamma=  970.33 GHz
+     lambda(   26)=  0.0472   gamma=  970.33 GHz
+     lambda(   27)=  0.0006   gamma=   16.74 GHz
+     lambda(    1)=  0.0000   gamma=    0.00 GHz
+     lambda(    2)=  0.0000   gamma=    0.00 GHz
+     lambda(    3)=  0.0000   gamma=    0.00 GHz
+     lambda(    4)=  0.0002   gamma=    0.04 GHz
+     lambda(    5)=  0.0002   gamma=    0.04 GHz
+     lambda(    6)=  0.0002   gamma=    0.04 GHz
+     lambda(    7)=  0.0007   gamma=    0.25 GHz
+     lambda(    8)=  0.0007   gamma=    0.25 GHz
+     lambda(    9)=  0.0007   gamma=    0.25 GHz
+     lambda(   10)=  0.3313   gamma=  160.81 GHz
+     lambda(   11)=  0.3303   gamma=  160.33 GHz
+     lambda(   12)=  0.3305   gamma=  160.43 GHz
+     lambda(   13)=  0.0824   gamma=  345.33 GHz
+     lambda(   14)=  0.0827   gamma=  346.56 GHz
+     lambda(   15)=  0.0842   gamma=  352.80 GHz
+     lambda(   16)=  0.0004   gamma=    2.21 GHz
+     lambda(   17)=  0.0005   gamma=    2.33 GHz
+     lambda(   18)=  0.0004   gamma=    2.21 GHz
+     lambda(   19)=  0.0000   gamma=    0.14 GHz
+     lambda(   20)=  0.0000   gamma=    0.12 GHz
+     lambda(   21)=  0.0000   gamma=    0.13 GHz
+     lambda(   22)=  0.0002   gamma=    2.94 GHz
+     lambda(   23)=  0.0002   gamma=    3.12 GHz
+     lambda(   24)=  0.0002   gamma=    3.15 GHz
+     lambda(   25)=  0.0415   gamma=  793.26 GHz
+     lambda(   26)=  0.0415   gamma=  793.26 GHz
+     lambda(   27)=  0.0005   gamma=   14.37 GHz
+     lambda(    1)=  0.0000   gamma=    0.01 GHz
+     lambda(    2)=  0.0000   gamma=    0.01 GHz
+     lambda(    3)=  0.0000   gamma=    0.01 GHz
+     lambda(    4)=  0.0005   gamma=    0.09 GHz
+     lambda(    5)=  0.0005   gamma=    0.09 GHz
+     lambda(    6)=  0.0005   gamma=    0.09 GHz
+     lambda(    7)=  0.0007   gamma=    0.21 GHz
+     lambda(    8)=  0.0007   gamma=    0.21 GHz
+     lambda(    9)=  0.0007   gamma=    0.21 GHz
+     lambda(   10)=  0.2915   gamma=  132.48 GHz
+     lambda(   11)=  0.2906   gamma=  132.08 GHz
+     lambda(   12)=  0.2908   gamma=  132.16 GHz
+     lambda(   13)=  0.0735   gamma=  288.34 GHz
+     lambda(   14)=  0.0738   gamma=  289.30 GHz
+     lambda(   15)=  0.0750   gamma=  294.22 GHz
+     lambda(   16)=  0.0011   gamma=    5.43 GHz
+     lambda(   17)=  0.0012   gamma=    5.70 GHz
+     lambda(   18)=  0.0011   gamma=    5.45 GHz
+     lambda(   19)=  0.0001   gamma=    0.37 GHz
+     lambda(   20)=  0.0001   gamma=    0.33 GHz
+     lambda(   21)=  0.0001   gamma=    0.36 GHz
+     lambda(   22)=  0.0005   gamma=    7.46 GHz
+     lambda(   23)=  0.0005   gamma=    7.84 GHz
+     lambda(   24)=  0.0005   gamma=    7.89 GHz
+     lambda(   25)=  0.0370   gamma=  662.43 GHz
+     lambda(   26)=  0.0370   gamma=  662.44 GHz
+     lambda(   27)=  0.0005   gamma=   12.72 GHz
+     lambda(    1)=  0.0000   gamma=    0.02 GHz
+     lambda(    2)=  0.0000   gamma=    0.02 GHz
+     lambda(    3)=  0.0000   gamma=    0.02 GHz
+     lambda(    4)=  0.0010   gamma=    0.17 GHz
+     lambda(    5)=  0.0010   gamma=    0.17 GHz
+     lambda(    6)=  0.0010   gamma=    0.17 GHz
+     lambda(    7)=  0.0006   gamma=    0.18 GHz
+     lambda(    8)=  0.0006   gamma=    0.18 GHz
+     lambda(    9)=  0.0006   gamma=    0.18 GHz
+     lambda(   10)=  0.2601   gamma=  111.54 GHz
+     lambda(   11)=  0.2593   gamma=  111.21 GHz
+     lambda(   12)=  0.2595   gamma=  111.27 GHz
+     lambda(   13)=  0.0666   gamma=  246.30 GHz
+     lambda(   14)=  0.0668   gamma=  247.07 GHz
+     lambda(   15)=  0.0679   gamma=  251.09 GHz
+     lambda(   16)=  0.0023   gamma=   10.31 GHz
+     lambda(   17)=  0.0024   gamma=   10.74 GHz
+     lambda(   18)=  0.0023   gamma=   10.33 GHz
+     lambda(   19)=  0.0001   gamma=    0.79 GHz
+     lambda(   20)=  0.0001   gamma=    0.72 GHz
+     lambda(   21)=  0.0001   gamma=    0.76 GHz
+     lambda(   22)=  0.0010   gamma=   14.65 GHz
+     lambda(   23)=  0.0010   gamma=   15.25 GHz
+     lambda(   24)=  0.0010   gamma=   15.31 GHz
+     lambda(   25)=  0.0334   gamma=  564.17 GHz
+     lambda(   26)=  0.0334   gamma=  564.19 GHz
+     lambda(   27)=  0.0005   gamma=   11.71 GHz
+     number of k points=   240  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9684 ev
+     number of k points=   240  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :  15m13.93s CPU  15m24.71s WALL
+     freq (    1) =       2.215601 [THz] =      73.904478 [cm-1]
+     freq (    2) =       2.215601 [THz] =      73.904478 [cm-1]
+     freq (    3) =       3.495587 [THz] =     116.600240 [cm-1]
+     freq (    4) =       4.815342 [THz] =     160.622505 [cm-1]
+     freq (    5) =       5.035089 [THz] =     167.952493 [cm-1]
+     freq (    6) =       5.035089 [THz] =     167.952493 [cm-1]
+     freq (    7) =       5.834847 [THz] =     194.629548 [cm-1]
+     freq (    8) =       5.834847 [THz] =     194.629548 [cm-1]
+     freq (    9) =       6.315728 [THz] =     210.670024 [cm-1]
+     freq (   10) =      12.132652 [THz] =     404.701721 [cm-1]
+     freq (   11) =      12.450549 [THz] =     415.305609 [cm-1]
+     freq (   12) =      12.450549 [THz] =     415.305609 [cm-1]
+     freq (   13) =      19.795314 [THz] =     660.300598 [cm-1]
+     freq (   14) =      19.795314 [THz] =     660.300598 [cm-1]
+     freq (   15) =      20.441562 [THz] =     681.857113 [cm-1]
+     freq (   16) =      23.298357 [THz] =     777.149535 [cm-1]
+     freq (   17) =      23.859024 [THz] =     795.851391 [cm-1]
+     freq (   18) =      23.859024 [THz] =     795.851391 [cm-1]
+     freq (   19) =      24.815898 [THz] =     827.769262 [cm-1]
+     freq (   20) =      25.079728 [THz] =     836.569688 [cm-1]
+     freq (   21) =      25.079728 [THz] =     836.569688 [cm-1]
+     freq (   22) =      39.660773 [THz] =    1322.940983 [cm-1]
+     freq (   23) =      42.354057 [THz] =    1412.779258 [cm-1]
+     freq (   24) =      42.354057 [THz] =    1412.779258 [cm-1]
+     freq (   25) =      46.220952 [THz] =    1541.764990 [cm-1]
+     freq (   26) =      46.220952 [THz] =    1541.764990 [cm-1]
+     freq (   27) =      50.504412 [THz] =    1684.645841 [cm-1]
+     freq (   1-   2) =         73.9  [cm-1]   --> E    L_3           
+     freq (   3-   3) =        116.6  [cm-1]   --> A_1  L_1           
+     freq (   4-   4) =        160.6  [cm-1]   --> A_1  L_1           
+     freq (   5-   6) =        168.0  [cm-1]   --> E    L_3           
+     freq (   7-   8) =        194.6  [cm-1]   --> E    L_3           
+     freq (   9-   9) =        210.7  [cm-1]   --> A_1  L_1           
+     freq (  10-  10) =        404.7  [cm-1]   --> A_2  L_2           
+     freq (  11-  12) =        415.3  [cm-1]   --> E    L_3           
+     freq (  13-  14) =        660.3  [cm-1]   --> E    L_3           
+     freq (  15-  15) =        681.9  [cm-1]   --> A_1  L_1           
+     freq (  16-  16) =        777.1  [cm-1]   --> A_2  L_2           
+     freq (  17-  18) =        795.9  [cm-1]   --> E    L_3           
+     freq (  19-  19) =        827.8  [cm-1]   --> A_1  L_1           
+     freq (  20-  21) =        836.6  [cm-1]   --> E    L_3           
+     freq (  22-  22) =       1322.9  [cm-1]   --> A_1  L_1           
+     freq (  23-  24) =       1412.8  [cm-1]   --> E    L_3           
+     freq (  25-  26) =       1541.8  [cm-1]   --> E    L_3           
+     freq (  27-  27) =       1684.6  [cm-1]   --> A_1  L_1           
+     lambda(    1)=  0.0341   gamma=    3.03 GHz
+     lambda(    2)=  0.0352   gamma=    3.13 GHz
+     lambda(    3)=  0.0881   gamma=   19.48 GHz
+     lambda(    4)=  0.3898   gamma=  163.62 GHz
+     lambda(    5)=  0.0148   gamma=    6.77 GHz
+     lambda(    6)=  0.0158   gamma=    7.26 GHz
+     lambda(    7)=  0.0018   gamma=    1.13 GHz
+     lambda(    8)=  0.0020   gamma=    1.22 GHz
+     lambda(    9)=  0.0261   gamma=   18.84 GHz
+     lambda(   10)=  0.1224   gamma=  326.08 GHz
+     lambda(   11)=  0.0469   gamma=  131.58 GHz
+     lambda(   12)=  0.0423   gamma=  118.81 GHz
+     lambda(   13)=  0.2130   gamma= 1510.90 GHz
+     lambda(   14)=  0.2062   gamma= 1462.73 GHz
+     lambda(   15)=  0.3125   gamma= 2364.07 GHz
+     lambda(   16)=  0.0030   gamma=   29.11 GHz
+     lambda(   17)=  0.0150   gamma=  154.92 GHz
+     lambda(   18)=  0.0155   gamma=  159.30 GHz
+     lambda(   19)=  0.0076   gamma=   85.02 GHz
+     lambda(   20)=  0.0055   gamma=   63.08 GHz
+     lambda(   21)=  0.0055   gamma=   62.21 GHz
+     lambda(   22)=  0.1101   gamma= 3135.78 GHz
+     lambda(   23)=  0.0259   gamma=  842.22 GHz
+     lambda(   24)=  0.0261   gamma=  848.76 GHz
+     lambda(   25)=  0.0308   gamma= 1192.05 GHz
+     lambda(   26)=  0.0298   gamma= 1154.09 GHz
+     lambda(   27)=  0.0116   gamma=  537.51 GHz
+     lambda(    1)=  0.0306   gamma=    2.46 GHz
+     lambda(    2)=  0.0321   gamma=    2.58 GHz
+     lambda(    3)=  0.0762   gamma=   15.26 GHz
+     lambda(    4)=  0.3428   gamma=  130.30 GHz
+     lambda(    5)=  0.0127   gamma=    5.30 GHz
+     lambda(    6)=  0.0136   gamma=    5.64 GHz
+     lambda(    7)=  0.0019   gamma=    1.04 GHz
+     lambda(    8)=  0.0020   gamma=    1.11 GHz
+     lambda(    9)=  0.0243   gamma=   15.87 GHz
+     lambda(   10)=  0.1102   gamma=  265.88 GHz
+     lambda(   11)=  0.0432   gamma=  109.78 GHz
+     lambda(   12)=  0.0401   gamma=  101.91 GHz
+     lambda(   13)=  0.1875   gamma= 1204.74 GHz
+     lambda(   14)=  0.1795   gamma= 1152.84 GHz
+     lambda(   15)=  0.2676   gamma= 1832.97 GHz
+     lambda(   16)=  0.0024   gamma=   21.48 GHz
+     lambda(   17)=  0.0128   gamma=  119.35 GHz
+     lambda(   18)=  0.0132   gamma=  123.37 GHz
+     lambda(   19)=  0.0075   gamma=   75.35 GHz
+     lambda(   20)=  0.0048   gamma=   49.06 GHz
+     lambda(   21)=  0.0046   gamma=   47.83 GHz
+     lambda(   22)=  0.0959   gamma= 2472.62 GHz
+     lambda(   23)=  0.0228   gamma=  671.88 GHz
+     lambda(   24)=  0.0231   gamma=  678.75 GHz
+     lambda(   25)=  0.0279   gamma=  976.07 GHz
+     lambda(   26)=  0.0270   gamma=  945.42 GHz
+     lambda(   27)=  0.0113   gamma=  470.80 GHz
+     lambda(    1)=  0.0278   gamma=    1.98 GHz
+     lambda(    2)=  0.0292   gamma=    2.07 GHz
+     lambda(    3)=  0.0655   gamma=   11.60 GHz
+     lambda(    4)=  0.3150   gamma=  105.76 GHz
+     lambda(    5)=  0.0118   gamma=    4.34 GHz
+     lambda(    6)=  0.0125   gamma=    4.59 GHz
+     lambda(    7)=  0.0018   gamma=    0.87 GHz
+     lambda(    8)=  0.0019   gamma=    0.93 GHz
+     lambda(    9)=  0.0227   gamma=   13.08 GHz
+     lambda(   10)=  0.1044   gamma=  222.39 GHz
+     lambda(   11)=  0.0410   gamma=   91.92 GHz
+     lambda(   12)=  0.0385   gamma=   86.51 GHz
+     lambda(   13)=  0.1672   gamma=  948.49 GHz
+     lambda(   14)=  0.1595   gamma=  904.86 GHz
+     lambda(   15)=  0.2286   gamma= 1382.92 GHz
+     lambda(   16)=  0.0021   gamma=   16.43 GHz
+     lambda(   17)=  0.0121   gamma=   99.64 GHz
+     lambda(   18)=  0.0124   gamma=  102.50 GHz
+     lambda(   19)=  0.0075   gamma=   67.04 GHz
+     lambda(   20)=  0.0045   gamma=   41.25 GHz
+     lambda(   21)=  0.0044   gamma=   39.91 GHz
+     lambda(   22)=  0.0855   gamma= 1946.92 GHz
+     lambda(   23)=  0.0208   gamma=  539.71 GHz
+     lambda(   24)=  0.0210   gamma=  544.70 GHz
+     lambda(   25)=  0.0270   gamma=  833.97 GHz
+     lambda(   26)=  0.0262   gamma=  810.02 GHz
+     lambda(   27)=  0.0110   gamma=  407.36 GHz
+     lambda(    1)=  0.0256   gamma=    1.63 GHz
+     lambda(    2)=  0.0268   gamma=    1.71 GHz
+     lambda(    3)=  0.0576   gamma=    9.12 GHz
+     lambda(    4)=  0.2946   gamma=   88.49 GHz
+     lambda(    5)=  0.0111   gamma=    3.64 GHz
+     lambda(    6)=  0.0117   gamma=    3.83 GHz
+     lambda(    7)=  0.0017   gamma=    0.74 GHz
+     lambda(    8)=  0.0018   gamma=    0.78 GHz
+     lambda(    9)=  0.0214   gamma=   11.05 GHz
+     lambda(   10)=  0.0985   gamma=  187.79 GHz
+     lambda(   11)=  0.0386   gamma=   77.55 GHz
+     lambda(   12)=  0.0366   gamma=   73.53 GHz
+     lambda(   13)=  0.1523   gamma=  773.00 GHz
+     lambda(   14)=  0.1457   gamma=  739.35 GHz
+     lambda(   15)=  0.1994   gamma= 1079.59 GHz
+     lambda(   16)=  0.0019   gamma=   13.03 GHz
+     lambda(   17)=  0.0116   gamma=   85.78 GHz
+     lambda(   18)=  0.0119   gamma=   87.79 GHz
+     lambda(   19)=  0.0076   gamma=   60.37 GHz
+     lambda(   20)=  0.0043   gamma=   35.38 GHz
+     lambda(   21)=  0.0042   gamma=   34.20 GHz
+     lambda(   22)=  0.0782   gamma= 1592.71 GHz
+     lambda(   23)=  0.0192   gamma=  445.61 GHz
+     lambda(   24)=  0.0193   gamma=  448.91 GHz
+     lambda(   25)=  0.0260   gamma=  720.71 GHz
+     lambda(   26)=  0.0254   gamma=  702.32 GHz
+     lambda(   27)=  0.0106   gamma=  351.45 GHz
+     lambda(    1)=  0.0238   gamma=    1.37 GHz
+     lambda(    2)=  0.0248   gamma=    1.43 GHz
+     lambda(    3)=  0.0514   gamma=    7.36 GHz
+     lambda(    4)=  0.2767   gamma=   75.26 GHz
+     lambda(    5)=  0.0103   gamma=    3.06 GHz
+     lambda(    6)=  0.0107   gamma=    3.20 GHz
+     lambda(    7)=  0.0016   gamma=    0.62 GHz
+     lambda(    8)=  0.0016   gamma=    0.66 GHz
+     lambda(    9)=  0.0202   gamma=    9.46 GHz
+     lambda(   10)=  0.0919   gamma=  158.61 GHz
+     lambda(   11)=  0.0361   gamma=   65.67 GHz
+     lambda(   12)=  0.0344   gamma=   62.63 GHz
+     lambda(   13)=  0.1396   gamma=  641.73 GHz
+     lambda(   14)=  0.1341   gamma=  616.35 GHz
+     lambda(   15)=  0.1767   gamma=  865.95 GHz
+     lambda(   16)=  0.0017   gamma=   10.52 GHz
+     lambda(   17)=  0.0110   gamma=   73.54 GHz
+     lambda(   18)=  0.0112   gamma=   74.98 GHz
+     lambda(   19)=  0.0076   gamma=   54.86 GHz
+     lambda(   20)=  0.0041   gamma=   30.19 GHz
+     lambda(   21)=  0.0040   gamma=   29.24 GHz
+     lambda(   22)=  0.0721   gamma= 1331.25 GHz
+     lambda(   23)=  0.0177   gamma=  372.31 GHz
+     lambda(   24)=  0.0178   gamma=  374.51 GHz
+     lambda(   25)=  0.0247   gamma=  618.61 GHz
+     lambda(   26)=  0.0241   gamma=  604.73 GHz
+     lambda(   27)=  0.0101   gamma=  302.81 GHz
+     lambda(    1)=  0.0223   gamma=    1.17 GHz
+     lambda(    2)=  0.0231   gamma=    1.22 GHz
+     lambda(    3)=  0.0463   gamma=    6.07 GHz
+     lambda(    4)=  0.2608   gamma=   64.88 GHz
+     lambda(    5)=  0.0095   gamma=    2.58 GHz
+     lambda(    6)=  0.0099   gamma=    2.68 GHz
+     lambda(    7)=  0.0015   gamma=    0.53 GHz
+     lambda(    8)=  0.0015   gamma=    0.56 GHz
+     lambda(    9)=  0.0192   gamma=    8.20 GHz
+     lambda(   10)=  0.0852   gamma=  134.58 GHz
+     lambda(   11)=  0.0336   gamma=   55.96 GHz
+     lambda(   12)=  0.0323   gamma=   53.67 GHz
+     lambda(   13)=  0.1286   gamma=  540.86 GHz
+     lambda(   14)=  0.1241   gamma=  521.81 GHz
+     lambda(   15)=  0.1585   gamma=  710.57 GHz
+     lambda(   16)=  0.0015   gamma=    8.64 GHz
+     lambda(   17)=  0.0103   gamma=   63.00 GHz
+     lambda(   18)=  0.0105   gamma=   64.04 GHz
+     lambda(   19)=  0.0076   gamma=   50.37 GHz
+     lambda(   20)=  0.0038   gamma=   25.75 GHz
+     lambda(   21)=  0.0037   gamma=   25.00 GHz
+     lambda(   22)=  0.0670   gamma= 1130.99 GHz
+     lambda(   23)=  0.0164   gamma=  314.79 GHz
+     lambda(   24)=  0.0164   gamma=  316.30 GHz
+     lambda(   25)=  0.0231   gamma=  530.63 GHz
+     lambda(   26)=  0.0227   gamma=  520.25 GHz
+     lambda(   27)=  0.0096   gamma=  262.21 GHz
+     lambda(    1)=  0.0210   gamma=    1.02 GHz
+     lambda(    2)=  0.0217   gamma=    1.06 GHz
+     lambda(    3)=  0.0422   gamma=    5.10 GHz
+     lambda(    4)=  0.2464   gamma=   56.54 GHz
+     lambda(    5)=  0.0088   gamma=    2.20 GHz
+     lambda(    6)=  0.0090   gamma=    2.27 GHz
+     lambda(    7)=  0.0014   gamma=    0.46 GHz
+     lambda(    8)=  0.0014   gamma=    0.48 GHz
+     lambda(    9)=  0.0182   gamma=    7.20 GHz
+     lambda(   10)=  0.0790   gamma=  115.03 GHz
+     lambda(   11)=  0.0314   gamma=   48.10 GHz
+     lambda(   12)=  0.0302   gamma=   46.36 GHz
+     lambda(   13)=  0.1192   gamma=  462.12 GHz
+     lambda(   14)=  0.1155   gamma=  447.76 GHz
+     lambda(   15)=  0.1437   gamma=  594.34 GHz
+     lambda(   16)=  0.0014   gamma=    7.29 GHz
+     lambda(   17)=  0.0096   gamma=   54.24 GHz
+     lambda(   18)=  0.0098   gamma=   55.00 GHz
+     lambda(   19)=  0.0076   gamma=   46.60 GHz
+     lambda(   20)=  0.0035   gamma=   22.05 GHz
+     lambda(   21)=  0.0034   gamma=   21.47 GHz
+     lambda(   22)=  0.0625   gamma=  973.65 GHz
+     lambda(   23)=  0.0152   gamma=  269.36 GHz
+     lambda(   24)=  0.0152   gamma=  270.42 GHz
+     lambda(   25)=  0.0216   gamma=  457.35 GHz
+     lambda(   26)=  0.0213   gamma=  449.59 GHz
+     lambda(   27)=  0.0091   gamma=  228.78 GHz
+     lambda(    1)=  0.0199   gamma=    0.90 GHz
+     lambda(    2)=  0.0206   gamma=    0.93 GHz
+     lambda(    3)=  0.0386   gamma=    4.34 GHz
+     lambda(    4)=  0.2330   gamma=   49.69 GHz
+     lambda(    5)=  0.0081   gamma=    1.89 GHz
+     lambda(    6)=  0.0084   gamma=    1.95 GHz
+     lambda(    7)=  0.0013   gamma=    0.40 GHz
+     lambda(    8)=  0.0013   gamma=    0.41 GHz
+     lambda(    9)=  0.0175   gamma=    6.41 GHz
+     lambda(   10)=  0.0733   gamma=   99.21 GHz
+     lambda(   11)=  0.0293   gamma=   41.79 GHz
+     lambda(   12)=  0.0284   gamma=   40.46 GHz
+     lambda(   13)=  0.1110   gamma=  400.05 GHz
+     lambda(   14)=  0.1080   gamma=  389.11 GHz
+     lambda(   15)=  0.1315   gamma=  505.35 GHz
+     lambda(   16)=  0.0013   gamma=    6.49 GHz
+     lambda(   17)=  0.0090   gamma=   47.25 GHz
+     lambda(   18)=  0.0091   gamma=   47.81 GHz
+     lambda(   19)=  0.0076   gamma=   43.26 GHz
+     lambda(   20)=  0.0033   gamma=   19.05 GHz
+     lambda(   21)=  0.0032   gamma=   18.59 GHz
+     lambda(   22)=  0.0586   gamma=  847.82 GHz
+     lambda(   23)=  0.0141   gamma=  233.19 GHz
+     lambda(   24)=  0.0142   gamma=  233.96 GHz
+     lambda(   25)=  0.0203   gamma=  397.93 GHz
+     lambda(   26)=  0.0200   gamma=  392.10 GHz
+     lambda(   27)=  0.0086   gamma=  201.38 GHz
+     lambda(    1)=  0.0191   gamma=    0.81 GHz
+     lambda(    2)=  0.0196   gamma=    0.83 GHz
+     lambda(    3)=  0.0356   gamma=    3.75 GHz
+     lambda(    4)=  0.2203   gamma=   43.98 GHz
+     lambda(    5)=  0.0076   gamma=    1.66 GHz
+     lambda(    6)=  0.0078   gamma=    1.71 GHz
+     lambda(    7)=  0.0012   gamma=    0.36 GHz
+     lambda(    8)=  0.0013   gamma=    0.37 GHz
+     lambda(    9)=  0.0169   gamma=    5.80 GHz
+     lambda(   10)=  0.0683   gamma=   86.50 GHz
+     lambda(   11)=  0.0276   gamma=   36.86 GHz
+     lambda(   12)=  0.0268   gamma=   35.80 GHz
+     lambda(   13)=  0.1040   gamma=  350.97 GHz
+     lambda(   14)=  0.1015   gamma=  342.49 GHz
+     lambda(   15)=  0.1212   gamma=  436.12 GHz
+     lambda(   16)=  0.0014   gamma=    6.34 GHz
+     lambda(   17)=  0.0086   gamma=   41.97 GHz
+     lambda(   18)=  0.0087   gamma=   42.40 GHz
+     lambda(   19)=  0.0076   gamma=   40.27 GHz
+     lambda(   20)=  0.0031   gamma=   16.66 GHz
+     lambda(   21)=  0.0030   gamma=   16.31 GHz
+     lambda(   22)=  0.0551   gamma=  746.23 GHz
+     lambda(   23)=  0.0132   gamma=  204.33 GHz
+     lambda(   24)=  0.0133   gamma=  204.91 GHz
+     lambda(   25)=  0.0191   gamma=  351.20 GHz
+     lambda(   26)=  0.0189   gamma=  346.74 GHz
+     lambda(   27)=  0.0082   gamma=  179.09 GHz
+     lambda(    1)=  0.0183   gamma=    0.73 GHz
+     lambda(    2)=  0.0188   gamma=    0.75 GHz
+     lambda(    3)=  0.0330   gamma=    3.28 GHz
+     lambda(    4)=  0.2079   gamma=   39.16 GHz
+     lambda(    5)=  0.0073   gamma=    1.50 GHz
+     lambda(    6)=  0.0074   gamma=    1.53 GHz
+     lambda(    7)=  0.0012   gamma=    0.34 GHz
+     lambda(    8)=  0.0012   gamma=    0.34 GHz
+     lambda(    9)=  0.0165   gamma=    5.35 GHz
+     lambda(   10)=  0.0639   gamma=   76.45 GHz
+     lambda(   11)=  0.0263   gamma=   33.17 GHz
+     lambda(   12)=  0.0257   gamma=   32.32 GHz
+     lambda(   13)=  0.0981   gamma=  312.30 GHz
+     lambda(   14)=  0.0960   gamma=  305.56 GHz
+     lambda(   15)=  0.1125   gamma=  381.82 GHz
+     lambda(   16)=  0.0016   gamma=    6.93 GHz
+     lambda(   17)=  0.0083   gamma=   38.31 GHz
+     lambda(   18)=  0.0084   gamma=   38.64 GHz
+     lambda(   19)=  0.0075   gamma=   37.64 GHz
+     lambda(   20)=  0.0029   gamma=   14.84 GHz
+     lambda(   21)=  0.0029   gamma=   14.57 GHz
+     lambda(   22)=  0.0520   gamma=  663.99 GHz
+     lambda(   23)=  0.0125   gamma=  181.53 GHz
+     lambda(   24)=  0.0125   gamma=  181.97 GHz
+     lambda(   25)=  0.0182   gamma=  315.65 GHz
+     lambda(   26)=  0.0180   gamma=  312.20 GHz
+     lambda(   27)=  0.0078   gamma=  161.21 GHz
+     number of k points=   200  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9684 ev
+     number of k points=   200  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :      1h 7m CPU      1h 7m WALL
+     freq (    1) =       2.487452 [THz] =      82.972484 [cm-1]
+     freq (    2) =       2.487452 [THz] =      82.972484 [cm-1]
+     freq (    3) =       3.721476 [THz] =     124.135089 [cm-1]
+     freq (    4) =       4.471483 [THz] =     149.152622 [cm-1]
+     freq (    5) =       4.471483 [THz] =     149.152622 [cm-1]
+     freq (    6) =       4.823550 [THz] =     160.896319 [cm-1]
+     freq (    7) =       5.869109 [THz] =     195.772398 [cm-1]
+     freq (    8) =       6.617421 [THz] =     220.733400 [cm-1]
+     freq (    9) =       6.617421 [THz] =     220.733400 [cm-1]
+     freq (   10) =       9.266260 [THz] =     309.089162 [cm-1]
+     freq (   11) =      14.431994 [THz] =     481.399496 [cm-1]
+     freq (   12) =      14.431994 [THz] =     481.399496 [cm-1]
+     freq (   13) =      20.002623 [THz] =     667.215673 [cm-1]
+     freq (   14) =      20.002623 [THz] =     667.215673 [cm-1]
+     freq (   15) =      21.787779 [THz] =     726.762077 [cm-1]
+     freq (   16) =      22.572427 [THz] =     752.935111 [cm-1]
+     freq (   17) =      23.077909 [THz] =     769.796181 [cm-1]
+     freq (   18) =      24.001046 [THz] =     800.588717 [cm-1]
+     freq (   19) =      24.001046 [THz] =     800.588717 [cm-1]
+     freq (   20) =      25.260012 [THz] =     842.583308 [cm-1]
+     freq (   21) =      25.260012 [THz] =     842.583308 [cm-1]
+     freq (   22) =      41.122043 [THz] =    1371.683708 [cm-1]
+     freq (   23) =      42.437972 [THz] =    1415.578379 [cm-1]
+     freq (   24) =      42.437972 [THz] =    1415.578379 [cm-1]
+     freq (   25) =      45.584375 [THz] =    1520.531083 [cm-1]
+     freq (   26) =      46.816574 [THz] =    1561.632817 [cm-1]
+     freq (   27) =      49.310802 [THz] =    1644.831321 [cm-1]
+     freq (   1-   2) =         83.0  [cm-1]   --> E    G_5 D_5       
+     freq (   3-   3) =        124.1  [cm-1]   --> A_1  G_1 D_1       
+     freq (   4-   5) =        149.2  [cm-1]   --> E    G_5 D_5       
+     freq (   6-   6) =        160.9  [cm-1]   --> B_2  G_4 D_2'      
+     freq (   7-   7) =        195.8  [cm-1]   --> A_1  G_1 D_1       
+     freq (   8-   9) =        220.7  [cm-1]   --> E    G_5 D_5       
+     freq (  10-  10) =        309.1  [cm-1]   --> A_2  G_2 D_1'      
+     freq (  11-  12) =        481.4  [cm-1]   --> E    G_5 D_5       
+     freq (  13-  14) =        667.2  [cm-1]   --> E    G_5 D_5       
+     freq (  15-  15) =        726.8  [cm-1]   --> B_1  G_3 D_2       
+     freq (  16-  16) =        752.9  [cm-1]   --> B_2  G_4 D_2'      
+     freq (  17-  17) =        769.8  [cm-1]   --> A_1  G_1 D_1       
+     freq (  18-  19) =        800.6  [cm-1]   --> E    G_5 D_5       
+     freq (  20-  21) =        842.6  [cm-1]   --> E    G_5 D_5       
+     freq (  22-  22) =       1371.7  [cm-1]   --> A_1  G_1 D_1       
+     freq (  23-  24) =       1415.6  [cm-1]   --> E    G_5 D_5       
+     freq (  25-  25) =       1520.5  [cm-1]   --> A_1  G_1 D_1       
+     freq (  26-  26) =       1561.6  [cm-1]   --> B_1  G_3 D_2       
+     freq (  27-  27) =       1644.8  [cm-1]   --> A_1  G_1 D_1       
+     lambda(    1)=  0.1210   gamma=   13.55 GHz
+     lambda(    2)=  0.1206   gamma=   13.51 GHz
+     lambda(    3)=  0.0400   gamma=   10.02 GHz
+     lambda(    4)=  0.0077   gamma=    2.79 GHz
+     lambda(    5)=  0.0077   gamma=    2.80 GHz
+     lambda(    6)=  0.0037   gamma=    1.56 GHz
+     lambda(    7)=  0.8415   gamma=  524.81 GHz
+     lambda(    8)=  0.0035   gamma=    2.76 GHz
+     lambda(    9)=  0.0033   gamma=    2.61 GHz
+     lambda(   10)=  0.3885   gamma=  603.89 GHz
+     lambda(   11)=  0.0680   gamma=  256.38 GHz
+     lambda(   12)=  0.0689   gamma=  259.78 GHz
+     lambda(   13)=  0.1669   gamma= 1209.01 GHz
+     lambda(   14)=  0.1780   gamma= 1289.64 GHz
+     lambda(   15)=  0.1262   gamma= 1085.01 GHz
+     lambda(   16)=  0.0873   gamma=  805.43 GHz
+     lambda(   17)=  0.1217   gamma= 1173.89 GHz
+     lambda(   18)=  0.0140   gamma=  145.86 GHz
+     lambda(   19)=  0.0152   gamma=  158.25 GHz
+     lambda(   20)=  0.0043   gamma=   50.10 GHz
+     lambda(   21)=  0.0046   gamma=   52.84 GHz
+     lambda(   22)=  0.1809   gamma= 5539.71 GHz
+     lambda(   23)=  0.0174   gamma=  567.76 GHz
+     lambda(   24)=  0.0181   gamma=  588.76 GHz
+     lambda(   25)=  0.0694   gamma= 2610.15 GHz
+     lambda(   26)=  0.0523   gamma= 2075.57 GHz
+     lambda(   27)=  0.0332   gamma= 1459.67 GHz
+     lambda(    1)=  0.1171   gamma=   11.88 GHz
+     lambda(    2)=  0.1168   gamma=   11.85 GHz
+     lambda(    3)=  0.0326   gamma=    7.41 GHz
+     lambda(    4)=  0.0076   gamma=    2.48 GHz
+     lambda(    5)=  0.0076   gamma=    2.49 GHz
+     lambda(    6)=  0.0024   gamma=    0.93 GHz
+     lambda(    7)=  0.6344   gamma=  358.25 GHz
+     lambda(    8)=  0.0034   gamma=    2.41 GHz
+     lambda(    9)=  0.0032   gamma=    2.30 GHz
+     lambda(   10)=  0.2398   gamma=  337.56 GHz
+     lambda(   11)=  0.0586   gamma=  200.18 GHz
+     lambda(   12)=  0.0593   gamma=  202.49 GHz
+     lambda(   13)=  0.1677   gamma= 1099.97 GHz
+     lambda(   14)=  0.1769   gamma= 1160.00 GHz
+     lambda(   15)=  0.0898   gamma=  699.03 GHz
+     lambda(   16)=  0.0581   gamma=  485.45 GHz
+     lambda(   17)=  0.0799   gamma=  697.23 GHz
+     lambda(   18)=  0.0111   gamma=  105.28 GHz
+     lambda(   19)=  0.0121   gamma=  113.99 GHz
+     lambda(   20)=  0.0038   gamma=   39.39 GHz
+     lambda(   21)=  0.0039   gamma=   41.20 GHz
+     lambda(   22)=  0.1304   gamma= 3614.08 GHz
+     lambda(   23)=  0.0165   gamma=  488.07 GHz
+     lambda(   24)=  0.0170   gamma=  502.84 GHz
+     lambda(   25)=  0.0619   gamma= 2109.71 GHz
+     lambda(   26)=  0.0369   gamma= 1325.75 GHz
+     lambda(   27)=  0.0239   gamma=  951.39 GHz
+     lambda(    1)=  0.1056   gamma=    9.46 GHz
+     lambda(    2)=  0.1054   gamma=    9.44 GHz
+     lambda(    3)=  0.0289   gamma=    5.79 GHz
+     lambda(    4)=  0.0068   gamma=    1.98 GHz
+     lambda(    5)=  0.0069   gamma=    1.98 GHz
+     lambda(    6)=  0.0019   gamma=    0.63 GHz
+     lambda(    7)=  0.5254   gamma=  262.01 GHz
+     lambda(    8)=  0.0031   gamma=    1.95 GHz
+     lambda(    9)=  0.0030   gamma=    1.89 GHz
+     lambda(   10)=  0.1759   gamma=  218.67 GHz
+     lambda(   11)=  0.0518   gamma=  156.26 GHz
+     lambda(   12)=  0.0523   gamma=  157.58 GHz
+     lambda(   13)=  0.1533   gamma=  888.26 GHz
+     lambda(   14)=  0.1601   gamma=  927.44 GHz
+     lambda(   15)=  0.0731   gamma=  502.72 GHz
+     lambda(   16)=  0.0447   gamma=  329.92 GHz
+     lambda(   17)=  0.0629   gamma=  485.28 GHz
+     lambda(   18)=  0.0094   gamma=   78.53 GHz
+     lambda(   19)=  0.0100   gamma=   83.52 GHz
+     lambda(   20)=  0.0033   gamma=   30.60 GHz
+     lambda(   21)=  0.0034   gamma=   31.60 GHz
+     lambda(   22)=  0.1049   gamma= 2568.94 GHz
+     lambda(   23)=  0.0153   gamma=  398.94 GHz
+     lambda(   24)=  0.0156   gamma=  407.50 GHz
+     lambda(   25)=  0.0550   gamma= 1654.87 GHz
+     lambda(   26)=  0.0300   gamma=  953.37 GHz
+     lambda(   27)=  0.0203   gamma=  713.16 GHz
+     lambda(    1)=  0.0961   gamma=    7.70 GHz
+     lambda(    2)=  0.0959   gamma=    7.69 GHz
+     lambda(    3)=  0.0267   gamma=    4.79 GHz
+     lambda(    4)=  0.0062   gamma=    1.61 GHz
+     lambda(    5)=  0.0062   gamma=    1.61 GHz
+     lambda(    6)=  0.0015   gamma=    0.46 GHz
+     lambda(    7)=  0.4574   gamma=  204.12 GHz
+     lambda(    8)=  0.0029   gamma=    1.62 GHz
+     lambda(    9)=  0.0028   gamma=    1.59 GHz
+     lambda(   10)=  0.1388   gamma=  154.37 GHz
+     lambda(   11)=  0.0470   gamma=  126.72 GHz
+     lambda(   12)=  0.0473   gamma=  127.53 GHz
+     lambda(   13)=  0.1403   gamma=  727.00 GHz
+     lambda(   14)=  0.1455   gamma=  754.05 GHz
+     lambda(   15)=  0.0629   gamma=  386.61 GHz
+     lambda(   16)=  0.0365   gamma=  240.86 GHz
+     lambda(   17)=  0.0535   gamma=  369.20 GHz
+     lambda(   18)=  0.0083   gamma=   61.74 GHz
+     lambda(   19)=  0.0087   gamma=   64.74 GHz
+     lambda(   20)=  0.0030   gamma=   24.76 GHz
+     lambda(   21)=  0.0031   gamma=   25.31 GHz
+     lambda(   22)=  0.0894   gamma= 1958.28 GHz
+     lambda(   23)=  0.0143   gamma=  332.67 GHz
+     lambda(   24)=  0.0145   gamma=  337.85 GHz
+     lambda(   25)=  0.0502   gamma= 1350.20 GHz
+     lambda(   26)=  0.0258   gamma=  732.84 GHz
+     lambda(   27)=  0.0183   gamma=  575.89 GHz
+     lambda(    1)=  0.0875   gamma=    6.35 GHz
+     lambda(    2)=  0.0874   gamma=    6.34 GHz
+     lambda(    3)=  0.0250   gamma=    4.06 GHz
+     lambda(    4)=  0.0056   gamma=    1.32 GHz
+     lambda(    5)=  0.0057   gamma=    1.33 GHz
+     lambda(    6)=  0.0013   gamma=    0.35 GHz
+     lambda(    7)=  0.4059   gamma=  164.02 GHz
+     lambda(    8)=  0.0027   gamma=    1.37 GHz
+     lambda(    9)=  0.0026   gamma=    1.34 GHz
+     lambda(   10)=  0.1139   gamma=  114.72 GHz
+     lambda(   11)=  0.0429   gamma=  104.75 GHz
+     lambda(   12)=  0.0431   gamma=  105.30 GHz
+     lambda(   13)=  0.1280   gamma=  600.95 GHz
+     lambda(   14)=  0.1322   gamma=  620.70 GHz
+     lambda(   15)=  0.0550   gamma=  306.47 GHz
+     lambda(   16)=  0.0307   gamma=  183.52 GHz
+     lambda(   17)=  0.0470   gamma=  293.66 GHz
+     lambda(   18)=  0.0074   gamma=   49.92 GHz
+     lambda(   19)=  0.0077   gamma=   51.82 GHz
+     lambda(   20)=  0.0027   gamma=   20.45 GHz
+     lambda(   21)=  0.0028   gamma=   20.75 GHz
+     lambda(   22)=  0.0782   gamma= 1550.78 GHz
+     lambda(   23)=  0.0132   gamma=  279.89 GHz
+     lambda(   24)=  0.0134   gamma=  283.18 GHz
+     lambda(   25)=  0.0461   gamma= 1123.74 GHz
+     lambda(   26)=  0.0227   gamma=  582.45 GHz
+     lambda(   27)=  0.0167   gamma=  475.55 GHz
+     lambda(    1)=  0.0800   gamma=    5.31 GHz
+     lambda(    2)=  0.0798   gamma=    5.30 GHz
+     lambda(    3)=  0.0235   gamma=    3.49 GHz
+     lambda(    4)=  0.0051   gamma=    1.10 GHz
+     lambda(    5)=  0.0052   gamma=    1.11 GHz
+     lambda(    6)=  0.0011   gamma=    0.28 GHz
+     lambda(    7)=  0.3643   gamma=  134.65 GHz
+     lambda(    8)=  0.0025   gamma=    1.17 GHz
+     lambda(    9)=  0.0024   gamma=    1.15 GHz
+     lambda(   10)=  0.0960   gamma=   88.42 GHz
+     lambda(   11)=  0.0393   gamma=   87.82 GHz
+     lambda(   12)=  0.0395   gamma=   88.21 GHz
+     lambda(   13)=  0.1170   gamma=  502.34 GHz
+     lambda(   14)=  0.1205   gamma=  517.40 GHz
+     lambda(   15)=  0.0487   gamma=  248.04 GHz
+     lambda(   16)=  0.0264   gamma=  144.28 GHz
+     lambda(   17)=  0.0421   gamma=  240.45 GHz
+     lambda(   18)=  0.0067   gamma=   41.17 GHz
+     lambda(   19)=  0.0069   gamma=   42.42 GHz
+     lambda(   20)=  0.0025   gamma=   17.18 GHz
+     lambda(   21)=  0.0025   gamma=   17.34 GHz
+     lambda(   22)=  0.0694   gamma= 1260.09 GHz
+     lambda(   23)=  0.0123   gamma=  237.92 GHz
+     lambda(   24)=  0.0124   gamma=  240.11 GHz
+     lambda(   25)=  0.0426   gamma=  950.54 GHz
+     lambda(   26)=  0.0201   gamma=  473.20 GHz
+     lambda(   27)=  0.0152   gamma=  397.86 GHz
+     lambda(    1)=  0.0734   gamma=    4.49 GHz
+     lambda(    2)=  0.0733   gamma=    4.49 GHz
+     lambda(    3)=  0.0222   gamma=    3.04 GHz
+     lambda(    4)=  0.0047   gamma=    0.94 GHz
+     lambda(    5)=  0.0047   gamma=    0.94 GHz
+     lambda(    6)=  0.0010   gamma=    0.23 GHz
+     lambda(    7)=  0.3300   gamma=  112.48 GHz
+     lambda(    8)=  0.0023   gamma=    1.01 GHz
+     lambda(    9)=  0.0023   gamma=    1.00 GHz
+     lambda(   10)=  0.0825   gamma=   70.13 GHz
+     lambda(   11)=  0.0362   gamma=   74.63 GHz
+     lambda(   12)=  0.0363   gamma=   74.92 GHz
+     lambda(   13)=  0.1074   gamma=  425.30 GHz
+     lambda(   14)=  0.1104   gamma=  437.15 GHz
+     lambda(   15)=  0.0435   gamma=  204.54 GHz
+     lambda(   16)=  0.0231   gamma=  116.37 GHz
+     lambda(   17)=  0.0383   gamma=  201.60 GHz
+     lambda(   18)=  0.0061   gamma=   34.62 GHz
+     lambda(   19)=  0.0062   gamma=   35.50 GHz
+     lambda(   20)=  0.0023   gamma=   14.80 GHz
+     lambda(   21)=  0.0024   gamma=   14.90 GHz
+     lambda(   22)=  0.0624   gamma= 1044.58 GHz
+     lambda(   23)=  0.0115   gamma=  205.11 GHz
+     lambda(   24)=  0.0116   gamma=  206.64 GHz
+     lambda(   25)=  0.0397   gamma=  816.78 GHz
+     lambda(   26)=  0.0181   gamma=  391.60 GHz
+     lambda(   27)=  0.0140   gamma=  337.13 GHz
+     lambda(    1)=  0.0677   gamma=    3.85 GHz
+     lambda(    2)=  0.0676   gamma=    3.85 GHz
+     lambda(    3)=  0.0211   gamma=    2.69 GHz
+     lambda(    4)=  0.0044   gamma=    0.81 GHz
+     lambda(    5)=  0.0044   gamma=    0.81 GHz
+     lambda(    6)=  0.0009   gamma=    0.19 GHz
+     lambda(    7)=  0.3010   gamma=   95.35 GHz
+     lambda(    8)=  0.0022   gamma=    0.90 GHz
+     lambda(    9)=  0.0022   gamma=    0.89 GHz
+     lambda(   10)=  0.0722   gamma=   57.04 GHz
+     lambda(   11)=  0.0336   gamma=   64.42 GHz
+     lambda(   12)=  0.0337   gamma=   64.64 GHz
+     lambda(   13)=  0.0993   gamma=  365.31 GHz
+     lambda(   14)=  0.1019   gamma=  374.90 GHz
+     lambda(   15)=  0.0394   gamma=  171.93 GHz
+     lambda(   16)=  0.0205   gamma=   96.13 GHz
+     lambda(   17)=  0.0353   gamma=  172.89 GHz
+     lambda(   18)=  0.0056   gamma=   29.88 GHz
+     lambda(   19)=  0.0058   gamma=   30.55 GHz
+     lambda(   20)=  0.0023   gamma=   13.38 GHz
+     lambda(   21)=  0.0023   gamma=   13.46 GHz
+     lambda(   22)=  0.0566   gamma=  880.50 GHz
+     lambda(   23)=  0.0109   gamma=  180.60 GHz
+     lambda(   24)=  0.0110   gamma=  181.72 GHz
+     lambda(   25)=  0.0373   gamma=  713.27 GHz
+     lambda(   26)=  0.0164   gamma=  329.95 GHz
+     lambda(   27)=  0.0129   gamma=  289.51 GHz
+     lambda(    1)=  0.0629   gamma=    3.35 GHz
+     lambda(    2)=  0.0628   gamma=    3.35 GHz
+     lambda(    3)=  0.0202   gamma=    2.41 GHz
+     lambda(    4)=  0.0042   gamma=    0.72 GHz
+     lambda(    5)=  0.0042   gamma=    0.72 GHz
+     lambda(    6)=  0.0008   gamma=    0.16 GHz
+     lambda(    7)=  0.2760   gamma=   81.87 GHz
+     lambda(    8)=  0.0022   gamma=    0.82 GHz
+     lambda(    9)=  0.0022   gamma=    0.82 GHz
+     lambda(   10)=  0.0643   gamma=   47.54 GHz
+     lambda(   11)=  0.0316   gamma=   56.74 GHz
+     lambda(   12)=  0.0317   gamma=   56.92 GHz
+     lambda(   13)=  0.0926   gamma=  318.93 GHz
+     lambda(   14)=  0.0949   gamma=  326.88 GHz
+     lambda(   15)=  0.0361   gamma=  147.56 GHz
+     lambda(   16)=  0.0186   gamma=   81.51 GHz
+     lambda(   17)=  0.0331   gamma=  151.71 GHz
+     lambda(   18)=  0.0054   gamma=   26.72 GHz
+     lambda(   19)=  0.0055   gamma=   27.27 GHz
+     lambda(   20)=  0.0024   gamma=   12.98 GHz
+     lambda(   21)=  0.0024   gamma=   13.05 GHz
+     lambda(   22)=  0.0517   gamma=  753.12 GHz
+     lambda(   23)=  0.0106   gamma=  163.78 GHz
+     lambda(   24)=  0.0106   gamma=  164.65 GHz
+     lambda(   25)=  0.0354   gamma=  633.47 GHz
+     lambda(   26)=  0.0150   gamma=  283.33 GHz
+     lambda(   27)=  0.0120   gamma=  252.12 GHz
+     lambda(    1)=  0.0589   gamma=    2.96 GHz
+     lambda(    2)=  0.0588   gamma=    2.96 GHz
+     lambda(    3)=  0.0194   gamma=    2.19 GHz
+     lambda(    4)=  0.0040   gamma=    0.65 GHz
+     lambda(    5)=  0.0040   gamma=    0.65 GHz
+     lambda(    6)=  0.0007   gamma=    0.14 GHz
+     lambda(    7)=  0.2540   gamma=   71.08 GHz
+     lambda(    8)=  0.0022   gamma=    0.78 GHz
+     lambda(    9)=  0.0022   gamma=    0.78 GHz
+     lambda(   10)=  0.0583   gamma=   40.63 GHz
+     lambda(   11)=  0.0303   gamma=   51.25 GHz
+     lambda(   12)=  0.0304   gamma=   51.39 GHz
+     lambda(   13)=  0.0872   gamma=  283.33 GHz
+     lambda(   14)=  0.0892   gamma=  290.06 GHz
+     lambda(   15)=  0.0336   gamma=  129.48 GHz
+     lambda(   16)=  0.0172   gamma=   71.33 GHz
+     lambda(   17)=  0.0315   gamma=  136.24 GHz
+     lambda(   18)=  0.0053   gamma=   24.95 GHz
+     lambda(   19)=  0.0054   gamma=   25.43 GHz
+     lambda(   20)=  0.0026   gamma=   13.55 GHz
+     lambda(   21)=  0.0026   gamma=   13.62 GHz
+     lambda(   22)=  0.0475   gamma=  652.79 GHz
+     lambda(   23)=  0.0105   gamma=  153.84 GHz
+     lambda(   24)=  0.0106   gamma=  154.54 GHz
+     lambda(   25)=  0.0339   gamma=  572.20 GHz
+     lambda(   26)=  0.0139   gamma=  248.23 GHz
+     lambda(   27)=  0.0113   gamma=  222.73 GHz
+     number of k points=   328  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     the Fermi energy is    10.9684 ev
+     number of k points=   328  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+     PHONON       :      1h43m CPU      1h44m WALL
+     freq (    1) =       2.945846 [THz] =      98.262861 [cm-1]
+     freq (    2) =       3.528742 [THz] =     117.706179 [cm-1]
+     freq (    3) =       3.673306 [THz] =     122.528313 [cm-1]
+     freq (    4) =       4.341823 [THz] =     144.827612 [cm-1]
+     freq (    5) =       4.839686 [THz] =     161.434563 [cm-1]
+     freq (    6) =       5.212914 [THz] =     173.884089 [cm-1]
+     freq (    7) =       5.882113 [THz] =     196.206165 [cm-1]
+     freq (    8) =       6.228637 [THz] =     207.764961 [cm-1]
+     freq (    9) =       7.313425 [THz] =     243.949596 [cm-1]
+     freq (   10) =      12.494390 [THz] =     416.767989 [cm-1]
+     freq (   11) =      14.316137 [THz] =     477.534918 [cm-1]
+     freq (   12) =      14.352378 [THz] =     478.743813 [cm-1]
+     freq (   13) =      20.520171 [THz] =     684.479225 [cm-1]
+     freq (   14) =      21.015888 [THz] =     701.014561 [cm-1]
+     freq (   15) =      21.094403 [THz] =     703.633549 [cm-1]
+     freq (   16) =      21.293369 [THz] =     710.270350 [cm-1]
+     freq (   17) =      21.660418 [THz] =     722.513778 [cm-1]
+     freq (   18) =      24.026247 [THz] =     801.429341 [cm-1]
+     freq (   19) =      24.154158 [THz] =     805.696000 [cm-1]
+     freq (   20) =      24.410147 [THz] =     814.234850 [cm-1]
+     freq (   21) =      24.927378 [THz] =     831.487822 [cm-1]
+     freq (   22) =      39.001734 [THz] =    1300.957806 [cm-1]
+     freq (   23) =      42.119288 [THz] =    1404.948229 [cm-1]
+     freq (   24) =      42.637239 [THz] =    1422.225198 [cm-1]
+     freq (   25) =      45.749353 [THz] =    1526.034144 [cm-1]
+     freq (   26) =      47.154420 [THz] =    1572.902139 [cm-1]
+     freq (   27) =      47.874674 [THz] =    1596.927230 [cm-1]
+     freq (   1-   1) =         98.3  [cm-1]   --> B_1  D_3  S_3      
+     freq (   2-   2) =        117.7  [cm-1]   --> B_2  D_4  S_4      
+     freq (   3-   3) =        122.5  [cm-1]   --> A_1  D_1  S_1      
+     freq (   4-   4) =        144.8  [cm-1]   --> B_2  D_4  S_4      
+     freq (   5-   5) =        161.4  [cm-1]   --> A_2  D_2  S_2      
+     freq (   6-   6) =        173.9  [cm-1]   --> B_2  D_4  S_4      
+     freq (   7-   7) =        196.2  [cm-1]   --> A_1  D_1  S_1      
+     freq (   8-   8) =        207.8  [cm-1]   --> B_1  D_3  S_3      
+     freq (   9-   9) =        243.9  [cm-1]   --> A_1  D_1  S_1      
+     freq (  10-  10) =        416.8  [cm-1]   --> B_1  D_3  S_3      
+     freq (  11-  11) =        477.5  [cm-1]   --> B_2  D_4  S_4      
+     freq (  12-  12) =        478.7  [cm-1]   --> A_2  D_2  S_2      
+     freq (  13-  13) =        684.5  [cm-1]   --> A_1  D_1  S_1      
+     freq (  14-  14) =        701.0  [cm-1]   --> B_2  D_4  S_4      
+     freq (  15-  15) =        703.6  [cm-1]   --> A_2  D_2  S_2      
+     freq (  16-  16) =        710.3  [cm-1]   --> A_1  D_1  S_1      
+     freq (  17-  17) =        722.5  [cm-1]   --> B_1  D_3  S_3      
+     freq (  18-  18) =        801.4  [cm-1]   --> A_2  D_2  S_2      
+     freq (  19-  19) =        805.7  [cm-1]   --> A_1  D_1  S_1      
+     freq (  20-  20) =        814.2  [cm-1]   --> B_2  D_4  S_4      
+     freq (  21-  21) =        831.5  [cm-1]   --> B_1  D_3  S_3      
+     freq (  22-  22) =       1301.0  [cm-1]   --> A_1  D_1  S_1      
+     freq (  23-  23) =       1404.9  [cm-1]   --> B_2  D_4  S_4      
+     freq (  24-  24) =       1422.2  [cm-1]   --> B_1  D_3  S_3      
+     freq (  25-  25) =       1526.0  [cm-1]   --> A_1  D_1  S_1      
+     freq (  26-  26) =       1572.9  [cm-1]   --> B_1  D_3  S_3      
+     freq (  27-  27) =       1596.9  [cm-1]   --> A_1  D_1  S_1      
+     lambda(    1)=  0.0239   gamma=    3.75 GHz
+     lambda(    2)=  0.0244   gamma=    5.50 GHz
+     lambda(    3)=  0.0622   gamma=   15.19 GHz
+     lambda(    4)=  0.0062   gamma=    2.11 GHz
+     lambda(    5)=  0.0032   gamma=    1.36 GHz
+     lambda(    6)=  0.0047   gamma=    2.30 GHz
+     lambda(    7)=  0.4861   gamma=  304.47 GHz
+     lambda(    8)=  0.0159   gamma=   11.18 GHz
+     lambda(    9)=  0.0943   gamma=   91.27 GHz
+     lambda(   10)=  0.0352   gamma=   99.54 GHz
+     lambda(   11)=  0.0264   gamma=   98.09 GHz
+     lambda(   12)=  0.1568   gamma=  584.71 GHz
+     lambda(   13)=  0.1884   gamma= 1436.00 GHz
+     lambda(   14)=  0.0967   gamma=  773.57 GHz
+     lambda(   15)=  0.1356   gamma= 1092.61 GHz
+     lambda(   16)=  0.3094   gamma= 2539.90 GHz
+     lambda(   17)=  0.0823   gamma=  698.85 GHz
+     lambda(   18)=  0.0246   gamma=  256.64 GHz
+     lambda(   19)=  0.0381   gamma=  402.43 GHz
+     lambda(   20)=  0.0175   gamma=  188.87 GHz
+     lambda(   21)=  0.0046   gamma=   51.47 GHz
+     lambda(   22)=  0.2428   gamma= 6685.81 GHz
+     lambda(   23)=  0.0300   gamma=  964.46 GHz
+     lambda(   24)=  0.0259   gamma=  853.71 GHz
+     lambda(   25)=  0.0410   gamma= 1553.48 GHz
+     lambda(   26)=  0.0147   gamma=  591.15 GHz
+     lambda(   27)=  0.0290   gamma= 1204.72 GHz
+     lambda(    1)=  0.0210   gamma=    2.98 GHz
+     lambda(    2)=  0.0295   gamma=    6.03 GHz
+     lambda(    3)=  0.0542   gamma=   12.00 GHz
+     lambda(    4)=  0.0072   gamma=    2.22 GHz
+     lambda(    5)=  0.0031   gamma=    1.20 GHz
+     lambda(    6)=  0.0043   gamma=    1.94 GHz
+     lambda(    7)=  0.4290   gamma=  243.31 GHz
+     lambda(    8)=  0.0150   gamma=    9.54 GHz
+     lambda(    9)=  0.0915   gamma=   80.23 GHz
+     lambda(   10)=  0.0340   gamma=   87.09 GHz
+     lambda(   11)=  0.0307   gamma=  103.21 GHz
+     lambda(   12)=  0.1291   gamma=  436.00 GHz
+     lambda(   13)=  0.1633   gamma= 1127.39 GHz
+     lambda(   14)=  0.1133   gamma=  820.21 GHz
+     lambda(   15)=  0.1268   gamma=  925.06 GHz
+     lambda(   16)=  0.2587   gamma= 1922.87 GHz
+     lambda(   17)=  0.0744   gamma=  571.97 GHz
+     lambda(   18)=  0.0212   gamma=  201.08 GHz
+     lambda(   19)=  0.0379   gamma=  362.29 GHz
+     lambda(   20)=  0.0177   gamma=  172.85 GHz
+     lambda(   21)=  0.0044   gamma=   44.52 GHz
+     lambda(   22)=  0.2121   gamma= 5288.67 GHz
+     lambda(   23)=  0.0337   gamma=  980.80 GHz
+     lambda(   24)=  0.0225   gamma=  670.66 GHz
+     lambda(   25)=  0.0366   gamma= 1256.70 GHz
+     lambda(   26)=  0.0153   gamma=  556.48 GHz
+     lambda(   27)=  0.0269   gamma= 1012.00 GHz
+     lambda(    1)=  0.0190   gamma=    2.38 GHz
+     lambda(    2)=  0.0274   gamma=    4.94 GHz
+     lambda(    3)=  0.0464   gamma=    9.06 GHz
+     lambda(    4)=  0.0065   gamma=    1.77 GHz
+     lambda(    5)=  0.0028   gamma=    0.94 GHz
+     lambda(    6)=  0.0038   gamma=    1.50 GHz
+     lambda(    7)=  0.3706   gamma=  185.61 GHz
+     lambda(    8)=  0.0138   gamma=    7.74 GHz
+     lambda(    9)=  0.0835   gamma=   64.63 GHz
+     lambda(   10)=  0.0338   gamma=   76.39 GHz
+     lambda(   11)=  0.0278   gamma=   82.61 GHz
+     lambda(   12)=  0.1051   gamma=  313.40 GHz
+     lambda(   13)=  0.1420   gamma=  865.65 GHz
+     lambda(   14)=  0.1047   gamma=  669.40 GHz
+     lambda(   15)=  0.1082   gamma=  697.30 GHz
+     lambda(   16)=  0.2202   gamma= 1445.18 GHz
+     lambda(   17)=  0.0674   gamma=  457.76 GHz
+     lambda(   18)=  0.0180   gamma=  150.41 GHz
+     lambda(   19)=  0.0349   gamma=  294.55 GHz
+     lambda(   20)=  0.0156   gamma=  134.65 GHz
+     lambda(   21)=  0.0041   gamma=   37.08 GHz
+     lambda(   22)=  0.1817   gamma= 4001.33 GHz
+     lambda(   23)=  0.0311   gamma=  798.40 GHz
+     lambda(   24)=  0.0206   gamma=  541.63 GHz
+     lambda(   25)=  0.0331   gamma= 1003.05 GHz
+     lambda(   26)=  0.0139   gamma=  447.90 GHz
+     lambda(   27)=  0.0238   gamma=  790.32 GHz
+     lambda(    1)=  0.0177   gamma=    1.99 GHz
+     lambda(    2)=  0.0252   gamma=    4.06 GHz
+     lambda(    3)=  0.0406   gamma=    7.09 GHz
+     lambda(    4)=  0.0059   gamma=    1.43 GHz
+     lambda(    5)=  0.0025   gamma=    0.75 GHz
+     lambda(    6)=  0.0034   gamma=    1.21 GHz
+     lambda(    7)=  0.3263   gamma=  146.25 GHz
+     lambda(    8)=  0.0129   gamma=    6.50 GHz
+     lambda(    9)=  0.0764   gamma=   52.96 GHz
+     lambda(   10)=  0.0330   gamma=   66.80 GHz
+     lambda(   11)=  0.0252   gamma=   66.96 GHz
+     lambda(   12)=  0.0880   gamma=  234.94 GHz
+     lambda(   13)=  0.1259   gamma=  686.98 GHz
+     lambda(   14)=  0.0959   gamma=  548.96 GHz
+     lambda(   15)=  0.0929   gamma=  535.40 GHz
+     lambda(   16)=  0.1910   gamma= 1121.85 GHz
+     lambda(   17)=  0.0628   gamma=  381.47 GHz
+     lambda(   18)=  0.0156   gamma=  116.95 GHz
+     lambda(   19)=  0.0322   gamma=  243.74 GHz
+     lambda(   20)=  0.0138   gamma=  106.89 GHz
+     lambda(   21)=  0.0040   gamma=   31.82 GHz
+     lambda(   22)=  0.1590   gamma= 3132.64 GHz
+     lambda(   23)=  0.0285   gamma=  654.79 GHz
+     lambda(   24)=  0.0191   gamma=  449.13 GHz
+     lambda(   25)=  0.0307   gamma=  831.23 GHz
+     lambda(   26)=  0.0129   gamma=  372.80 GHz
+     lambda(   27)=  0.0211   gamma=  625.28 GHz
+     lambda(    1)=  0.0168   gamma=    1.71 GHz
+     lambda(    2)=  0.0233   gamma=    3.41 GHz
+     lambda(    3)=  0.0361   gamma=    5.72 GHz
+     lambda(    4)=  0.0053   gamma=    1.18 GHz
+     lambda(    5)=  0.0022   gamma=    0.61 GHz
+     lambda(    6)=  0.0031   gamma=    0.99 GHz
+     lambda(    7)=  0.2914   gamma=  118.29 GHz
+     lambda(    8)=  0.0122   gamma=    5.56 GHz
+     lambda(    9)=  0.0707   gamma=   44.37 GHz
+     lambda(   10)=  0.0317   gamma=   58.02 GHz
+     lambda(   11)=  0.0231   gamma=   55.47 GHz
+     lambda(   12)=  0.0752   gamma=  181.69 GHz
+     lambda(   13)=  0.1134   gamma=  560.20 GHz
+     lambda(   14)=  0.0883   gamma=  457.25 GHz
+     lambda(   15)=  0.0804   gamma=  419.81 GHz
+     lambda(   16)=  0.1677   gamma=  892.21 GHz
+     lambda(   17)=  0.0590   gamma=  324.92 GHz
+     lambda(   18)=  0.0138   gamma=   93.60 GHz
+     lambda(   19)=  0.0300   gamma=  205.18 GHz
+     lambda(   20)=  0.0124   gamma=   86.69 GHz
+     lambda(   21)=  0.0038   gamma=   27.70 GHz
+     lambda(   22)=  0.1412   gamma= 2520.41 GHz
+     lambda(   23)=  0.0263   gamma=  546.33 GHz
+     lambda(   24)=  0.0176   gamma=  375.53 GHz
+     lambda(   25)=  0.0288   gamma=  706.87 GHz
+     lambda(   26)=  0.0122   gamma=  317.74 GHz
+     lambda(   27)=  0.0187   gamma=  502.19 GHz
+     lambda(    1)=  0.0160   gamma=    1.49 GHz
+     lambda(    2)=  0.0218   gamma=    2.91 GHz
+     lambda(    3)=  0.0326   gamma=    4.72 GHz
+     lambda(    4)=  0.0049   gamma=    0.99 GHz
+     lambda(    5)=  0.0020   gamma=    0.51 GHz
+     lambda(    6)=  0.0029   gamma=    0.83 GHz
+     lambda(    7)=  0.2636   gamma=   97.86 GHz
+     lambda(    8)=  0.0116   gamma=    4.81 GHz
+     lambda(    9)=  0.0661   gamma=   37.95 GHz
+     lambda(   10)=  0.0302   gamma=   50.58 GHz
+     lambda(   11)=  0.0213   gamma=   46.89 GHz
+     lambda(   12)=  0.0652   gamma=  144.06 GHz
+     lambda(   13)=  0.1035   gamma=  467.57 GHz
+     lambda(   14)=  0.0816   gamma=  386.58 GHz
+     lambda(   15)=  0.0704   gamma=  335.96 GHz
+     lambda(   16)=  0.1490   gamma=  725.10 GHz
+     lambda(   17)=  0.0558   gamma=  280.96 GHz
+     lambda(   18)=  0.0124   gamma=   76.72 GHz
+     lambda(   19)=  0.0281   gamma=  175.62 GHz
+     lambda(   20)=  0.0112   gamma=   71.68 GHz
+     lambda(   21)=  0.0037   gamma=   24.40 GHz
+     lambda(   22)=  0.1271   gamma= 2075.20 GHz
+     lambda(   23)=  0.0243   gamma=  463.06 GHz
+     lambda(   24)=  0.0163   gamma=  317.24 GHz
+     lambda(   25)=  0.0273   gamma=  612.59 GHz
+     lambda(   26)=  0.0115   gamma=  275.25 GHz
+     lambda(   27)=  0.0167   gamma=  410.46 GHz
+     lambda(    1)=  0.0154   gamma=    1.32 GHz
+     lambda(    2)=  0.0205   gamma=    2.52 GHz
+     lambda(    3)=  0.0298   gamma=    3.97 GHz
+     lambda(    4)=  0.0046   gamma=    0.85 GHz
+     lambda(    5)=  0.0018   gamma=    0.43 GHz
+     lambda(    6)=  0.0026   gamma=    0.71 GHz
+     lambda(    7)=  0.2407   gamma=   82.43 GHz
+     lambda(    8)=  0.0110   gamma=    4.21 GHz
+     lambda(    9)=  0.0624   gamma=   33.01 GHz
+     lambda(   10)=  0.0288   gamma=   44.44 GHz
+     lambda(   11)=  0.0199   gamma=   40.45 GHz
+     lambda(   12)=  0.0572   gamma=  116.67 GHz
+     lambda(   13)=  0.0954   gamma=  397.67 GHz
+     lambda(   14)=  0.0759   gamma=  331.63 GHz
+     lambda(   15)=  0.0622   gamma=  274.09 GHz
+     lambda(   16)=  0.1338   gamma=  600.40 GHz
+     lambda(   17)=  0.0529   gamma=  245.56 GHz
+     lambda(   18)=  0.0112   gamma=   64.18 GHz
+     lambda(   19)=  0.0264   gamma=  152.37 GHz
+     lambda(   20)=  0.0102   gamma=   60.33 GHz
+     lambda(   21)=  0.0035   gamma=   21.71 GHz
+     lambda(   22)=  0.1156   gamma= 1740.77 GHz
+     lambda(   23)=  0.0227   gamma=  398.41 GHz
+     lambda(   24)=  0.0151   gamma=  271.02 GHz
+     lambda(   25)=  0.0260   gamma=  538.18 GHz
+     lambda(   26)=  0.0110   gamma=  241.52 GHz
+     lambda(   27)=  0.0151   gamma=  341.50 GHz
+     lambda(    1)=  0.0148   gamma=    1.18 GHz
+     lambda(    2)=  0.0194   gamma=    2.22 GHz
+     lambda(    3)=  0.0274   gamma=    3.40 GHz
+     lambda(    4)=  0.0043   gamma=    0.75 GHz
+     lambda(    5)=  0.0017   gamma=    0.37 GHz
+     lambda(    6)=  0.0025   gamma=    0.62 GHz
+     lambda(    7)=  0.2214   gamma=   70.44 GHz
+     lambda(    8)=  0.0105   gamma=    3.73 GHz
+     lambda(    9)=  0.0593   gamma=   29.17 GHz
+     lambda(   10)=  0.0275   gamma=   39.45 GHz
+     lambda(   11)=  0.0190   gamma=   35.88 GHz
+     lambda(   12)=  0.0509   gamma=   96.35 GHz
+     lambda(   13)=  0.0888   gamma=  343.70 GHz
+     lambda(   14)=  0.0712   gamma=  289.11 GHz
+     lambda(   15)=  0.0557   gamma=  227.90 GHz
+     lambda(   16)=  0.1212   gamma=  505.28 GHz
+     lambda(   17)=  0.0502   gamma=  216.70 GHz
+     lambda(   18)=  0.0103   gamma=   54.71 GHz
+     lambda(   19)=  0.0249   gamma=  133.65 GHz
+     lambda(   20)=  0.0094   gamma=   51.70 GHz
+     lambda(   21)=  0.0034   gamma=   19.53 GHz
+     lambda(   22)=  0.1060   gamma= 1482.22 GHz
+     lambda(   23)=  0.0214   gamma=  348.62 GHz
+     lambda(   24)=  0.0140   gamma=  234.42 GHz
+     lambda(   25)=  0.0248   gamma=  478.22 GHz
+     lambda(   26)=  0.0105   gamma=  215.23 GHz
+     lambda(   27)=  0.0137   gamma=  289.48 GHz
+     lambda(    1)=  0.0142   gamma=    1.06 GHz
+     lambda(    2)=  0.0186   gamma=    2.00 GHz
+     lambda(    3)=  0.0254   gamma=    2.95 GHz
+     lambda(    4)=  0.0041   gamma=    0.67 GHz
+     lambda(    5)=  0.0016   gamma=    0.32 GHz
+     lambda(    6)=  0.0023   gamma=    0.55 GHz
+     lambda(    7)=  0.2045   gamma=   60.93 GHz
+     lambda(    8)=  0.0100   gamma=    3.35 GHz
+     lambda(    9)=  0.0569   gamma=   26.21 GHz
+     lambda(   10)=  0.0264   gamma=   35.51 GHz
+     lambda(   11)=  0.0187   gamma=   33.02 GHz
+     lambda(   12)=  0.0458   gamma=   81.17 GHz
+     lambda(   13)=  0.0832   gamma=  301.58 GHz
+     lambda(   14)=  0.0675   gamma=  256.84 GHz
+     lambda(   15)=  0.0505   gamma=  193.36 GHz
+     lambda(   16)=  0.1106   gamma=  431.56 GHz
+     lambda(   17)=  0.0479   gamma=  193.37 GHz
+     lambda(   18)=  0.0096   gamma=   47.54 GHz
+     lambda(   19)=  0.0236   gamma=  118.35 GHz
+     lambda(   20)=  0.0088   gamma=   45.20 GHz
+     lambda(   21)=  0.0034   gamma=   17.92 GHz
+     lambda(   22)=  0.0976   gamma= 1277.81 GHz
+     lambda(   23)=  0.0204   gamma=  311.25 GHz
+     lambda(   24)=  0.0132   gamma=  205.83 GHz
+     lambda(   25)=  0.0238   gamma=  429.75 GHz
+     lambda(   26)=  0.0102   gamma=  195.96 GHz
+     lambda(   27)=  0.0127   gamma=  250.56 GHz
+     lambda(    1)=  0.0138   gamma=    0.97 GHz
+     lambda(    2)=  0.0181   gamma=    1.83 GHz
+     lambda(    3)=  0.0237   gamma=    2.60 GHz
+     lambda(    4)=  0.0040   gamma=    0.62 GHz
+     lambda(    5)=  0.0015   gamma=    0.28 GHz
+     lambda(    6)=  0.0022   gamma=    0.50 GHz
+     lambda(    7)=  0.1895   gamma=   53.25 GHz
+     lambda(    8)=  0.0097   gamma=    3.06 GHz
+     lambda(    9)=  0.0551   gamma=   23.95 GHz
+     lambda(   10)=  0.0257   gamma=   32.53 GHz
+     lambda(   11)=  0.0191   gamma=   31.72 GHz
+     lambda(   12)=  0.0418   gamma=   69.88 GHz
+     lambda(   13)=  0.0785   gamma=  268.63 GHz
+     lambda(   14)=  0.0649   gamma=  232.99 GHz
+     lambda(   15)=  0.0464   gamma=  167.67 GHz
+     lambda(   16)=  0.1015   gamma=  373.82 GHz
+     lambda(   17)=  0.0459   gamma=  174.85 GHz
+     lambda(   18)=  0.0090   gamma=   42.18 GHz
+     lambda(   19)=  0.0223   gamma=  105.77 GHz
+     lambda(   20)=  0.0084   gamma=   40.42 GHz
+     lambda(   21)=  0.0034   gamma=   16.94 GHz
+     lambda(   22)=  0.0901   gamma= 1113.47 GHz
+     lambda(   23)=  0.0197   gamma=  284.19 GHz
+     lambda(   24)=  0.0125   gamma=  184.02 GHz
+     lambda(   25)=  0.0230   gamma=  390.81 GHz
+     lambda(   26)=  0.0101   gamma=  183.07 GHz
+     lambda(   27)=  0.0119   gamma=  221.90 GHz
+     init_run     :      0.23s CPU      0.27s WALL (       3 calls)
+     electrons    :    114.49s CPU    114.70s WALL (       3 calls)
+     wfcinit      :      0.00s CPU      0.00s WALL (       3 calls)
+     potinit      :      0.08s CPU      0.11s WALL (       3 calls)
+     hinit0       :      0.04s CPU      0.04s WALL (       3 calls)
+     c_bands      :    114.49s CPU    114.69s WALL (       3 calls)
+     v_of_rho     :      0.11s CPU      0.12s WALL (       4 calls)
+     init_us_2    :     44.20s CPU     52.92s WALL (   29645 calls)
+     cegterg      :     96.80s CPU     95.36s WALL (     367 calls)
+     cdiaghg      :      3.81s CPU      4.12s WALL (    5953 calls)
+     h_psi        :   6680.62s CPU   6722.43s WALL (  634380 calls)
+     g_psi        :      1.41s CPU     -0.84s WALL (    5761 calls)
+     h_psi:calbec :    328.20s CPU    321.95s WALL (  634380 calls)
+     vloc_psi     :   6077.66s CPU   6121.88s WALL (  634380 calls)
+     add_vuspsi   :    256.97s CPU    259.75s WALL (  634380 calls)
+     calbec       :    337.39s CPU    327.71s WALL (  646732 calls)
+     fft          :      8.76s CPU      7.28s WALL (   11053 calls)
+     ffts         :      4.94s CPU      5.56s WALL (    6526 calls)
+     fftw         :   6480.29s CPU   6519.32s WALL (16115594 calls)
+     davcio       :     26.48s CPU     32.63s WALL (  145590 calls)
+     PHONON       :      2h48m CPU      2h49m WALL
+     phq_setup    :      0.34s CPU      0.54s WALL (       4 calls)
+     phq_init     :      2.57s CPU      2.84s WALL (       4 calls)
+     phq_init     :      2.57s CPU      2.84s WALL (       4 calls)
+     init_vloc    :      0.08s CPU      0.09s WALL (       4 calls)
+     init_us_1    :      0.00s CPU      0.00s WALL (       4 calls)
+     init_us_2    :     44.20s CPU     52.92s WALL (   29645 calls)
+     dynmat0      :      1.96s CPU      2.14s WALL (       4 calls)
+     dynmat_us    :      1.27s CPU      1.38s WALL (       4 calls)
+     d2ionq       :      0.64s CPU      0.69s WALL (       4 calls)
+     phqscf       :   8988.94s CPU   9059.63s WALL (       4 calls)
+     dynmatrix    :      0.02s CPU      0.04s WALL (       4 calls)
+     phqscf       :   8988.94s CPU   9059.63s WALL (       4 calls)
+     solve_linter :   8970.68s CPU   9043.88s WALL (      74 calls)
+     dfpt_kernel  :   8803.59s CPU   8871.45s WALL (      74 calls)
+     sth_kernel   :   8728.58s CPU   8792.53s WALL (     729 calls)
+     h_prec       :      5.31s CPU      6.45s WALL (   22559 calls)
+     apply_dpot_b :    547.29s CPU    547.11s WALL (   27132 calls)
+     ortho        :     25.51s CPU     25.65s WALL (   27132 calls)
+     cgsolve      :   7085.09s CPU   7128.08s WALL (   27132 calls)
+     incdrhoscf   :    583.26s CPU    583.31s WALL (   27132 calls)
+     vpsifft      :     67.45s CPU     67.34s WALL (    2808 calls)
+     dv_of_drho   :     13.56s CPU     15.00s WALL (     969 calls)
+     mix_pot      :      2.07s CPU      6.67s WALL (     729 calls)
+     ef_shift     :      0.42s CPU     -1.80s WALL (      63 calls)
+     ef_shift_wfc :      0.02s CPU      0.15s WALL (      10 calls)
+     drhodv       :     17.85s CPU     14.71s WALL (      74 calls)
+     psymdvscf    :     48.86s CPU     43.79s WALL (    1458 calls)
+     com_dvloc    :      5.71s CPU      6.56s WALL (    4806 calls)
+     addcore      :      0.01s CPU      0.01s WALL (     108 calls)
+     dvqpsi_us    :     80.11s CPU     85.19s WALL (    2808 calls)
+     dvqpsi_us_on :     10.18s CPU     11.00s WALL (    2808 calls)
+     add_vuspsi   :    256.97s CPU    259.75s WALL (  634380 calls)
+     elphel       :     82.63s CPU     81.83s WALL (      74 calls)
+     elphsum      :    986.28s CPU    986.18s WALL (       4 calls)
+     calbec       :    337.39s CPU    327.71s WALL (  646732 calls)
+     fft          :      8.76s CPU      7.28s WALL (   11053 calls)
+     ffts         :      4.94s CPU      5.56s WALL (    6526 calls)
+     fftw         :   6480.29s CPU   6519.32s WALL (16115594 calls)
+     davcio       :     26.48s CPU     32.63s WALL (  145590 calls)
+     write_rec    :      0.72s CPU      4.63s WALL (     803 calls)
+     ch_psi       :   6930.04s CPU   6964.43s WALL (  628060 calls)
+     last         :    294.96s CPU    289.12s WALL (  628060 calls)
+     Hesh         :     23.27s CPU     22.99s WALL (  628060 calls)
+     ch_psi_all_k :    270.72s CPU    265.22s WALL (  628060 calls)
+     h_psi_bgrp   :   6681.08s CPU   6722.81s WALL (  634380 calls)
+     h_psi        :   6680.62s CPU   6722.43s WALL (  634380 calls)
+     h_psi:pot    :   6664.29s CPU   6704.64s WALL (  634380 calls)
+     h_psi:calbec :    328.20s CPU    321.95s WALL (  634380 calls)
+     s_psi_bgrp   :     28.63s CPU     26.02s WALL ( 1283252 calls)
+     PHONON       :      2h48m CPU      2h49m WALL
+   JOB DONE.
